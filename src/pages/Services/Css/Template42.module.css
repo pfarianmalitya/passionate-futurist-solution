@@ -276,6 +276,141 @@
 
 
 
+/*karina start*/
+
+.dbfghsdf{
+  position:relative;
+}
+.img1{
+ position: absolute;
+    width: 22vw !important;
+    height: auto !important;
+    top: 1%;
+    left: 49.54%;
+    animation: blink 3s  linear infinite;
+}
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
+.img2{
+    position: absolute;
+    width: 24vw !important;
+    height: auto !important;
+    top: 65%;
+    left: 52.5%;
+    animation:slideFadeOut 3s linear infinite;
+}
+@keyframes slideFadeOut {
+  from { opacity: 1; transform: translateY(0); }
+  to { opacity: 0; transform: translateY(-30px); }
+}
+.img3{
+    position: absolute;
+    width: 21vw !important;
+    height: auto !important;
+    top: 58%;
+    left: 3px;
+    animation: slideDiagonal 3s linear infinite;
+}
+@keyframes slideDiagonal {
+  from { transform: translate(-100%, 100%); opacity: 0; }
+  to { transform: translate(0, 0); opacity: 1; }
+}
+
+/*karina end*/
+
+
+/*nisha startt*/
+
+.wasimg1{
+  position: absolute;
+  width: 8.5vw !important;
+  height: 8.5vw !important;
+  top: 18%;
+  left: 4.5%;
+}
+.wasimg2{
+  position: absolute;
+  width: 8.7vw !important;
+  height: 8.7vw !important;
+  bottom: 8%;
+  left: 4.8%;
+}
+.wasimg3{
+  position: absolute;
+  width: 9.5vw !important;
+  height: 7.2vw !important;
+  top: 19%;
+  right: 4%;
+}
+.wasimg4{
+  position: absolute;
+  width: 8.5vw !important;
+  height: 9vw !important;
+  bottom: 8%;
+  right: 5%;
+  z-index: 9;
+}
+.wasimg5{
+  position: absolute;
+  width: 17vw !important;
+  height: 12vw !important;
+  top: 24%;
+  left: 23%;
+}
+
+/*nisha endd*/
+
+
+
+@media only screen and (max-width:2551px){
+  .dgndfgdfgdf{
+    height: auto !important;
+  }
+  .img1{
+    width: 22vw !important;
+  }
+  .img2{
+    width: 24vw !important;
+  }
+  .img3{
+    width: 21vw !important;
+  }
+  .wasimg1{
+    width: 9.5vw !important;
+    height: 9.5vw !important;
+    top: 20% !important;
+  }
+  .wasimg2{
+    width: 9.7vw !important;
+    height: 9.7vw !important;
+    bottom: 10% !important;
+    left: 4.8%;
+  }
+  .wasimg3{
+    width: 10vw !important;
+    height: 8.3vw !important;
+    top: 21.5% !important;
+    right: 2.5% !important;
+  }
+  .wasimg4{
+    width: 9vw !important;
+    height: 9.3vw !important;
+    bottom: 9% !important;
+    right: 4% !important;
+  }
+  .wasimg5{
+    width: 18vw !important;
+    height: 12.5vw !important;
+    top: 28% !important;
+    left: 24.5% !important;
+  }
+}
+
+
+
+
 @media only screen and (max-width:991px)
 {
     .dfgjhfgd
@@ -561,6 +696,53 @@
     }
 }
 
+@media only screen and (max-width:801px){
+  .img1{
+    width: 46vw !important;
+    top: 40% !important;
+    left: 48.54% !important;
+  }
+  .img2{
+    width: 45vw !important;
+    top: 79% !important;
+    left: 53.5% !important;
+  }
+  .img3{
+    width: 44vw !important;
+    top: 70% !important;
+    left: -3px !important;
+  }
+  .wasimg1{
+    width: 18vw !important;
+    height: 18vw !important;
+    top: 20% !important;
+    left: 19% !important;
+  }
+  .wasimg2{
+    width: 18.5vw !important;
+    height: 18.3vw !important;
+    bottom: 13% !important;
+    left: 18.2% !important;
+  }
+  .wasimg3{
+    width: 19vw !important;
+    height: 15.5vw !important;
+    top: 23% !important;
+    right: 18% !important;
+  }
+  .wasimg4{
+    width: 16.9vw !important;
+    height: 17.3vw !important;
+    bottom: 12% !important;
+    right: 18% !important;
+  }
+  .wasimg5{
+    width: 38vw !important;
+    height: 26vw !important;
+    top: 26.5% !important;
+    left: 31.2% !important;
+  }
+}
 
 
 @media only screen and (max-width:600px)
@@ -597,20 +779,91 @@
 }
 
 
+@media only screen and (max-width:600px){
+  .img1{
+    top: 50.5% !important;
+  }
+  .img2{
+    top: 83% !important;
+  }
+  .img3{
+    top: 75% !important;
+    left: -2px !important;
+  }
+  .wasimg1{
+    left: 20.5% !important;
+  }
+  .wasimg2{
+    left: 20% !important;
+  }
+  .wasimg3{
+    right: 19.2% !important;
+  }
+  .wasimg4{
+    bottom: 13.5% !important;
+    right: 19.5% !important;
+  }
+  .wasimg5{
+    left: 32.2% !important;
+  }
+}
 
-@media only screen and (max-width:581px)
+
+
+@media only screen and (max-width:541px)
 {
     .btn126{
         margin-left: 0 !important;
     }
+
+  .img1{
+    top: 55% !important;
+  }
+  .img2{
+    top: 84.5% !important;
+  }
+  .img3{
+    top: 78% !important;
+    left: -3px !important;
+  }
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+
+    .img1{
+    top: 63% !important;
+  }
+  .img2{
+    top: 88% !important;
+  }
+  .img3{
+    top: 82.5% !important;
+  }
+  .wasimg3{
+    right: 18.5% !important;
+  }
+  .wasimg4{
+    bottom: 12.5% !important;
+    right: 18.5% !important;
+  }
+}
+
+@media only screen and (max-width:415px){
+  .img1{
+    top: 63% !important;
+  }
+  .img2{
+    top: 87.5% !important;
+  }
+  .img3{
+    top: 82% !important;
+    left: 0px !important;
+  }
 }
 
 
@@ -628,6 +881,19 @@
     .fhgdfg h2 {
         font-size:35px;
     }
+
+     .img1{
+    top: 66% !important;
+  }
+  .img2{
+    top: 88.9% !important;
+  }
+  .img3{
+    top: 83% !important;
+  }
+  .wasimg4{
+    bottom: 12% !important;
+  }
 
 }
 
@@ -648,90 +914,72 @@
     {
         padding:14px 10px;
     }
+
+    .img1{
+    top: 67.2% !important;
+  }
+  .img2{
+    top: 90% !important;
+  }
+  .img3{
+    top: 84.5% !important;
+  }
+  .wasimg4{
+    bottom: 12% !important;
+    right: 18.2% !important;
+  }
 }
 
-/*karina start*/
-
-.dbfghsdf{
-  position:relative;
+@media only screen and (max-width:361px){
+  .img1{
+    top: 71.5% !important;
+  }
+  .img2{
+    top: 90.9% !important;
+  }
+  .img3{
+    top: 87% !important;
+    left: 1px !important;
+  }
+  .wasimg4{
+    bottom: 12% !important;
+    right: 17.9% !important;
+  }
 }
-.img1{
- position: absolute;
-    width: 22vw !important;
-    height: auto !important;
-    top: 1%;
-    left: 49.54%;
-    animation: blink 3s  linear infinite;
+@media only screen and (max-width:321px){
+  .img1{
+    top: 74.9% !important;
+  }
+  .img2{
+    top: 92% !important;
+  }
+  .img3{
+    top: 88% !important;
+  }
+  .wasimg2{
+    left: 19.5% !important;
+  }
+  .wasimg4{
+    bottom: 11% !important;
+    right: 17.5% !important;
+  }
 }
-@keyframes blink {
-  0%, 50%, 100% { opacity: 1; }
-  25%, 75% { opacity: 0; }
+@media only screen and (max-width:281px){
+  .img1{
+    top: 78.2% !important;
+  }
+  .img2{
+    top: 93.5% !important;
+  }
+  .img3{
+    top: 90% !important;
+    left: 3px !important
+  }
+  .wasimg3{
+    right: 17.5% !important;
+  }
+  .wasimg4{
+    bottom: 10.3% !important;
+    right: 17% !important;
+  }
 }
-.img2{
-    position: absolute;
-    width: 24vw !important;
-    height: auto !important;
-    top: 65%;
-    left: 52.5%;
-    animation:slideFadeOut 3s linear infinite;
-}
-@keyframes slideFadeOut {
-  from { opacity: 1; transform: translateY(0); }
-  to { opacity: 0; transform: translateY(-30px); }
-}
-.img3{
-    position: absolute;
-    width: 21vw !important;
-    height: auto !important;
-    top: 58%;
-    left: 3px;
-    animation: slideDiagonal 3s linear infinite;
-}
-@keyframes slideDiagonal {
-  from { transform: translate(-100%, 100%); opacity: 0; }
-  to { transform: translate(0, 0); opacity: 1; }
-}
-
-/*karina end*/
-
-
-/*nisha startt*/
-
-.wasimg1{
-  position: absolute;
-  width: 8.5vw !important;
-  height: 8.5vw !important;
-  top: 18%;
-  left: 4.5%;
-}
-.wasimg2{
-  position: absolute;
-  width: 8.7vw !important;
-  height: 8.7vw !important;
-  bottom: 8%;
-  left: 4.8%;
-}
-.wasimg3{
-  position: absolute;
-  width: 9.5vw !important;
-  height: 7.2vw !important;
-  top: 19%;
-  right: 4%;
-}
-.wasimg4{
-  position: absolute;
-  width: 8.5vw !important;
-  height: 9vw !important;
-  bottom: 8%;
-  right: 5%;
-  z-index: 9;
-}
-.wasimg5{
-  position: absolute;
-  width: 17vw !important;
-  height: 12vw !important;
-  top: 24%;
-  left: 23%;
-}
-
-/*nisha endd*/

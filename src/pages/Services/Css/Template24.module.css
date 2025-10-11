@@ -364,6 +364,468 @@
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 23rem !important;
+        height: auto;
+        left: 35% !important;
+        bottom: 29% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 10rem !important;
+        height: auto;
+        left: 45% !important;
+        top: 19% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 50% !important;
+        bottom: 16% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 7rem !important;
+        height: auto;
+        left: 6% !important;
+        top: 19% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 7rem !important;
+        height: auto;
+        left: 6% !important;
+        top: 39% !important;
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 7rem !important;
+        height: auto;
+        left: 19% !important;
+        bottom: 20% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 7rem !important;
+        height: auto;
+        right: 6% !important;
+        top: 18% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 7rem !important;
+        height: auto;
+        right: 6% !important;
+        top: 38% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 7rem !important;
+        height: auto;
+        right: 16% !important;
+        bottom: 19% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 32vw !important;
+        top: 87vh !important;
+        right: 62vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 32vw !important;
+        top: 89vh !important;
+        right: 3.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 29vw !important;
+        bottom: -53vh !important;
+        right: 62vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: -51vh !important;
+        right: 4.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 33vh !important;
+        width: 21vw !important;
+        top: 12.5vh !important;
+        right: 12.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 31vh !important;
+        width: 19vw !important;
+        top: 14.5vh !important;
+        left: 14.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 30vh !important;
+        width: 20vw !important;
+        top: 90.5vh !important;
+        right: 37.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 42vh !important;
+        width: 18vw !important;
+        top: 67.5vh !important;
+        left: 66.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 38vh !important;
+        width: 14vw !important;
+        top: 66.5vh !important;
+        right: 17.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 411px !important;
+        width: 8rem !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 225px !important;
+        top: 275px !important;
+        width: 12rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 205px !important;
+        top: 306px !important;
+        width: 11rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 251px !important;
+        top: 243px !important;
+        width: 10rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 192px !important;
+        bottom: 387px !important;
+        width: 10rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 42% !important;
+        bottom: 166px !important;
+        width: 12rem !important;
+    }
+
+    /* Rohit css end */
+
+}
+
+
+@media only screen and (max-width:801px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 20rem !important;
+        height: auto;
+        left: 34% !important;
+        bottom: 30% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 8rem !important;
+        height: auto;
+        left: 45% !important;
+        top: 21% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 51% !important;
+        bottom: 18% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 6rem !important;
+        height: auto;
+        left: 6% !important;
+        top: 20% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 6rem !important;
+        height: auto;
+        left: 6% !important;
+        top: 40% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 5rem !important;
+        height: auto;
+        left: 20% !important;
+        bottom: 20% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 6rem !important;
+        height: auto;
+        right: 6% !important;
+        top: 20% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 6rem !important;
+        height: auto;
+        right: 6% !important;
+        top: 40% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 5rem !important;
+        height: auto;
+        right: 16% !important;
+        bottom: 20% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 32vw !important;
+        top: 79vh !important;
+        right: 64vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 32vw !important;
+        top: 78vh !important;
+        right: 3.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 29vw !important;
+        bottom: -28vh !important;
+        right: 63vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: -24vh !important;
+        right: 4.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 33vh !important;
+        width: 26vw !important;
+        top: -6.5vh !important;
+        right: 11.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 30vh !important;
+        width: 24vw !important;
+        top: -3.5vh !important;
+        left: 10.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 26vh !important;
+        width: 23vw !important;
+        top: 72.5vh !important;
+        right: 34.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 40vh !important;
+        width: 20vw !important;
+        top: 45.5vh !important;
+        left: 67.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 38vh !important;
+        width: 18vw !important;
+        top: 46.5vh !important;
+        LEFT: 10.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 334px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 218px !important;
+        top: 263px !important;
+        width: 10rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 186px !important;
+        top: 219px !important;
+        width: 9rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 243px !important;
+        top: 234px !important;
+        width: 8rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 206px !important;
+        bottom: 345px !important;
+        width: 8rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 40% !important;
+        bottom: 165px !important;
+        width: 11rem !important;
+    }
+
+    /* Rohit css end */
 }
 
 
@@ -399,25 +861,935 @@
     {
         padding:10px;
     }
-}
 
+ 
 
-
-@media only screen and (max-width:581px)
-{
-    .btn126{
-        margin-left: 0 !important;
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 14rem !important;
+        height: auto;
+        left: 34% !important;
+        bottom: 33% !important;
+        animation: blueglow 3s infinite linear;
     }
-}
 
-
-@media only screen and (max-width:538px)
-{
-    .sdcsdfeewwwww ul{
-        display: block;
+    .design {
+        position: absolute;
+        width: 6rem !important;
+        height: auto;
+        left: 43% !important;
+        top: 24% !important;
     }
+
+    .graph {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 49% !important;
+        bottom: 22% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 23% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 41% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 20% !important;
+        bottom: 25% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        right: 6% !important;
+        top: 23% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        right: 6% !important;
+        top: 40% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        right: 15% !important;
+        bottom: 25% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 32vw !important;
+        top: 116vh !important;
+        right: 63vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 32vw !important;
+        top: 115vh !important;
+        right: 3.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 29vw !important;
+        bottom: -76vh !important;
+        right: 64vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: -73vh !important;
+        right: 5.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 32vh !important;
+        width: 23vw !important;
+        top: 3.5vh !important;
+        right: 13.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 31vh !important;
+        width: 22vw !important;
+        top: 3.5vh !important;
+        left: 16.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 25vh !important;
+        width: 20vw !important;
+        top: 80.5vh !important;
+        right: 37.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 38vh !important;
+        width: 18vw !important;
+        top: 49.5vh !important;
+        left: 67.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 36vh !important;
+        width: 15vw !important;
+        top: 49.5vh !important;
+        LEFT: 14.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 252px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 209px !important;
+        top: 239px !important;
+        width: 7rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 181px !important;
+        top: 118px !important;
+        width: 7rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 217px !important;
+        top: 214px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 185px !important;
+        bottom: 303px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 39% !important;
+        bottom: 165px !important;
+        width: 9rem !important;
+    }
+
+    /* Rohit css end */
+
 }
 
+
+@media only screen and (max-width:541px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 12rem !important;
+        height: auto;
+        left: 33% !important;
+        bottom: 36% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 5rem !important;
+        height: auto;
+        left: 42% !important;
+        top: 25% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        left: 48% !important;
+        bottom: 25% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 3.5rem !important;
+        height: auto;
+        left: 9% !important;
+        top: 24% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 3.5rem !important;
+        height: auto;
+        left: 9% !important;
+        top: 41% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 20% !important;
+        bottom: 28% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 3.5REM !important;
+        height: auto;
+        right: 10% !important;
+        top: 23% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 3.5rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 39% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 21% !important;
+        bottom: 29% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 32vw !important;
+        top: 122vh !important;
+        right: 59vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 32vw !important;
+        top: 123vh !important;
+        right: 7.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 29vw !important;
+        bottom: -75vh !important;
+        right: 60vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: -72vh !important;
+        right: 7.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 31vh !important;
+        width: 23vw !important;
+        top: 0.5vh !important;
+        right: 14.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 29vh !important;
+        width: 22vw !important;
+        top: 0.5vh !important;
+        left: 15.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 25vh !important;
+        width: 21vw !important;
+        top: 72.5vh !important;
+        right: 36.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 38vh !important;
+        width: 18vw !important;
+        top: 50.5vh !important;
+        left: 66.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 36vh !important;
+        width: 15vw !important;
+        top: 50.5vh !important;
+        LEFT: 12.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 228px !important;
+        width: 4rem !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 206px !important;
+        top: 230px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 175px !important;
+        top: 92px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 217px !important;
+        top: 214px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 179px !important;
+        bottom: 289px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 39% !important;
+        bottom: 166px !important;
+        width: 8rem !important;
+    }
+
+    /* Rohit css end */
+}
+
+
+@media only screen and (max-width:431px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 10rem !important;
+        height: auto;
+        left: 31% !important;
+        bottom: 34% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 41% !important;
+        top: 27% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 47% !important;
+        bottom: 26% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 25% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 41% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 19% !important;
+        bottom: 30% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 25% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 41% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        right: 21% !important;
+        bottom: 30% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 32vw !important;
+        top: 53vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 32vw !important;
+        top: 53vh !important;
+        right: 5.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 30vw !important;
+        bottom: 30vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: 31vh !important;
+        right: 6.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 10vh !important;
+        width: 23vw !important;
+        top: 0.5vh !important;
+        right: 14.5vw !important;
+
+    }
+
+    .im2 {
+        position: absolute;
+        height: 10vh !important;
+        width: 24vw !important;
+        top: 0.5vh !important;
+        left: 15.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 9vh !important;
+        width: 23vw !important;
+        top: 23.5vh !important;
+        right: 35.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 14vh !important;
+        width: 20vw !important;
+        top: 14.5vh !important;
+        left: 66.5vw !important;
+    }
+
+    .im5 {
+        position: absolute;
+        height: 13vh !important;
+        width: 17vw !important;
+        top: 14.5vh !important;
+        LEFT: 12.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 159px !important;
+        width: 5rem !important;
+        top: 110px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 164px !important;
+        top: 194px !important;
+        width: 7rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 163px !important;
+        top: 37px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 174px !important;
+        top: 161px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 151px !important;
+        bottom: 239px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 36% !important;
+        bottom: 150px !important;
+        width: 8rem !important;
+    }
+
+    /* Rohit css end */
+}
+
+@media only screen and (max-width:415px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 10rem !important;
+        height: auto;
+        left: 31% !important;
+        bottom: 34% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 41% !important;
+        top: 27% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 47% !important;
+        bottom: 26% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 25% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 41% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 19% !important;
+        bottom: 30% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 25% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 41% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        right: 21% !important;
+        bottom: 30% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 32vw !important;
+        top: 54vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 32vw !important;
+        top: 55vh !important;
+        right: 5.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 29vw !important;
+        bottom: 29vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: 30vh !important;
+        right: 6.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 10vh !important;
+        width: 22vw !important;
+        top: 0.5vh !important;
+        right: 14.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 10vh !important;
+        width: 22vw !important;
+        top: 0.5vh !important;
+        left: 15.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 9vh !important;
+        width: 21vw !important;
+        top: 24.5vh !important;
+        right: 36.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 13vh !important;
+        width: 18vw !important;
+        top: 13.5vh !important;
+        left: 67.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 13vh !important;
+        width: 15vw !important;
+        top: 13.5vh !important;
+        LEFT: 12.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 159px !important;
+        width: 5rem !important;
+        top: 110px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 154px !important;
+        top: 188px !important;
+        width: 7rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 163px !important;
+        top: 31px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 174px !important;
+        top: 161px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 152px !important;
+        bottom: 235px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 36% !important;
+        bottom: 150px !important;
+        width: 8rem !important;
+    }
+
+    /* Rohit css end */
+}
 
 @media only screen and (max-width:393px)
 {
@@ -433,6 +1805,237 @@
     .fhgdfg h2 {
         font-size:35px;
     }
+
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 10rem !important;
+        height: auto;
+        left: 31% !important;
+        bottom: 35% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 4rem !important;
+        height: auto;
+        left: 41% !important;
+        top: 27% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 48% !important;
+        bottom: 26% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 9% !important;
+        top: 24% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 9% !important;
+        top: 41% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        left: 22% !important;
+        bottom: 30% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 23% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 10% !important;
+        top: 39% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        right: 20% !important;
+        bottom: 29% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 33vw !important;
+        top: 59vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 33vw !important;
+        top: 59vh !important;
+        right: 4.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 30vw !important;
+        bottom: 23vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 33vw !important;
+        bottom: 24vh !important;
+        right: 5.5vw !important;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 11vh !important;
+        width: 25vw !important;
+        top: 0.5vh !important;
+        right: 12.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 10vh !important;
+        width: 25vw !important;
+        top: 0.5vh !important;
+        left: 15.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 9vh !important;
+        width: 22vw !important;
+        top: 24.5vh !important;
+        right: 36.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 13vh !important;
+        width: 20vw !important;
+        top: 14.5vh !important;
+        left: 68.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 13vh !important;
+        width: 18vw !important;
+        top: 14.5vh !important;
+        LEFT: 11.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 157px !important;
+        width: 4rem !important;
+        top: 141px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 168px !important;
+        top: 194px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 160px !important;
+        top: 18px !important;
+        width: 6rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 182px !important;
+        top: 177px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 165px !important;
+        bottom: 237px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 36% !important;
+        bottom: 151px !important;
+        width: 7rem !important;
+    }
+
+    /* Rohit css end */
+
 
 }
 
@@ -453,6 +2056,945 @@
     {
         padding:14px 10px;
     }
+
+       /* Karina css start */
+    .book {
+        position: absolute;
+        width: 9rem !important;
+        height: auto;
+        left: 32% !important;
+        bottom: 36% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 3.5rem !important;
+        height: auto;
+        left: 43% !important;
+        top: 28% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 48% !important;
+        bottom: 26% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 28% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 44% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        left: 22% !important;
+        bottom: 30% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 28% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 44% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        right: 20% !important;
+        bottom: 29% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 33vw !important;
+        top: 90vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 33vw !important;
+        top: 90vh !important;
+        right: 4.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 30vw !important;
+        bottom: -15vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 33vw !important;
+        bottom: -13vh !important;
+        right: 5.5vw !important;
+    }
+
+    .sdvggsdcsd {
+        padding: 0;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 11vh !important;
+        width: 19vw !important;
+        top: 4.5vh !important;
+        right: 17.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 10vh !important;
+        width: 19vw !important;
+        top: 5.5vh !important;
+        left: 18.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 9vh !important;
+        width: 18vw !important;
+        top: 34.5vh !important;
+        right: 37.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 13vh !important;
+        width: 15vw !important;
+        top: 22.5vh !important;
+        left: 68.5vw !important;
+
+    }
+
+    .im5 {
+        position: absolute;
+        height: 13vh !important;
+        width: 14vw !important;
+        top: 22.5vh !important;
+        LEFT: 11.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 152px !important;
+        width: 3.5rem !important;
+        top: 144px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 170px !important;
+        top: 194px !important;
+        width: 5.5rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 162px !important;
+        top: 14px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 184px !important;
+        top: 180px !important;
+        width: 4.5rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 163px !important;
+        bottom: 236px !important;
+        width: 4.5rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 38% !important;
+        bottom: 152px !important;
+        width: 6rem !important;
+    }
+
+    /* Rohit css end */
+
+}
+
+@media only screen and (max-width:361px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 9rem !important;
+        height: auto;
+        left: 32% !important;
+        bottom: 36% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 3.5rem !important;
+        height: auto;
+        left: 43% !important;
+        top: 28% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 48% !important;
+        bottom: 26% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 28% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 44% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        left: 22% !important;
+        bottom: 30% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 28% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 44% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        right: 20% !important;
+        bottom: 29% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 33vw !important;
+        top: 88vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 33vw !important;
+        top: 88vh !important;
+        right: 4.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 30vw !important;
+        bottom: -10vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 33vw !important;
+        bottom: -9vh !important;
+        right: 5.5vw !important;
+    }
+
+    .sdvggsdcsd {
+        padding: 0;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 12vh !important;
+        width: 23vw !important;
+        top: 3.5vh !important;
+        right: 12.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 12vh !important;
+        width: 23vw !important;
+        top: 3.5vh !important;
+        left: 14.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 11vh !important;
+        width: 23vw !important;
+        top: 32.5vh !important;
+        right: 35.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 15vh !important;
+        width: 19vw !important;
+        top: 21.5vh !important;
+        left: 67.5vw !important;
+    }
+
+    .im5 {
+        position: absolute;
+        height: 15vh !important;
+        width: 17vw !important;
+        top: 21.5vh !important;
+        LEFT: 10.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 145px !important;
+        width: 3.5rem !important;
+        top: 147px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 170px !important;
+        top: 194px !important;
+        width: 5.5rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 167px !important;
+        top: 8px !important;
+        width: 5rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 183px !important;
+        top: 177px !important;
+        width: 4.5rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 163px !important;
+        bottom: 229px !important;
+        width: 4.5rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 37% !important;
+        bottom: 152px !important;
+        width: 6rem !important;
+    }
+
+    /* Rohit css end */
+}
+
+@media only screen and (max-width:321px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 8rem !important;
+        height: auto;
+        left: 31% !important;
+        bottom: 34% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 3rem !important;
+        height: auto;
+        left: 43% !important;
+        top: 29% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 48% !important;
+        bottom: 26% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 30% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 44% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        left: 22% !important;
+        bottom: 30% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 31% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 44% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 2rem !important;
+        height: auto;
+        right: 20% !important;
+        bottom: 29% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 35vw !important;
+        top: 130vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 35vw !important;
+        top: 130vh !important;
+        right: 2.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: -57vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 35vw !important;
+        bottom: -55vh !important;
+        right: 3.5vw !important;
+    }
+
+    .sdvggsdcsd {
+        padding: 0;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 16vh !important;
+        width: 25vw !important;
+        top: 1.5vh !important;
+        right: 11.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 14vh !important;
+        width: 23vw !important;
+        top: 2.5vh !important;
+        left: 14.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 13vh !important;
+        width: 24vw !important;
+        top: 37.5vh !important;
+        right: 35.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 17vh !important;
+        width: 19vw !important;
+        top: 23.5vh !important;
+        left: 67.5vw !important;
+    }
+
+    .im5 {
+        position: absolute;
+        height: 18vh !important;
+        width: 18vw !important;
+        top: 22.5vh !important;
+        LEFT: 10.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 129px !important;
+        width: 3rem !important;
+        top: 138px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 171px !important;
+        top: 191px !important;
+        width: 4.5rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 161px !important;
+        top: -9px !important;
+        width: 4.5rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 174px !important;
+        top: 169px !important;
+        width: 4rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 163px !important;
+        bottom: 225px !important;
+        width: 3.5rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 38% !important;
+        bottom: 153px !important;
+        width: 5rem !important;
+    }
+
+    /* Rohit css end */
+}
+
+@media only screen and (max-width:281px) {
+
+    /* Karina css start */
+    .book {
+        position: absolute;
+        width: 6.5rem !important;
+        height: auto;
+        left: 33% !important;
+        bottom: 38% !important;
+        animation: blueglow 3s infinite linear;
+    }
+
+    .design {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 44% !important;
+        top: 34% !important;
+    }
+
+    .graph {
+        position: absolute;
+        width: 1rem !important;
+        height: auto;
+        left: 48% !important;
+        bottom: 32% !important;
+    }
+
+    .pic1 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 30% !important;
+    }
+
+    .pic2 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        left: 8% !important;
+        top: 44% !important;
+
+    }
+
+    .pic3 {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        left: 23% !important;
+        bottom: 33% !important;
+    }
+
+    .pic4 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 31% !important;
+    }
+
+    .pic5 {
+        position: absolute;
+        width: 2.5rem !important;
+        height: auto;
+        right: 8% !important;
+        top: 44% !important;
+    }
+
+    .pic6 {
+        position: absolute;
+        width: 1.5rem !important;
+        height: auto;
+        right: 21% !important;
+        bottom: 33% !important;
+        animation: bounce 3s infinite linear;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-30px);
+        }
+
+        60% {
+            transform: translateY(-15px);
+
+        }
+    }
+
+    @keyframes blueglow {
+
+        0%,
+        100% {
+            filter: drop-shadow(0 0 0px #1DA1F2);
+        }
+
+        50% {
+            filter: drop-shadow(0 0 20px #1DA1F2);
+        }
+    }
+
+    /* Karina css end */
+
+    /* Nisha css start */
+    .cdsimg1 {
+        position: absolute;
+        width: 35vw !important;
+        top: 134vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg2 {
+        position: absolute;
+        width: 35vw !important;
+        top: 134vh !important;
+        right: 1.5vw !important;
+    }
+
+    .cdsimg3 {
+        position: absolute;
+        width: 32vw !important;
+        bottom: -57vh !important;
+        right: 61vw !important;
+    }
+
+    .cdsimg4 {
+        position: absolute;
+        width: 35vw !important;
+        bottom: -56vh !important;
+        right: 2.5vw !important;
+    }
+
+    .sdvggsdcsd {
+        padding: 0;
+    }
+
+    /* Nisha css end */
+
+    /* Prerana css start */
+    .im1 {
+        position: absolute;
+        height: 16vh !important;
+        width: 29vw !important;
+        top: 0.5vh !important;
+        right: 7.5vw !important;
+    }
+
+    .im2 {
+        position: absolute;
+        height: 15vh !important;
+        width: 28vw !important;
+        top: 0.5vh !important;
+        left: 12.5vw !important;
+    }
+
+    .im3 {
+        position: absolute;
+        height: 13vh !important;
+        width: 27vw !important;
+        top: 33.5vh !important;
+        right: 34.5vw !important;
+    }
+
+    .im4 {
+        position: absolute;
+        height: 19vh !important;
+        width: 22vw !important;
+        top: 20.5vh !important;
+        left: 67.5vw !important;
+    }
+
+    .im5 {
+        position: absolute;
+        height: 19vh !important;
+        width: 21vw !important;
+        top: 19.5vh !important;
+        LEFT: 8.5vw !important;
+    }
+
+    /* Prerana css end */
+
+    /* Rohit css start */
+    .fdnvhjfdv {
+        position: relative;
+        height: auto;
+    }
+
+    .RRIMMGG1 img {
+        left: 114px !important;
+        width: 2.5rem !important;
+        top: 147px !important;
+    }
+
+    .RRIMMGG6 img {
+        left: 168px !important;
+        top: 185px !important;
+        width: 4rem !important;
+    }
+
+    .RRIMMGG5 img {
+        left: 158px !important;
+        top: -27px !important;
+        width: 4rem !important;
+    }
+
+    .RRIMMGG2 img {
+        right: 176px !important;
+        top: 172px !important;
+        width: 3.5rem !important;
+    }
+
+    .RRIMMGG3 img {
+        right: 161px !important;
+        bottom: 217px !important;
+        width: 3rem !important;
+    }
+
+    .RRIMMGG4 img {
+        left: 36% !important;
+        bottom: 153px !important;
+        width: 5rem !important;
+    }
+
+    /* Rohit css end */
 }
 
 

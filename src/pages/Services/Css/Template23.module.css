@@ -346,35 +346,39 @@
         right: 1.8% !important;
         width: 11.8rem !important;
 }
+
+
 }
 @media only screen and (max-width:1367px){
   .ldsimg1 {
-    bottom: 58% !important;
-        right: 14.3% !important;
-        width: 17rem !important;
+          bottom: 32% !important;
+        right: 15.3% !important;
+        width: 16rem !important;
+
 }
 .ldsimg2 {
    right: 18.9% !important;
-        top: 14% !important;
+        top: 22% !important;
         width: 10.2rem !important;
 }
 .ldsimg4 {
-    right: 0% !important;
-        top: 24.8% !important;
+        right: 1% !important;
+        top: 42.8% !important;
         width: 13.3rem !important;
+
 }
 .ldsimg3 {
-   right: 34% !important;
-        top: 24.5% !important;
+     right: 33% !important;
+        top: 41.5% !important;
         width: 12.4rem !important;
 }
 .ldsimg5 {
-    bottom: 54.1% !important;
+        bottom: 23.1% !important;
         right: 36.1% !important;
         width: 12rem !important;
 }
 .ldsimg6 {
-    bottom: 53% !important;
+        bottom: 22% !important;
         right: -0.2% !important;
         width: 11.8rem !important;
 }

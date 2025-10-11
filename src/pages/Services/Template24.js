@@ -144,13 +144,15 @@ export const Template24 = ({ serviceResponse, slug }) => {
             </div>
           </div>
 
-          <div className={`${styles.dbfghsdf} col-lg-6`}>
+       <div className={`${styles.dbfghsdf} col-lg-6`}>
             {serviceResponse.data?.banner_image && (
               <img
                 src={`${serviceResponse.image_url}/Templete_24/${serviceResponse.data.banner_image}`}
+                className={styles.banner_bg}
                 alt=""
               />
             )}
+
 
             {slug === 'catalogue-design-services' && (
               <div className={styles.cdsimgs}>

@@ -544,6 +544,176 @@
     animation: star 3s linear 5s both infinite;
 }
 
+
+/*nisha startt*/
+
+.pdspic1{
+    position: absolute;
+    width: 8vw !important;
+    top: 2.5%;
+    left:13%;
+    animation: rotatep 4s;
+}
+.pdspic2{
+    position: absolute;
+    width: 8vw !important;
+    top: 34%;
+    left: 3%; 
+    animation: zoomin 4s;             ;
+}
+.pdspic3{
+    position: absolute;
+    width: 8vw !important;
+    bottom: 2%;
+    left: 13%;
+    animation: rotatep 4s;
+}
+.pdspic4{
+    position: absolute;
+    width: 8vw !important;
+    top: 2.5%;
+    right:12%;
+    animation: rotaten 4s;
+}
+.pdspic5{
+    position: absolute;
+    width: 8vw !important;
+    top: 34%;
+    right: 2.5%;
+    animation: zoomin 4s;
+}
+.pdspic6{
+    position: absolute;
+    width: 8vw !important;
+    bottom: 2%;
+    right: 12%;
+    animation: rotaten 4s;
+}
+@keyframes rotatep {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes rotaten {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+@keyframes zoomin{
+    0%{
+        transform: scale(0.3);
+        opacity: 0;
+    }
+    100%{
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/*nisha endd*/
+
+
+/* Prerana css start */
+.desonjfreuiwnr{
+    position: relative;
+}
+.a1{
+    position: absolute;
+    height: 13vw !important;
+    width: 12vw !important;
+    top: 3%;
+    left: 14%;
+}
+.a2{
+    position: absolute;
+    height: 11vw !important;
+    width: 13vw !important;
+    top: 8%;
+    left: 36%;
+}
+.a3{
+    position: absolute;
+    height: 13.6vw !important;
+    width: 11vw !important;
+    top: 3%;
+    right: 12%;
+}
+.a4{
+    position: absolute;
+    height: 8.5vw !important;
+    width: 10vw !important;
+    bottom: 15%;
+    right: 12%;
+}
+.a5{
+    position: absolute;
+    height: 10vw !important;
+    width: 10vw !important;
+    bottom: 8%;
+    left: 38%;
+}
+.a6{
+    position: absolute;
+    height: 8vw !important;
+    width: 10.5vw !important;
+    bottom: 15%;
+    left: 18%;
+}
+
+/* Prerana css end */
+
+/*  Nisha css start  */
+
+.ppspic1{
+    position: absolute;
+    width: 9rem !important;
+    top: 1.2%;
+    left: 34.5%;
+}
+.ppspic2{
+    position: absolute;
+    width: 6rem !important;
+    top: 15%;
+    left: 8%;
+}
+.ppspic3{
+    position: absolute;
+    width: 5.5rem !important;
+    top: 39%;
+    left: 1.5%;
+}
+.ppspic4{
+    position: absolute;
+    width: 6rem !important;
+    bottom: 22%;
+    left: 3.5%;
+}
+.ppspic5{
+    position: absolute;
+    width: 5.5rem !important;
+    top: 14.5%;
+    right: 10%;
+}
+.ppspic6{
+    position: absolute;
+    width: 6rem !important;
+    top: 39%;
+    right: 2%;
+}
+.ppspic7{
+    position: absolute;
+    width: 5.5rem !important;
+    bottom: 18%;
+    right: 6.5%;
+}
+
+
+/* Nisha css end */ 
+
+
+
+
+
+
+
 @media only screen and (max-width:991px)
 {
     .dfgjhfgd
@@ -827,6 +997,262 @@
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+
+    .a1 {
+        width: 19vw !important;
+        height: 19vw !important;
+    }
+
+    .a2 {
+        width: 24vw !important;
+        height: 19vw !important;
+    }
+
+    .a3 {
+        width: 19vw !important;
+        height: 19vw !important;
+    }
+
+    .a4 {
+        width: 19vw !important;
+        height: 14vw !important;
+    }
+
+    .a6 {
+        width: 19vw !important;
+        height: 14vw !important;
+    }
+
+    .a5 {
+        width: 19vw !important;
+        height: 19vw !important;
+    }
+
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 37vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 17vw !important;
+        left: 10vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 66vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 40vw !important;
+        left: 1vw !important;
+    }
+
+    .ppspic6 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 39vw !important;
+        left: 80vw !important;
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 65vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 12vw !important;
+        top: 63vw !important;
+        left: 68vw !important;
+
+    }
+
+    .pdspic1 {
+        position: absolute;
+        width: 8vw !important;
+        top: 2.5% !important;
+        left: 13% !important;
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 8vw !important;
+        top: 57% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 8vw !important;
+        bottom: 2% !important;
+        left: 13% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 8vw !important;
+        top: 2.5% !important;
+        right: 12% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 8vw !important;
+        top: 55% !important;
+        right: 4.5% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 8vw !important;
+        bottom: 2% !important;
+        right: 12% !important;
+    }
+}
+
+@media only screen and (max-width:801px) {
+    .dbfghsdf img {
+        margin-top: 0rem !important;
+    }
+
+    .sdfsdfsdf h2 {
+        margin-top: 2rem ! important;
+    }
+
+    .a1 {
+        width: 19vw !important;
+        height: 19vw !important;
+    }
+
+    .a2 {
+        width: 24vw !important;
+        height: 19vw !important;
+    }
+
+    .a3 {
+        width: 19vw !important;
+        height: 19vw !important;
+    }
+
+    .a4 {
+        width: 19vw !important;
+        height: 14vw !important;
+    }
+
+    .a6 {
+        width: 19vw !important;
+        height: 14vw !important;
+    }
+
+    .a5 {
+        width: 19vw !important;
+        height: 19vw !important;
+    }
+
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 36vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 11vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 64vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 39vw !important;
+        left: 1vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 39vw !important;
+        left: 77vw !important;
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 63vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 14vw !important;
+        top: 62vw !important;
+        left: 64vw !important;
+
+    }
+
+    .pdspic1 {
+        position: absolute;
+        width: 13vw !important;
+        top: 23.5% !important;
+        left: 10% !important;
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 12vw !important;
+        top: 52% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 0% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 12vw !important;
+        top: 23.5% !important;
+        right: 10% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 12vw !important;
+        top: 52% !important;
+        right: 4.5% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 0% !important;
+        right: 12% !important;
+
+    }
+
 }
 
 
@@ -862,23 +1288,352 @@
     {
         padding:10px;
     }
-}
+
+        .pdspic1 {
+        position: absolute;
+        width: 13vw !important;
+        top: 30.5% !important;
+        left: 10% !important;
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 12vw !important;
+        top: 56% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 3% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 12vw !important;
+        top: 30.5% !important;
+        right: 10% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 12vw !important;
+        top: 56% !important;
+        right: 4.5% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 3% !important;
+        right: 12% !important;
+
+    }
+
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 35vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 11vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 64vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 1vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 74vw !important;
+
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 61vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 14vw !important;
+        top: 59vw !important;
+        left: 62vw !important;
 
 
-
-@media only screen and (max-width:581px)
-{
-    .btn126{
-        margin-left: 0 !important;
     }
 }
 
 
-@media only screen and (max-width:538px)
+
+@media only screen and (max-width:541px) {
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 34vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 11vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 64vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 1vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 73vw !important;
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 59vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 14vw !important;
+        top: 57vw !important;
+        left: 62vw !important;
+    }
+}
+
+
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+
+    .pdspic1 {
+        position: absolute;
+        width: 14vw !important;
+        top: 56.5% !important;
+        left: 15% !important;
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 13vw !important;
+        top: 71% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 14vw !important;
+        bottom: 3% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 13vw !important;
+        top: 56.5% !important;
+        right: 10% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 14vw !important;
+        top: 71% !important;
+        left: 81% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 3% !important;
+        right: 12% !important;
+
+    }
+
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 32vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 11vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 62vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 2vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 67vw !important;
+
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 55vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 14vw !important;
+        top: 53vw !important;
+        left: 59vw !important;
+    }
+}
+
+@media only screen and (max-width:415px) {
+
+     .pdspic1 {
+        position: absolute;
+        width: 14vw !important;
+        top: 58.5% !important;
+        left: 16% !important;
+
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 13vw !important;
+        top: 71% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 14vw !important;
+        bottom: 3% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 13vw !important;
+        top: 58.5% !important;
+        right: 12% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 14vw !important;
+        top: 71% !important;
+        left: 81% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 3% !important;
+        right: 12% !important;
+
+    }
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 32vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 11vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 62vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 2vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 67vw !important;
+
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 55vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 14vw !important;
+        top: 53vw !important;
+        left: 59vw !important;
+    }
+
 }
 
 
@@ -895,6 +1650,50 @@
     }
     .fhgdfg h2 {
         font-size:35px;
+    }
+
+      .pdspic1 {
+        position: absolute;
+        width: 14vw !important;
+        top: 60.5% !important;
+        left: 16% !important;
+
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 13vw !important;
+        top: 73% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 14vw !important;
+        bottom: 3% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 13vw !important;
+        top: 60.5% !important;
+        right: 12% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 14vw !important;
+        top: 73% !important;
+        left: 81% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 3% !important;
+        right: 12% !important;
+
     }
 
 }
@@ -916,169 +1715,237 @@
     {
         padding:14px 10px;
     }
-}
 
-
-
-/*nisha startt*/
-
-.pdspic1{
-    position: absolute;
-    width: 8vw !important;
-    top: 2.5%;
-    left:13%;
-    animation: rotatep 4s;
-}
-.pdspic2{
-    position: absolute;
-    width: 8vw !important;
-    top: 34%;
-    left: 3%; 
-    animation: zoomin 4s;             ;
-}
-.pdspic3{
-    position: absolute;
-    width: 8vw !important;
-    bottom: 2%;
-    left: 13%;
-    animation: rotatep 4s;
-}
-.pdspic4{
-    position: absolute;
-    width: 8vw !important;
-    top: 2.5%;
-    right:12%;
-    animation: rotaten 4s;
-}
-.pdspic5{
-    position: absolute;
-    width: 8vw !important;
-    top: 34%;
-    right: 2.5%;
-    animation: zoomin 4s;
-}
-.pdspic6{
-    position: absolute;
-    width: 8vw !important;
-    bottom: 2%;
-    right: 12%;
-    animation: rotaten 4s;
-}
-@keyframes rotatep {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-@keyframes rotaten {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(-360deg); }
-}
-@keyframes zoomin{
-    0%{
-        transform: scale(0.3);
-        opacity: 0;
+        h2 {
+        font-size: 30px !important;
     }
-    100%{
-        transform: scale(1);
-        opacity: 1;
+
+    .btn125 {
+        padding: 14px 10px;
+    }
+
+    .btn126 {
+        padding: 14px 10px;
+    }
+
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 31vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 11vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 61vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 2vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 36vw !important;
+        left: 64vw !important;
+
+    }
+
+    .ppspic4 {
+        width: 19vw !important;
+        height: 10vw !important;
+        top: 54vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        width: 14vw !important;
+        height: 14vw !important;
+        top: 53vw !important;
+        left: 55vw !important;
+    }
+
+}
+
+
+@media only screen and (max-width:361px) {
+
+    .pdspic1 {
+        position: absolute;
+        width: 14vw !important;
+        top: 65.5% !important;
+        left: 10% !important;
+    }
+
+    .pdspic2 {
+        position: absolute;
+        width: 13vw !important;
+        top: 78% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        width: 14vw !important;
+        bottom: 2% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        width: 13vw !important;
+        top: 65.5% !important;
+        right: 10% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        width: 14vw !important;
+        top: 78% !important;
+        left: 81% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        width: 12vw !important;
+        bottom: 2% !important;
+        right: 12% !important;
+
+    }
+
+    .ppspic1 {
+        width: 19vw !important;
+        height: 9vw !important;
+        top: 2vw !important;
+        left: 31vw !important;
+    }
+
+    .ppspic2 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 15vw !important;
+        left: 7vw !important;
+    }
+
+    .ppspic5 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 14vw !important;
+        left: 60vw !important;
+    }
+
+    .ppspic3 {
+        width: 12vw !important;
+        height: 13vw !important;
+        top: 34vw !important;
+        left: 3vw !important;
+    }
+
+    .ppspic6 {
+        width: 13vw !important;
+        height: 13vw !important;
+        top: 35vw !important;
+        left: 64vw !important;
+
+    }
+
+    .ppspic4 {
+        top: 53vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        top: 52vw !important;
+        left: 56vw !important;
+    }
+}
+@media only screen and (max-width:321px) {
+
+    .pdspic1 {
+        top: 63.5% !important;
+        left: 10% !important;
+    }
+
+    .pdspic2 {
+        position: absolute;
+        top: 76% !important;
+        left: 6% !important;
+    }
+
+    .pdspic3 {
+        position: absolute;
+        bottom: 2% !important;
+        left: 12% !important;
+    }
+
+    .pdspic4 {
+        position: absolute;
+        top: 63.5% !important;
+        right: 10% !important;
+    }
+
+    .pdspic5 {
+        position: absolute;
+        top: 76% !important;
+        left: 81% !important;
+    }
+
+    .pdspic6 {
+        position: absolute;
+        bottom: 2% !important;
+        right: 12% !important;
+
+    }
+
+    .ppspic1 {
+        top: 2vw !important;
+        left: 30vw !important;
+    }
+
+    .ppspic2 {
+        top: 15vw !important;
+        left: 7vw !important;
+    }
+
+    .ppspic5 {
+        top: 14vw !important;
+        left: 58vw !important;
+    }
+
+    .ppspic3 {
+        top: 34vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic6 {
+        top: 33vw !important;
+        left: 61vw !important;
+
+    }
+
+    .ppspic4 {
+        top: 50vw !important;
+        left: 5vw !important;
+    }
+
+    .ppspic7 {
+        top: 49vw !important;
+        left: 54vw !important;
+
     }
 }
 
-/*nisha endd*/
 
-
-/* Prerana css start */
-.desonjfreuiwnr{
-    position: relative;
-}
-.a1{
-    position: absolute;
-    height: 13vw !important;
-    width: 12vw !important;
-    top: 3%;
-    left: 14%;
-}
-.a2{
-    position: absolute;
-    height: 11vw !important;
-    width: 13vw !important;
-    top: 8%;
-    left: 36%;
-}
-.a3{
-    position: absolute;
-    height: 13.6vw !important;
-    width: 11vw !important;
-    top: 3%;
-    right: 12%;
-}
-.a4{
-    position: absolute;
-    height: 8.5vw !important;
-    width: 10vw !important;
-    bottom: 15%;
-    right: 12%;
-}
-.a5{
-    position: absolute;
-    height: 10vw !important;
-    width: 10vw !important;
-    bottom: 8%;
-    left: 38%;
-}
-.a6{
-    position: absolute;
-    height: 8vw !important;
-    width: 10.5vw !important;
-    bottom: 15%;
-    left: 18%;
-}
-
-/* Prerana css end */
-
-/*  Nisha css start  */
-
-.ppspic1{
-    position: absolute;
-    width: 9rem !important;
-    top: 1.2%;
-    left: 34.5%;
-}
-.ppspic2{
-    position: absolute;
-    width: 6rem !important;
-    top: 15%;
-    left: 8%;
-}
-.ppspic3{
-    position: absolute;
-    width: 5.5rem !important;
-    top: 39%;
-    left: 1.5%;
-}
-.ppspic4{
-    position: absolute;
-    width: 6rem !important;
-    bottom: 22%;
-    left: 3.5%;
-}
-.ppspic5{
-    position: absolute;
-    width: 5.5rem !important;
-    top: 14.5%;
-    right: 10%;
-}
-.ppspic6{
-    position: absolute;
-    width: 6rem !important;
-    top: 39%;
-    right: 2%;
-}
-.ppspic7{
-    position: absolute;
-    width: 5.5rem !important;
-    bottom: 18%;
-    right: 6.5%;
-}
-
-
-/* Nisha css end */ 

@@ -122,7 +122,7 @@ export const Template6 = ({ serviceResponse, slug }) => {
                             <div className={styles.duiwenihrwer}>
                                 <img src="./images/fsrgtw.png" className="position-absolute" data-aos="fade-down" alt="" />
 
-                                <img src="./images/fsrgtw2.png" className="position-absolute" alt="" />
+                                {/* <img src="./images/fsrgtw2.png" className="position-absolute" alt="" /> */}
 
                                 <img src="./images/fsrgtw3.png" className="position-absolute" alt="" />
                             </div>

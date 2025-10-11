@@ -366,6 +366,15 @@
     }
 }
 
+@media only screen and (max-width: 800px) {
+    .texttt555 img {
+      width: 492px !important;
+        height: 467px;
+        margin-top: -473px;
+        margin-left: 280px;
+    }
+}
+
 
 
 @media only screen and (max-width:600px)
@@ -444,6 +453,17 @@
         margin-top: -442px;
         margin-left: 210px;
         }
+
+          .texttt555 img {
+       width: 418px !important;
+        height: 430px;
+        margin-top: -442px;
+        margin-left: 210px;
+        }
+        .dbfghsdf img {
+            width: 99% !important;
+            height: 75% !important;
+         }
     }
 
 

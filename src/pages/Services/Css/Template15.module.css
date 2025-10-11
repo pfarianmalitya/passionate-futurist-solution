@@ -1218,6 +1218,39 @@
   }
 }
 
+@media only screen and (max-width:361px) {
+  .pikachu2 {
+    top: 135vw !important;
+    left: 21vw !important;
+  }
+
+  .pikachu1 {
+    top: 122vw !important;
+    left: 36vw !important;
+    width: 11vw !important;
+  }
+
+  .facebook {
+    top: -67vw !important;
+    left: -50vw !important;
+  }
+
+  .pikachu8 {
+    top: 156px !important;
+    left: 96vw !important;
+  }
+
+  .pikachu9 {
+    top: 128px !important;
+    left: 96vw !important;
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+    left: 96vw !important;
+  }
+}
+
 @media only screen and (max-width:320px) {
 
   .pikachu2 {
