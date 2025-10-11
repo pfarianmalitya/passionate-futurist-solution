@@ -75,6 +75,16 @@ button {
 }
 
 
+@media only screen and (max-width:430px) 
+{
+  .sdfghdfgdf 
+  {
+    margin-top: 9rem;
+  }
+}
+
+
+
 @media only screen and (max-width:430px)
 {
        .btn125
