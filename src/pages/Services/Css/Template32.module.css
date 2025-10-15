@@ -920,3 +920,575 @@
 }
 /* Karina css end */
 
+
+
+@media only screen and (max-width:2551px) {
+  .ones .on1 {
+    width: 11vw;
+    right: 3vw;
+    bottom: 3vw;
+  }
+
+  .ones .on2 {
+    position: absolute;
+    width: 8.5vw;
+    bottom: 4.5vw;
+    left: 2vw;
+
+  }
+
+  .ones .on3 {
+    position: absolute;
+    width: 13vw;
+    bottom: 15vw;
+    right: 0vw;
+  }
+
+  .ones .on4 {
+    position: absolute;
+    width: 13vw;
+    bottom: 20vw;
+    left: 4vw;
+  }
+
+  .picture2 {
+    position: absolute;
+    width: 3vw;
+    height: 3vw;
+    right: 3vw;
+    top: 4vw;
+  }
+
+  .picture1 {
+    width: 6vw;
+    height: 7vw;
+    left: 2vw;
+    top: 2vw;
+  }
+
+  .picture3 {
+    position: absolute;
+    width: 7vw;
+    height: 6vw;
+    left: 22vw;
+    top: 22vw;
+  }
+
+  .picture4 {
+    position: absolute;
+    width: 2vw;
+    height: 2vw;
+    left: 4vw;
+    bottom: 14vw;
+  }
+
+  .picture5 {
+    position: absolute;
+    width: 5vw;
+    height: 5vw;
+    left: 2vw;
+    bottom: 10vw;
+  }
+
+  .picture6 {
+    position: absolute;
+    width: 8vw;
+    height: 7vw;
+    left: 2vw;
+    bottom: 1vw;
+  }
+
+  .sales1 {
+    position: absolute;
+    width: 9rem !important;
+    height: 5rem !important;
+    left: 0%;
+    top: 26%;
+  }
+
+  .sales2 {
+    position: absolute;
+    width: 11rem !important;
+    height: 5rem !important;
+    right: 2%;
+    bottom: 62%;
+  }
+
+  .sales3 {
+    position: absolute;
+    width: 5vw !important;
+    height: 3vw !important;
+    right: 2vw;
+    top: 8vw;
+  }
+
+  .sales4 {
+    position: absolute;
+    width: 8vw !important;
+    height: 5rem !important;
+    right: 4%;
+    top: 74%;
+  }
+
+  .sales5 {
+    position: absolute;
+    width: 10rem !important;
+    height: 7rem !important;
+    left: 3%;
+    top: 65%;
+  }
+}
+
+@media only screen and (max-width:1601px) {
+
+  .sales2 {
+    position: absolute;
+    width: 10rem !important;
+    height: 5rem !important;
+    right: -1%;
+    bottom: 61%;
+  }
+
+  .sales3 {
+    position: absolute;
+    width: 6vw !important;
+    height: 4vw !important;
+    right: 2vw;
+    top: 9vw;
+  }
+}
+
+@media only screen and (max-width:1367px) {
+  .ones .on1 {
+    width: 10vw;
+    right: 4vw;
+    bottom: 6vw;
+  }
+
+  .ones .on2 {
+    width: 7.5vw;
+    bottom: 7.5vw;
+    left: 2vw;
+  }
+
+  .ones .on3 {
+    width: 11vw;
+    bottom: 19vw;
+    right: 1vw;
+  }
+
+  .ones .on4 {
+    width: 12vw;
+    bottom: 22vw;
+  }
+
+  .sales1 {
+    width: 8rem !important;
+    height: 4rem !important;
+    left: 0%;
+    top: 28%;
+  }
+
+  .sales2 {
+    position: absolute;
+    width: 8rem !important;
+    height: 4rem !important;
+    right: 0%;
+    bottom: 63%;
+
+  }
+
+  .sales3 {
+    position: absolute;
+    width: 5vw !important;
+    height: 3vw !important;
+    right: 1vw;
+    top: 12vw;
+  }
+
+  .sales4 {
+    position: absolute;
+    width: 8vw !important;
+    height: 5rem !important;
+    right: 4%;
+    top: 74%;
+  }
+
+  .sales5 {
+    position: absolute;
+    width: 9rem !important;
+    height: 6rem !important;
+    left: 3%;
+    top: 67%;
+  }
+}
+
+@media only screen and (max-width:801px) {
+  .ones .on1 {
+    width: 18vw;
+    right: 9vw;
+    bottom: 8vw;
+  }
+
+  .ones .on2 {
+    width: 11.5vw;
+    bottom: 14.5vw;
+    left: 7vw;
+  }
+
+  .ones .on3 {
+    width: 20vw;
+    bottom: 33vw;
+    right: 4vw;
+  }
+
+  .ones .on4 {
+    width: 18vw !important;
+    bottom: 41vw !important;
+    left: 14vw;
+  }
+
+  .picture2 {
+    position: absolute;
+    width: 7vw !important;
+    height: 5vw !important;
+    right: 11vw;
+    top: 13vw;
+  }
+
+  .picture1 {
+    width: 11vw !important;
+    height: 11vw !important;
+    left: 16vw;
+    top: 13vw;
+  }
+
+  .picture3 {
+    width: 12vw !important;
+    height: 13vw !important;
+    left: 74vw;
+    top: 69vw;
+  }
+
+  .picture4 {
+    width: 4vw !important;
+    height: 4vw !important;
+    left: 20vw;
+    bottom: 37vw;
+  }
+
+  .picture5 {
+    width: 10vw !important;
+    height: 9vw !important;
+    left: 16vw;
+    bottom: 29vw;
+  }
+
+  .picture6 {
+    width: 15vw !important;
+    height: 13vw !important;
+    left: 14vw;
+    bottom: 12vw;
+  }
+
+  .sales1 {
+    width: 8rem !important;
+    height: 4rem !important;
+    left: 0%;
+    top: 28%;
+  }
+
+  .sales2 {
+    position: absolute;
+    width: 8rem !important;
+    height: 4rem !important;
+    right: 6%;
+    bottom: 63%;
+
+  }
+
+  .sales3 {
+    position: absolute;
+    width: 10vw !important;
+    height: 5vw !important;
+    right: 8vw;
+    top: 20vw
+  }
+
+  .sales4 {
+    position: absolute;
+    width: 16vw !important;
+    height: 4rem !important;
+    right: 8%;
+    top: 76%;
+  }
+
+  .sales5 {
+    position: absolute;
+    width: 9rem !important;
+    height: 6rem !important;
+    left: 3%;
+    top: 67%;
+  }
+}
+
+@media only screen and (max-width:601px) {
+  .sales1 {
+    width: 8rem !important;
+    height: 4rem !important;
+    left: 0%;
+    top: 28%;
+  }
+
+  .sales2 {
+    position: absolute;
+    width: 8rem !important;
+    height: 4rem !important;
+    right: 4%;
+    bottom: 63%;
+
+  }
+
+  .sales3 {
+    position: absolute;
+    width: 10vw !important;
+    height: 5vw !important;
+    right: 7vw;
+    top: 27vw;
+  }
+
+  .sales4 {
+    position: absolute;
+    width: 16vw !important;
+    height: 4rem !important;
+    right: 8%;
+    top: 76%;
+  }
+
+  .sales5 {
+    position: absolute;
+    width: 9rem !important;
+    height: 6rem !important;
+    left: 3%;
+    top: 67%;
+  }
+}
+
+@media only screen and (max-width:541px) {
+  .picture6 {
+    width: 15vw !important;
+    height: 15vw !important;
+    left: 14vw;
+    bottom: 9vw;
+  }
+
+  .picture1 {
+    width: 13vw !important;
+    height: 14vw !important;
+    left: 16vw;
+    top: 12vw;
+  }
+
+  .sales1 {
+    width: 8rem !important;
+    height: 3rem !important;
+    left: 0%;
+    top: 28%;
+  }
+
+  .sales2 {
+    position: absolute;
+    width: 8rem !important;
+    height: 4rem !important;
+    right: 2%;
+    bottom: 63%;
+
+  }
+
+  .sales3 {
+    position: absolute;
+    width: 11vw !important;
+    height: 8vw !important;
+    right: 7vw;
+    top: 29vw;
+  }
+
+  .sales4 {
+    position: absolute;
+    width: 16vw !important;
+    height: 4rem !important;
+    right: 8%;
+    top: 76%;
+  }
+
+  .sales5 {
+    position: absolute;
+    width: 9rem !important;
+    height: 5rem !important;
+    left: 3%;
+    top: 67%;
+  }
+}
+
+@media only screen and (max-width:431px) {
+  .picture6 {
+    width: 15vw !important;
+    height: 15vw !important;
+    left: 11vw;
+    bottom: 9vw;
+  }
+
+  .picture1 {
+    width: 13vw !important;
+    height: 14vw !important;
+    left: 13vw;
+    top: 12vw;
+  }
+  .picture5 {
+        width: 10vw !important;
+        height: 9vw !important;
+        left: 12vw;
+        bottom: 29vw;
+    }
+        .picture4{
+        width: 4vw !important;
+        height: 4vw !important;
+        left: 16vw;
+        bottom: 37vw;
+    }
+  .sales1 {
+    width: 8rem !important;
+    height: 3rem !important;
+    left: 0%;
+    top: 28%;
+  }
+
+  .sales2 {
+    position: absolute;
+    width: 6rem !important;
+    height: 4rem !important;
+    right: 2%;
+    bottom: 64%;
+
+  }
+
+  .sales3 {
+    width: 13vw !important;
+    height: 9vw !important;
+    right: 5vw;
+    top: 38vw;
+  }
+
+  .sales4 {
+    position: absolute;
+    width: 18vw !important;
+    height: 4rem !important;
+    right: 6%;
+    top: 76%;
+  }
+
+  .sales5 {
+    position: absolute;
+    width: 9rem !important;
+    height: 5rem !important;
+    left: 3%;
+    top: 67%;
+  }
+}
+@media only screen and (max-width:394px){
+.sales1 {
+    width: 6rem !important;
+    height: 2rem !important;
+    left: 0%;
+    top: 28%;
+  }
+
+  .sales2 {
+    width: 6rem !important;
+        height: 3rem !important;
+        right: 0%;
+        bottom: 66%;
+
+  }
+
+  .sales3 {
+    width: 13vw !important;
+    height: 9vw !important;
+    right: 5vw;
+    top: 41vw;
+  }
+
+  .sales4 {
+    width: 19vw !important;
+        height: 3rem !important;
+        right: 4%;
+        top: 78%;
+  }
+
+  .sales5 {
+    width: 7rem !important;
+        height: 4rem !important;
+        left: 3%;
+        top: 68%;
+  }
+}
+@media only screen and (max-width:361px){
+   .sales4 {
+    width: 19vw !important;
+        height: 3rem !important;
+        right: 4%;
+        top: 79%;
+  }
+  .sales3 {
+        width: 13vw !important;
+        height: 9vw !important;
+        right: 5vw;
+        top: 45vw;
+    }
+}
+@media only screen and (max-width:321px){
+   .sales4 {
+    width: 19vw !important;
+        height: 3rem !important;
+        right: 4%;
+        top: 79%;
+  }
+  .sales3 {
+        width: 13vw !important;
+        height: 9vw !important;
+        right: 5vw;
+        top: 52vw;
+    }
+        .sales2 {
+        width: 5rem !important;
+        height: 3rem !important;
+        right: -1%;
+        bottom: 66%;
+    }
+}
+@media only screen and (max-width:281px){
+   .sales4 {
+    width: 22vw !important;
+        height: 3rem !important;
+        right: 2%;
+        top: 79%;
+  }
+  .sales3 {
+        width: 13vw !important;
+        height: 9vw !important;
+        right: 5vw;
+        top: 59vw;
+    }
+        .sales2 {
+        width: 4.5rem !important;
+        height: 3rem !important;
+        right: -1%;
+        bottom: 66%;
+    }
+    .sales1 {
+        width: 5rem !important;
+        height: 2rem !important;
+        left: 0%;
+        top: 28%;
+    }
+}

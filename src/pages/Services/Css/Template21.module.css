@@ -1000,3 +1000,573 @@
   50% { transform: translateY(-10px); }
 }
 /* Prerana css end */
+
+
+@media only screen and (max-width:2551px){
+  .dgndfgdfgdf{
+    height: auto;
+  }
+  .on1{
+    height: 6vw !important;
+    width: 7vw !important;
+  }
+  .on2{
+    height: 6vw !important;
+    width: 7vw !important;
+  }
+  .on3{
+    height: 6.3vw !important;
+    width: 7vw !important;
+  }
+  .on4{
+    height: 7vw !important;
+    width: 8vw !important;
+  }
+  .on5{
+    height: 7vw !important;
+    width: 9vw !important;
+  }
+  .on6{
+    height: 7vw !important;
+    width: 7vw !important;
+  }
+  .li1{
+    height: 4vw !important;
+    width: 4vw !important;
+    top: 6vw !important;
+    right: 14vw !important;
+  }
+  .li2{
+    height: 4vw !important;
+    width: 4vw !important;
+    bottom: 10.5vw !important;
+    right: 18.5vw !important;
+  }
+  .li3{
+    height: 4.5vw !important;
+    width: 4.5vw !important;
+  }
+  .li4{
+    height: 4.5vw !important;
+    width: 4.5vw !important;
+    top: 13.6vw !important;
+    right: 21.2vw !important;
+  }
+}
+@media only screen and (max-width:1921px){
+  .li2{
+    bottom: 10.3vw !important;
+    right: 18.3vw !important;
+  }
+}
+@media only screen and (max-width:1601px){
+  .li1{
+    top: 5.6vw !important;
+    right: 13.5vw !important;
+  }
+  .li2{
+    right: 18.1vw !important;
+  }
+  .li3{
+    top: 0.2vw !important;
+  }
+  .li4{
+    top: 13.2vw !important;
+    right: 21vw !important;
+  }
+}
+@media only screen and (max-width:1367px){
+  .li1{
+    right: 13vw !important;
+  }
+  .li2{
+    right: 17.6vw !important;
+  }
+  .li3{
+    top: 0vw !important;
+  }
+  .li4{
+    top: 12.9vw !important;
+    right: 20.5vw !important;
+  }
+}
+@media only screen and (max-width:801px){
+  .on1{
+    height: 11.5vw !important;
+    width: 12.5vw !important;
+    top: 34.2vw !important;
+    left: 17vw !important;
+  }
+  .on2{
+    height: 11.5vw !important;
+    width: 12.5vw !important;
+    top: 34.2vw !important;
+    right: 17vw !important;
+  }
+  .on3{
+    height: 11.9vw !important;
+    width: 12.5vw !important;
+    top: 54vw !important;
+    right: 14vw !important;
+  }
+  .on4{
+    height: 13vw !important;
+    width: 14vw !important;
+    top: 70.3vw !important;
+    right: 21.5vw !important;
+  }
+  .on5{
+    height: 12.5vw !important;
+    width: 16vw !important;
+    top: 70.4vw !important;
+    left: 15vw !important;
+  }
+  .on6{
+    height: 13vw !important;
+    width: 13vw !important;
+    top: 53.2vw !important;
+    left: 6vw !important;
+  }
+  .li1{
+    height: 8vw !important;
+    width: 8vw !important;
+    top: 12vw !important;
+    right: 41.5vw !important;
+  }
+  .li2{
+    height: 8vw !important;
+    width: 8vw !important;
+    bottom: 21.5vw !important;
+    right: 51.5vw !important;
+  }
+  .li3{
+    height: 8.5vw !important;
+    width: 8.5vw !important;
+    top: 0.5vw !important;
+    right: 31.5vw !important;
+  }
+  .li4{
+    height: 8.5vw !important;
+    width: 8.5vw !important;
+    top: 28.9vw !important;
+    right: 57.2vw !important;
+  }
+  .img1{
+    top: 23% !important;
+  }
+  .img2{
+    top: 27% !important;
+  }
+  .img3{
+    top: 21.5% !important;
+  }
+  .img4{
+    top: 28% !important;
+  }
+  .img5{
+    bottom: 22% !important;
+  }
+  .img6{
+    bottom: 28.5% !important;
+  }
+  .img7{
+    top: 51% !important;
+  }
+  .img8{
+    top: 57% !important;
+  }
+}
+@media only screen and (max-width:600px){
+  .on1{
+    top: 74vw !important;
+  }
+  .on2{
+    top: 74.3vw !important;
+  }
+  .on3{
+    top: 93.6vw !important;
+  }
+  .on4{
+    top: 110.4vw !important;
+  }
+  .on5{
+    top: 110.4vw !important;
+  }
+  .on6{
+    top: 94vw !important;
+  }
+  .li1{
+    top: 13vw !important;
+    right: 43.8vw !important;
+  }
+  .li2{
+    bottom: 23vw !important;
+    right: 54vw !important;
+  }
+  .li3{
+    top: 1.5vw !important;
+    right: 34vw !important;
+  }
+  .li4{
+    top: 30.9vw !important;
+    right: 59.2vw !important;
+  }
+  .img1{
+    top: 26% !important;
+  }
+  .img2{
+    top: 29.5% !important;
+  }
+  .img3{
+    top: 25% !important;
+  }
+  .img4{
+    top: 30% !important;
+  }
+  .img5{
+    bottom: 24.5% !important;
+  }
+  .img6{
+    bottom: 30.5% !important;
+  }
+}
+@media only screen and (max-width:541px){
+  .on1{
+    top: 89vw !important;
+  }
+  .on2{
+    top: 89.3vw !important;
+  }
+  .on3{
+    top: 108.6vw !important;
+  }
+  .on4{
+    top: 125.4vw !important;
+  }
+  .on5{
+    top: 126.4vw !important;
+  }
+  .on6{
+    top: 110vw !important;
+  }
+  .img1{
+    top: 26.5% !important;
+  }
+  .img2{
+    top: 30% !important;
+  }
+  .img3{
+    top: 26% !important;
+  }
+  .img4{
+    top: 31% !important;
+  }
+  .img5{
+    bottom: 25.5% !important;
+  }
+  .img6{
+    bottom: 31.5% !important;
+  }
+}
+@media only screen and (max-width:431px){
+  .on1{
+    top: 116vw !important;
+  }
+  .on2{
+    top: 116.5vw !important;
+  }
+  .on3{
+    top: 135.7vw !important;
+  }
+  .on4{
+    top: 153.7vw !important;
+  }
+  .on5{
+    top: 154vw !important;
+  }
+  .on6{
+    top: 137.5vw !important;
+  }
+  .li1{
+    right: 42.8vw !important;
+  }
+  .li2{
+    right: 53vw !important;
+  }
+  .li3{
+    top: 1.2vw !important;
+    right: 33vw !important;
+  }
+  .li4{
+    top: 30.7vw !important;
+  }
+  .img1{
+    top: 29% !important;
+  }
+  .img2{
+    top: 32% !important;
+  }
+  .img3{
+    top: 28% !important;
+  }
+  .img4{
+    top: 32.8% !important;
+  }
+  .img5{
+    bottom: 28% !important;
+  }
+  .img6{
+    bottom: 33.2% !important;
+  }
+}
+@media only screen and (max-width:415px){
+  .on1{
+    top: 120vw !important;
+  }
+  .on2{
+    top: 120.5vw !important;
+  }
+  .on3{
+    top: 139.7vw !important;
+  }
+  .on4{
+    top: 157.7vw !important;
+  }
+  .on5{
+    top: 157vw !important;
+  }
+  .on6{
+    top: 141.5vw !important;
+  }
+  .li1{
+    right: 42.4vw !important;
+  }
+  .li3{
+    top: 1vw !important;
+  }
+  .img1{
+    top: 29.5% !important;
+  }
+  .img2{
+    top: 32.2% !important;
+  }
+  .img3{
+    top: 28.5% !important;
+  }
+  .img5{
+    bottom: 28.5% !important;
+  }
+}
+@media only screen and (max-width:394px){
+  .on1{
+    top: 136vw !important;
+  }
+  .on2{
+    top: 136.5vw !important;
+  }
+  .on3{
+    top: 155.7vw !important;
+  }
+  .on4{
+    top: 173.7vw !important;
+  }
+  .on5{
+    top: 173vw !important;
+  }
+  .on6{
+    top: 155.5vw !important;
+  }
+  .li3{
+    top: 0.8vw !important;
+  }
+  .li4{
+    top: 30.3vw !important;
+  }
+  .img1{
+    top: 30% !important;
+  }
+  .img2{
+    top: 33% !important;
+  }
+  .img3{
+    top: 29.3% !important;
+  }
+  .img4{
+    top: 33.7% !important;
+  }
+  .img5{
+    bottom: 29% !important;
+  }
+  .img6{
+    bottom: 33.8% !important;
+  }
+}
+@media only screen and (max-width:376px){
+  .on1{
+    top: 141vw !important;
+  }
+  .on2{
+    top: 141.5vw !important;
+  }
+  .on3{
+    top: 160.7vw !important;
+  }
+  .on4{
+    top: 178.7vw !important;
+  }
+  .on5{
+    top: 178vw !important;
+  }
+  .on6{
+    top: 155.5vw !important;
+  }
+}
+@media only screen and (max-width:361px){
+  .on1{
+    top: 162vw !important;
+  }
+  .on2{
+    top: 162.5vw !important;
+  }
+  .on3{
+    top: 181.7vw !important;
+  }
+  .on4{
+    top: 198.7vw !important;
+  }
+  .on5{
+    top: 199vw !important;
+  }
+  .on6{
+    top: 181.5vw !important;
+  }
+  .img1{
+    top: 30.5% !important;
+  }
+  .img2{
+    top: 33.5% !important;
+  }
+  .img3{
+    top: 29.8% !important;
+  }
+  .img4{
+    top: 34.2% !important;
+  }
+  .img5{
+    bottom: 30% !important;
+  }
+  .img6{
+    bottom: 34.5% !important;
+  }
+}
+@media only screen and (max-width:345px){
+  .on1{
+    top: 170vw !important;
+  }
+  .on2{
+    top: 170.5vw !important;
+  }
+  .on3{
+    top: 189.7vw !important;
+  }
+  .on4{
+    top: 206.7vw !important;
+  }
+  .on5{
+    top: 207vw !important;
+  }
+  .on6{
+    top: 189.5vw !important;
+  }
+  .li1{
+    right: 41.4vw !important;
+  }
+  .li2{
+    right: 51.8vw !important;
+  }
+  .li3{
+    top: 0.6vw !important;
+  }
+  .li4{
+    top: 30vw !important;
+    right: 57.4vw !important;
+  }
+  .img1{
+    top: 32% !important;
+  }
+  .img2{
+    top: 34.5% !important;
+  }
+  .img3{
+    top: 31.2% !important;
+  }
+  .img4{
+    top: 35.2% !important;
+  }
+  .img5{
+    bottom: 30.6% !important;
+  }
+  .img6{
+    bottom: 35% !important;
+  }
+  .img8{
+    top: 56% !important;
+  }
+}
+@media only screen and (max-width:281px){
+  .on1{
+    top: 189vw !important;
+  }
+  .on2{
+    top: 189vw !important;
+  }
+  .on3{
+    top: 206.5vw !important;
+  }
+  .on4{
+    top: 225vw !important;
+  }
+  .on5{
+    top: 226vw !important;
+  }
+  .on6{
+    top: 208.5vw !important;
+  }
+  .li1{
+    top: 13.5vw !important;
+    right: 40.7vw !important;
+  }
+  .li2{
+    bottom: 22vw !important;
+    right: 51.8vw !important;
+  }
+  .li3{
+    top: 0.4vw !important;
+    right: 32.6vw !important;
+  }
+  .li4{
+    top: 29.6vw !important;
+    right: 57.4vw !important;
+  }
+  .img1{
+    top: 33% !important;
+  }
+  .img2{
+    top: 35.5% !important;
+  }
+  .img3{
+    top: 32.2% !important;
+  }
+  .img4{
+    top: 36% !important;
+  }
+  .img5{
+    bottom: 32.2% !important;
+  }
+  .img6{
+    bottom: 36% !important;
+  }
+  .img8{
+    top: 55.5% !important;
+  }
+}

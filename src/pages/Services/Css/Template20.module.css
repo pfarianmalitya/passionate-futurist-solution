@@ -1233,18 +1233,44 @@ svg circle {
 }
 @media only screen and (max-width:1367px){
   .bmspic1{
-    top: 22% !important;
+    top: 36% !important;
   }
   .bmspic2{
-    bottom: 52% !important;
+    bottom: 20% !important;
   }
   .bmspic3{
-    bottom: 57.4% !important;
+    bottom: 32.4% !important;
   }
   .blog .b1{
     bottom: 48.5% !important;
   }
 }
+
+@media only screen and (max-width:992px) {
+  .sdfsdfsdf {
+    margin-top: -10rem !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    position: absolute;
+    top: -3vw !important;
+    left: 50vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 1) {
+    position: absolute;
+    top: 2vw !important;
+    left: 75vw !important;
+
+  }
+
+  .doieworwer :nth-of-type(4n - 3) {
+    position: absolute;
+    top: 3vw !important;
+    left: 4vw !important;
+  }
+}
+
 @media only screen and (max-width:801px){
   .bmspic1{
     width: 37vw !important;
@@ -1302,7 +1328,31 @@ svg circle {
   .RRD3 .RRDimg3{
     bottom: 17% !important;
   }
+
+   .sdfsdfsdf {
+    margin-top: 16vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    top: -2vw !important;
+    left: 46vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 1) {
+    position: absolute;
+    top: 8vw !important;
+    left: 75vw !important;
+
+  }
+
+  .doieworwer :nth-of-type(4n - 3) {
+    position: absolute;
+    top: 7vw !important;
+    left: 4vw !important;
+  }
+  
 }
+
 @media only screen and (max-width:600px){
   .bmspic1{
     right: 9.8% !important;
@@ -1312,7 +1362,7 @@ svg circle {
     bottom: 28.8% !important;
   }
   .bmspic3{
-    bottom: 33.2% !important;
+    bottom: -33.2% !important;
   }
   .blog .b1{
     bottom: 49% !important;
@@ -1328,6 +1378,38 @@ svg circle {
   }
   .RRD3 .RRDimg3{
     bottom: 21% !important;
+  }
+
+   .doieworwer :nth-of-type(4n - 2) {
+    top: 3vw !important;
+    left: 46vw !important;
+    width: 25vw !important;
+    height: 45vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 1) {
+    position: absolute;
+    top: 16vw !important;
+    left: 74vw !important;
+    width: 23vw !important;
+    height: 21vw !important;
+
+  }
+
+  .doieworwer :nth-of-type(4n - 3) {
+    position: absolute;
+    top: 15vw !important;
+    left: 4vw !important;
+    width: 20vw !important;
+    height: 27vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n) {
+    position: absolute;
+    top: 34vw !important;
+    left: 76vw !important;
+    width: 19vw !important;
+    height: 18vw !important;
   }
 }
 @media only screen and (max-width:541px){
@@ -1356,12 +1438,44 @@ svg circle {
     bottom: 22.5% !important;
   }
 }
+
+@media only screen and (max-width:441px) {
+  .dfdsf52dsasas {
+    position: relative;
+    top: 28vw !important;
+    left: -28vw !important;
+  }
+
+  .dfdsf52dsasas1 {
+    position: relative;
+    top: 30vw !important;
+    left: -30vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    position: relative;
+    top: 10vw !important;
+    left: 47vw !important;
+  }
+
+  .typewriterStart {
+    font-size: 13px !important;
+    margin-top: -2vw !important;
+  }
+
+  .typewriterEnd {
+    position: relative;
+    font-size: 13px !important;
+    top: -1vw !important;
+  }
+}
+
 @media only screen and (max-width:431px){
   .bmspic1{
-    top: 47% !important;
+    top: 64% !important;
   }
   .bmspic2{
-    bottom: 35% !important;
+    bottom: 19% !important;
   }
   .bmspic3{
     bottom: 37.2% !important;
@@ -1381,16 +1495,20 @@ svg circle {
   .RRD3 .RRDimg3{
     bottom: 25% !important;
   }
+  .bmspic3 
+  {
+    bottom: 23.2% !important;
+  }
 }
 @media only screen and (max-width:415px){
   .bmspic1{
-    top: 50.5% !important;
+    top: 63.5% !important;
   }
   .bmspic2{
-    bottom: 33.7% !important;
+    bottom: 18.7% !important;
   }
   .bmspic3{
-    bottom: 36.5% !important;
+    bottom: 22.5% !important;
   }
   .blog .b1{
     bottom: 44.5% !important;
@@ -1404,16 +1522,49 @@ svg circle {
   .RRD3 .RRDimg3{
     bottom: 25.5% !important;
   }
+
+    .dfdsf52dsasas {
+    position: relative;
+    top: 28vw !important;
+    left: -28vw !important;
+  }
+
+  .dfdsf52dsasas1 {
+    position: relative;
+    top: 30vw !important;
+    left: -30vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    position: relative;
+    top: 10vw !important;
+    left: 47vw !important;
+  }
+
+  .typewriterStart {
+    font-size: 13px !important;
+    margin-top: -2vw !important;
+  }
+
+  .typewriterEnd {
+    position: relative;
+    font-size: 13px !important;
+    top: -1vw !important;
+  }
 }
 @media only screen and (max-width:394px){
   .bmspic2{
-    bottom: 34.7% !important;
+    bottom: 12.7% !important;
   }
+  .bmspic1{
+    bottom: 68.5% !important;
+  }
+
   .bmspic3{
-    bottom: 37.5% !important;
+    bottom: 16.5% !important;
   }
   .blog .b1{
-    bottom: 43.5% !important;
+    bottom: 68.5% !important;
   }
   .blog .b2{
     bottom: 38% !important;
@@ -1424,16 +1575,45 @@ svg circle {
   .RRD3 .RRDimg3{
     bottom: 26% !important;
   }
+
+    .btn125 {
+    padding: 14px 12px;
+  }
+
+  .btn126 {
+    padding: 14px 12px;
+  }
+
+  .fhgdfg h2 {
+    font-size: 35px;
+  }
+
+  .typewriterStart {
+    position: relative;
+    left: -3vw !important;
+  }
+
+  .icon {
+    position: relative;
+    left: -2vw !important;
+  }
+
+  .typewriterEnd {
+    position: relative;
+    font-size: 13px !important;
+    top: -1vw !important;
+    left: -2vw !important;
+  }
 }
 @media only screen and (max-width:376px){
   .bmspic1{
-    top: 56.5% !important;
+      top: 96.5% !important;
   }
   .bmspic2{
-    bottom: 29.4% !important;
+    bottom: -19.6% !important;
   }
   .bmspic3{
-    bottom: 32.2% !important;
+      bottom: -13.8% !important;
   }
   .blog .b1{
     bottom: 43% !important;
@@ -1447,16 +1627,29 @@ svg circle {
   .RRD3 .RRDimg3{
     bottom: 26.5% !important;
   }
+   .typewriterEnd {
+    position: relative;
+    font-size: 12px !important;
+    top: -1vw !important;
+    left: -2vw !important;
+  }
+
+  .typewriterStart {
+    position: relative;
+    font-size: 12px !important;
+    top: 0vw !important;
+    left: -2vw !important;
+  }
 }
 @media only screen and (max-width:361px){
   .bmspic1{
-    top: 61% !important;
+        top: 95% !important;
   }
-  .bmspic2{
-    bottom: 25.3% !important;
+  .bmspic2{ 
+    bottom: -13.7% !important;
   }
   .bmspic3{
-    bottom: 28% !important;
+    bottom: -8% !important;
   }
   .blog .b1{
     bottom: 42.5% !important;
@@ -1472,6 +1665,19 @@ svg circle {
   }
   .RRD3 .RRDimg3{
     bottom: 27% !important;
+  }
+  .typewriterEnd {
+    position: relative;
+    font-size: 11px !important;
+    top: 0vw !important;
+    left: -2vw !important;
+  }
+
+  .typewriterStart {
+    position: relative;
+    font-size: 11px !important;
+    top: 1vw !important;
+    left: -3vw !important;
   }
 }
 @media only screen and (max-width:321px){
@@ -1499,6 +1705,38 @@ svg circle {
   .RRD3 .RRDimg3{
     bottom: 28.5% !important;
   }
+
+  .typewriterEnd {
+    position: relative;
+    font-size: 10px !important;
+    top: 0vw !important;
+    left: -2vw !important;
+  }
+
+  .typewriterStart {
+    position: relative;
+    font-size: 10px !important;
+    top: 1vw !important;
+    left: -3vw !important;
+  }
+
+  .dfdsf52dsasas {
+    position: relative;
+    top: 42vw !important;
+    left: -31vw !important;
+  }
+
+  .dfdsf52dsasas1 {
+    position: relative;
+    top: 42vw !important;
+    left: -31vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    position: relative;
+    top: 16vw !important;
+    left: 47vw !important;
+  } 
 }
 @media only screen and (max-width:281px){
   .bmspic1{
@@ -1524,6 +1762,57 @@ svg circle {
   }
   .RRD3 .RRDimg3{
     bottom: 30.3% !important;
+  }
+  .typewriterStart {
+    position: relative;
+    font-size: 9px !important;
+    top: 20vw !important;
+    left: -3vw !important;
+  }
+
+  .typewriterEnd {
+    position: relative;
+    font-size: 9px !important;
+    top: 19vw !important;
+    left: -2vw !important;
+  }
+
+  .dfdsf52dsasas1 img {
+    width: 48px;
+    height: 57px;
+  }
+
+  .dfdsf52dsasas img  {
+    position: relative;
+    top: 26vw !important;
+    left: -2vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    position: relative;
+    top: 39vw !important;
+    left: 47vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n) {
+    position: relative;
+    top: 58vw !important;
+    left: 76vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 1) {
+    position: relative;
+    top: 39vw !important;
+    left: 76vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 3) {
+    position: relative;
+    top: 51vw !important;
+    left: 5vw !important;
+  }
+  .dgnghbg5df h2{
+    height: 0vw !important;
   }
 }
 

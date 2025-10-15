@@ -405,6 +405,202 @@ p a{
 
 
 
+
+
+
+
+.fjhfdfgdfg55 img
+{
+  width: 100px;
+  height: 110px;
+  /* z-index: 9999999999; */
+  position: relative !important;
+  margin-top: -10px;
+
+}
+
+.fjhfdfgdfgss
+{
+  display: flex;
+}
+
+.fjhfdfgdfg55aa img
+{
+  width: 100px;
+  height: 80px;
+  margin-top: 10px;
+  margin-right: -25px;
+
+}
+
+
+.fjhfdfgdfg55aaa img
+{
+  width: 100px;
+  height: 75px;
+  margin-top: 5px;
+  margin-left: -9px;
+  /* position: absolute; */
+  
+
+
+}
+
+.fjhfdfgdfgss
+{
+  margin-top: -250px;
+  margin-left: 20px;
+}
+
+.jkbjhb6552 img
+{
+  width: 3px;
+  height: 15px;
+  margin-top: -267px;
+  margin-left: 95px;
+}
+
+
+.jkbjhb6552aa img
+{
+     width: 15px;
+    height: 14px;
+    margin-top: -297px;
+    margin-left: 104px;
+}
+
+/* Rohit css start */
+.RRIIMMGBG{
+  width: 100%;
+}
+.RRIMGG1 .RRIIMMGG1{
+    position: absolute;
+    width: 10.3rem;
+    left: 34px;
+    top: 209px;
+}
+.RRIMGG2 .RRIIMMGG2{
+position: absolute;
+    width: 8rem;
+    right: 0px;
+    bottom: 122px;
+}
+.RRIMGG3 .RRIIMMGG3{
+  position: absolute;
+  width: 8rem;
+  right: 56px;
+  bottom: 29px;
+}
+.RRIMGG4 .RRIIMMGG4{
+  position: absolute;
+  width: 10rem;
+  top: 58px;
+  left: 79px;
+}
+/* Rohit css end */
+
+
+/* Sayantika css start */
+.ssp1 {
+  position: absolute;
+  width: 200px;
+  height: 40px;
+  top: 272px;
+  left: 399px;
+  animation: spraybr 2s ease-out;
+}
+
+.ssp2 {
+  position: absolute;
+  width: 176px;
+  height: 41px;
+  top: 20px;
+  left: 90px;
+  animation: spraytl 2s ease-out;
+}
+
+.ssp3 {
+  position: absolute;
+  width: 234px;
+  height: 40px;
+  top: 238px;
+  left: -11px;
+  animation: spraybl 2s ease-out;
+}
+
+.ssp4 {
+  position: absolute;
+  width: 187px;
+  height: 40px;
+  top: 34px;
+  left: 419px;
+  animation: spraytr 2s ease-out;
+}
+@keyframes spraytr{
+  0%{
+    transform: scale(0.2) translate(-500px,500px);
+    opacity: 0;
+  }
+   50%{
+    transform: scale(0.4) translate(0px,0px);
+    opacity: 0.5;
+  }
+
+    100%{
+    transform: scale(1) translate(0px,0px);
+    opacity: 1;
+  }
+}
+@keyframes spraytl{
+  0%{
+    transform: scale(0.2) translate(500px,500px);
+    opacity: 0;
+  }
+   50%{
+    transform: scale(0.4) translate(0px,0px);
+    opacity: 0.5;
+  }
+
+    100%{
+    transform: scale(1) translate(0px,0px);
+    opacity: 1;
+  }
+}
+@keyframes spraybr{
+  0%{
+    transform: scale(0.2) translate(-500px,-500px);
+    opacity: 0;
+  }
+   50%{
+    transform: scale(0.4) translate(0px,0px);
+    opacity: 0.5;
+  }
+
+    100%{
+    transform: scale(1) translate(0px,0px);
+    opacity: 1;
+  }
+}
+@keyframes spraybl{
+  0%{
+    transform: scale(0.2) translate(500px,-500px);
+    opacity: 0;
+  }
+   50%{
+    transform: scale(0.4) translate(0px,0px);
+    opacity: 0.5;
+  }
+
+    100%{
+    transform: scale(1) translate(0px,0px);
+    opacity: 1;
+  }
+}
+/* Sayantika css end */
+
+
+
+
 @media only screen and (max-width:991px)
 {
     .dfgjhfgd
@@ -783,197 +979,259 @@ p a{
     }
 }
 
-
-
-
-
-
-
-.fjhfdfgdfg55 img
-{
-  width: 100px;
-  height: 110px;
-  /* z-index: 9999999999; */
-  position: relative !important;
-  margin-top: -10px;
-
-}
-
-.fjhfdfgdfgss
-{
-  display: flex;
-}
-
-.fjhfdfgdfg55aa img
-{
-  width: 100px;
-  height: 80px;
-  margin-top: 10px;
-  margin-right: -25px;
-
-}
-
-
-.fjhfdfgdfg55aaa img
-{
-  width: 100px;
-  height: 75px;
-  margin-top: 5px;
-  margin-left: -9px;
-  /* position: absolute; */
-  
-
-
-}
-
-.fjhfdfgdfgss
-{
-  margin-top: -250px;
-  margin-left: 20px;
-}
-
-.jkbjhb6552 img
-{
-  width: 3px;
-  height: 15px;
-  margin-top: -267px;
-  margin-left: 95px;
-}
-
-
-.jkbjhb6552aa img
-{
-     width: 15px;
-    height: 14px;
-    margin-top: -297px;
-    margin-left: 104px;
-}
-
-/* Rohit css start */
-.RRIIMMGBG{
-  width: 100%;
-}
-.RRIMGG1 .RRIIMMGG1{
-    position: absolute;
-    width: 10.3rem;
-    left: 34px;
-    top: 209px;
-}
-.RRIMGG2 .RRIIMMGG2{
-position: absolute;
-    width: 8rem;
-    right: 0px;
-    bottom: 122px;
-}
-.RRIMGG3 .RRIIMMGG3{
-  position: absolute;
-  width: 8rem;
-  right: 56px;
-  bottom: 29px;
-}
-.RRIMGG4 .RRIIMMGG4{
-  position: absolute;
-  width: 10rem;
-  top: 58px;
-  left: 79px;
-}
-/* Rohit css end */
-
-
-/* Sayantika css start */
-.ssp1 {
-  position: absolute;
-  width: 200px;
-  height: 40px;
-  top: 272px;
-  left: 399px;
-  animation: spraybr 2s ease-out;
-}
-
-.ssp2 {
-  position: absolute;
-  width: 176px;
-  height: 41px;
-  top: 20px;
-  left: 90px;
-  animation: spraytl 2s ease-out;
-}
-
-.ssp3 {
-  position: absolute;
-  width: 234px;
-  height: 40px;
-  top: 238px;
-  left: -11px;
-  animation: spraybl 2s ease-out;
-}
-
-.ssp4 {
-  position: absolute;
-  width: 187px;
-  height: 40px;
-  top: 34px;
-  left: 419px;
-  animation: spraytr 2s ease-out;
-}
-@keyframes spraytr{
-  0%{
-    transform: scale(0.2) translate(-500px,500px);
-    opacity: 0;
-  }
-   50%{
-    transform: scale(0.4) translate(0px,0px);
-    opacity: 0.5;
-  }
-
-    100%{
-    transform: scale(1) translate(0px,0px);
-    opacity: 1;
+@media only screen and (max-width:2551px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 4vw !important;
+    left: 7vw !important;
   }
 }
-@keyframes spraytl{
-  0%{
-    transform: scale(0.2) translate(500px,500px);
-    opacity: 0;
-  }
-   50%{
-    transform: scale(0.4) translate(0px,0px);
-    opacity: 0.5;
+
+@media only screen and (max-width:1921px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 6vw !important;
+    left: 6vw !important;
   }
 
-    100%{
-    transform: scale(1) translate(0px,0px);
-    opacity: 1;
+  .sdfsdfsdf h2 {
+    margin-top: 5vw !important;
   }
 }
-@keyframes spraybr{
-  0%{
-    transform: scale(0.2) translate(-500px,-500px);
-    opacity: 0;
-  }
-   50%{
-    transform: scale(0.4) translate(0px,0px);
-    opacity: 0.5;
+
+@media only screen and (max-width:1601px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 8vw !important;
+    left: 3vw !important;
   }
 
-    100%{
-    transform: scale(1) translate(0px,0px);
-    opacity: 1;
+  .sdfsdfsdf h2 {
+    margin-top: 0vw !important;
   }
 }
-@keyframes spraybl{
-  0%{
-    transform: scale(0.2) translate(500px,-500px);
-    opacity: 0;
-  }
-   50%{
-    transform: scale(0.4) translate(0px,0px);
-    opacity: 0.5;
+
+@media only screen and (max-width:1367px) {
+
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 10vw !important;
+    left: 0vw !important;
   }
 
-    100%{
-    transform: scale(1) translate(0px,0px);
-    opacity: 1;
+  .sdfsdfsdf h2 {
+    margin-top: -5vw !important;
   }
 }
-/* Sayantika css end */
+
+@media only screen and (max-width:992px) {
+
+  .fjhfdfgdfg55 img {
+    width: 66px !important;
+    height: 76px !important;
+
+  }
+
+  .fjhfdfgdfg55aa img {
+    width: 67px !important;
+    height: 53px !important;
+
+  }
+
+  .fjhfdfgdfg55aaa img {
+    width: 67px !important;
+    height: 53px !important;
+  }
+
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 17vw !important;
+    left: 6vw !important;
+  }
+}
+@media only screen and (max-width:800px) {
+  .sdfsdfsdf h2 {
+    margin-top: 21vw !important;
+  }
+
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 19vw !important;
+    left: 14vw !important;
+
+  }
+}
+
+@media only screen and (max-width:601px) {
+
+  .sdfsdfsdf h2 {
+    margin-top: 27vw !important;
+  }
+
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 25vw !important;
+    left: 10vw !important;
+  }
+}
+@media only screen and (max-width:541px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 30vw !important;
+    left: 5vw !important;
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 34vw !important;
+  }
+}
+
+@media only screen and (max-width:431px) {
+
+  .fjhfdfgdfgss {
+    margin-top: -229px !important;
+    position: relative;
+    top: 34vw !important;
+    left: -1vw !important;
+
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 41vw !important;
+  }
+}
+
+@media only screen and (max-width:416px) {
+
+  .fjhfdfgdfgss {
+    margin-top: -229px !important;
+    position: relative;
+    top: 36vw !important;
+    left: -3vw !important;
+
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 41vw !important;
+  }
+}
+
+@media only screen and (max-width:394px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 40vw !important;
+    left: -98vw !important;
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 34vw !important;
+  }
+
+  .fjhfdfgdfg55 img {
+    width: 58px !important;
+    height: 67px !important;
+  }
+
+  .fjhfdfgdfg55aa img {
+    width: 68px !important;
+    height: 46px !important;
+  }
+
+  .fjhfdfgdfg55aaa img {
+    width: 66px !important;
+    height: 46px !important;
+  }
+}
+@media only screen and (max-width:376px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 42vw !important;
+    left: -98vw !important;
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 34vw !important;
+  }
+
+  .fjhfdfgdfg55 img {
+    width: 58px !important;
+    height: 67px !important;
+  }
+
+  .fjhfdfgdfg55aa img {
+    width: 68px !important;
+    height: 46px !important;
+  }
+
+  .fjhfdfgdfg55aaa img {
+    width: 57px !important;
+    height: 46px !important;
+  }
+}
+@media only screen and (max-width:361px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 44vw !important;
+    left: -98vw !important;
+  }
+}
+
+@media only screen and (max-width:321px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 51vw !important;
+    left: -98vw !important;
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 47vw !important;
+  }
+
+  .fjhfdfgdfg55 img {
+    width: 51px !important;
+    height: 60px !important;
+    top: 2vw !important;
+    left: 3vw !important;
+  }
+
+  .fjhfdfgdfg55aa img {
+    width: 48px !important;
+    height: 45px !important;
+
+  }
+
+  .fjhfdfgdfg55aaa img {
+    width: 57px !important;
+    height: 46px !important;
+  }
+}
+
+@media only screen and (max-width:281px) {
+  .fjhfdfgdfgss {
+    position: relative;
+    top: 59vw !important;
+    left: -98vw !important;
+  }
+
+  .sdfsdfsdf h2 {
+    margin-top: 75vw !important;
+  }
+
+  .fjhfdfgdfg55 img {
+    width: 48px !important;
+    height: 53px !important;
+    top: 24vw !important;
+    left: 3vw !important;
+  }
+
+  .fjhfdfgdfg55aa img {
+    width: 48px !important;
+    height: 45px !important;
+
+  }
+
+  .fjhfdfgdfg55aaa img {
+    width: 53px !important;
+    height: 46px !important;
+  }
+}

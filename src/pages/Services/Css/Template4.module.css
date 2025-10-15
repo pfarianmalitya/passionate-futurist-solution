@@ -351,6 +351,402 @@ p a{
 
 
 
+/* Rohit css start */
+
+
+.RRDD1 .RRDG1{
+    position: absolute;
+    width: 6rem;
+    margin-left: 157px;
+    top: 157px;
+    animation: fade-right-wiggle 1.5s ease-out ;
+}
+
+@keyframes fade-right-wiggle{
+  0%{
+    transform: translate(-100px,-50px);
+    opacity: 0;
+    scale: 0;
+  }
+  25%{
+    transform: translate(-75px,40px);
+    opacity: 0.25;
+    scale: 0.25;
+  }
+  50%{
+    transform: translate(-50px,-30px);
+    opacity: 0.5;
+    scale: 0.5;
+  }
+  75%{
+    transform: translate(-25px,20px);
+    opacity: 0.75;
+    scale: 0.75;
+  }
+  100%{
+    transform: translate(0px,0px);
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes fade-left-wiggle{
+  0%{
+    transform: translate(100px,-50px);
+    opacity: 0;
+    scale: 0;
+  }
+  25%{
+    transform: translate(75px,40px);
+    opacity: 0.25;
+    scale: 0.25;
+  }
+  50%{
+    transform: translate(50px,-30px);
+    opacity: 0.5;
+    scale: 0.5;
+  }
+  75%{
+    transform: translate(25px,20px);
+    opacity: 0.75;
+    scale: 0.75;
+  }
+  100%{
+    transform: translate(0px,0px);
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes fade-up-wiggle{
+  0%{
+    transform: translate(-50px,-100px);
+    opacity: 0;
+    scale: 0;
+  }
+  25%{
+    transform: translate(40px,-75px);
+    opacity: 0.25;
+    scale: 0.25;
+  }
+  50%{
+    transform: translate(-30px,-50px);
+    opacity: 0.5;
+    scale: 0.5;
+  }
+  75%{
+    transform: translate(20px,-25px);
+    opacity: 0.75;
+    scale: 0.75;
+  }
+  100%{
+    transform: translate(0px,0px);
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes fade-down-wiggle{
+  0%{
+    transform: translate(-50px,100px);
+    opacity: 0;
+    scale: 0;
+  }
+  25%{
+    transform: translate(40px,75px);
+    opacity: 0.25;
+    scale: 0.25;
+  }
+  50%{
+    transform: translate(-30px,50px);
+    opacity: 0.5;
+    scale: 0.5;
+  }
+  75%{
+    transform: translate(20px,25px);
+    opacity: 0.75;
+    scale: 0.75;
+  }
+  100%{
+    transform: translate(0px,0px);
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+.RRDD2 .RRDG2{
+  position: absolute;
+  width: 56px;
+  left: 297px;
+  bottom: 13px;
+  animation: fade-down-wiggle 1.5s ease-out ;
+}
+
+
+.RRDD3 .RRDG3{
+    position: absolute;
+    width: 59px;
+    left: 284px;
+    top: 12px;
+    animation: fade-up-wiggle 1.5s ease-out ;
+}
+
+.RRDD4 .RRDG4{
+  position: absolute;
+    width: 5rem;
+    right: 173px;
+    top: 131px;
+    animation: fade-left-wiggle 1.5s ease-out ;
+}
+
+.RRDD5 .RRDG5{
+  position: absolute;
+    width: 13.5rem;
+    right: 235px;
+    top: 80px;  
+    animation: zoom-in 0.7s ease-out;
+}
+
+@keyframes zoom-in{
+  0%{
+    scale: 0;
+  }
+  50%{
+    scale: 1.2;
+  }
+  100%{
+    scale: 1;
+  }
+}
+
+/* Rohit css end */
+
+/* karina css start */
+
+.g1{
+  position:absolute;
+  width:20rem !important;
+  top:45%;
+  left: 13%;
+  animation: arti1 2s infinite linear;
+
+}
+.g2{
+  position:absolute;
+  width:20rem !important;
+  top:42%;
+  right:10%;
+  animation: arti2 2s infinite linear;
+}
+.g3{
+  position:absolute;
+  width:20rem !important;
+  bottom:12%;
+  right:11%;
+  animation: arti1 2s infinite linear;
+}
+.g4{
+  position:absolute;
+  width:22rem !important;
+  bottom:14%;
+  left:11%;
+  animation: arti2 2s infinite linear;
+}
+@keyframes arti1{
+  0%{
+    transform: translateY(0);
+  }
+  30%{
+    transform: translateX(-1rem);
+  }
+  100%{
+    transform: translateY(0);
+  }
+}
+@keyframes arti2 {
+  0%{
+    transform: translateY(0);
+  }
+  30%{
+    transform: translateX(1rem);
+  }
+  100%{
+    transform: translateY(0);
+  }
+}
+
+/* Karina css end */
+
+/* Rohit css start */
+
+.RRRD1 .RRRDD1{
+  position: absolute;
+    width: 35px;
+    left: 412px;
+    bottom: 138px;
+}
+
+.RRRD2 .RRRDD2{
+    position: absolute;
+    width: 4.5rem;
+    left: 14px;
+    bottom: 159px;
+}
+
+
+.RRRD3 .RRRDD3{
+  position: absolute;
+    width: 7.2rem;
+    right: 49px;
+    top: 72px;
+}
+
+.RRRD4 .RRRDD4{
+  position: absolute;
+    width: 3.8rem;
+    top: 127px;
+    left: 203px;
+}
+/* Rohit css end */
+
+
+/*karina startt*/
+
+.dbfghsdf{
+  position:relative;
+}
+.img1{
+        position: absolute;
+    width: 10vw !important;
+    height: auto !important;
+    left: 19%;
+    top: 2%;
+}
+.img2{
+     position: absolute;
+    width: 10vw !important;
+    height: auto !important;
+    left: 20%;
+    top: 63%;
+}
+.img3{
+    position: absolute;
+    width: 10vw !important;
+    height: auto !important;
+    left: 60%;
+    top: 61%;
+}
+.img4{
+ position: absolute;
+    width: 10vw !important;
+    height: auto !important;
+    left: 60%;
+    top: 2%;
+}
+.img5{
+ position: absolute;
+    width: 10vw !important;
+    height: auto !important;
+    left: 76%;
+    top: 32%;
+}
+.img6{
+ position: absolute;
+    width: 10vw !important;
+    height: auto !important;
+    left: 4%;
+    top: 32%;
+}
+
+/*karina endd*/
+
+/*rohit starttttt*/
+
+.Rpicbg{
+  width: 100%;
+}
+
+/*rohit enddddd*/
+
+
+
+/*nisha starttttt*/
+
+.sasimg1{
+  position: absolute;
+  width: 30vw !important;
+  bottom: 27.5%;
+  left: 11.5%;
+  animation: fadeleft 4s infinite;
+}
+@keyframes fadeleft{
+  0% {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.sasimg2{
+  position: absolute;
+  width: 30vw !important;
+  bottom: 4.2%;
+  left: 7.5%;
+  animation: dropUp 4s ease-out forwards infinite;
+}
+@keyframes dropUp {
+  0% {
+    transform: translateY(60px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.sasimg3{
+  position: absolute;
+  width: 29vw !important;
+  bottom: 27.5%;
+  right: 11.5%;
+  animation: dropIn 4s ease-out forwards infinite;
+}
+@keyframes dropIn {
+  0% {
+    transform: translateY(-60px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.sasimg4{
+  position: absolute;
+  width: 30vw !important;
+  bottom: 4.7%;
+  right: 8%;
+  animation: faderight 4s infinite;
+}
+@keyframes faderight{
+  0% {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/*nisha enddddd*/
+
+
+
+
+
 @media only screen and (max-width:2550px)
 {
    .RRDD1 .RRDG1{
@@ -954,6 +1350,81 @@ p a{
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+
+    .RRDD1 .RRDG1{
+    position: absolute;
+    width: 14vw !important;
+    margin-left: 225px !important;
+    top: 40rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
+
+  
+  .RRDD2 .RRDG2{
+    position: absolute;
+    width: 8vw !important;
+    left: 455px !important;
+    bottom: 52px !important;
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+        width: 8vw !important;
+        left: 418px !important;
+        top: 411px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+    width: 12vw !important;
+    right: 276px !important;
+    top: 38rem !important;
+    animation: fade-left-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+    width: 28.5vw !important;
+    right: 23rem !important;
+    top: 541px !important;
+
+    animation: zoom-in 0.7s ease-out;
+  }
+
+  
+ .g1{
+  position:absolute;
+  width:24vw !important;
+  top:45%;
+  left: 13%;
+  animation: arti1 2s infinite linear;
+
+  }
+  .g2{
+    position:absolute;
+    width:24vw !important;
+    top:42%;
+    right:10%;
+    animation: arti2 2s infinite linear;
+  }
+  .g3{
+    position:absolute;
+    width:24vw !important;
+    bottom:12%;
+    right:11%;
+    animation: arti1 2s infinite linear;
+  }
+  .g4{
+    position:absolute;
+    width:24vw !important;
+    bottom:14%;
+    left:11%;
+    animation: arti2 2s infinite linear;
+  }
+  
 }
 
 
@@ -989,24 +1460,334 @@ p a{
     {
         padding:10px;
     }
+
+        .RRDD1 .RRDG1{
+    position: absolute;
+    width: 14vw !important;
+        margin-left: 135px !important;
+        top: 38rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
+
+  
+  .RRDD2 .RRDG2{
+    position: absolute;
+        width: 8vw !important;
+        left: 279px !important;
+        bottom: 39px !important;
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+        width: 8vw !important;
+        left: 255px !important;
+        top: 485px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+    width: 12vw !important;
+    right: 169px !important;
+    top: 37rem !important;
+    animation: fade-left-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+    width: 29.5vw !important;
+    right: 14rem !important;
+    top: 549px !important;
+
+    animation: zoom-in 0.7s ease-out;
+  }
+
+  
+ .g1{
+  position:absolute;
+  width:24vw !important;
+  top:45%;
+  left: 13%;
+  animation: arti1 2s infinite linear;
+
+  }
+  .g2{
+    position:absolute;
+    width:24vw !important;
+    top:42%;
+    right:10%;
+    animation: arti2 2s infinite linear;
+  }
+  .g3{
+    position:absolute;
+    width:24vw !important;
+    bottom:12%;
+    right:11%;
+    animation: arti1 2s infinite linear;
+  }
+  .g4{
+    position:absolute;
+    width:24vw !important;
+    bottom:14%;
+    left:11%;
+    animation: arti2 2s infinite linear;
+  }
 }
 
 
 
-@media only screen and (max-width:581px)
+@media only screen and (max-width:540px)
 {
     .btn126{
         margin-left: 0 !important;
     }
+    
+        .RRDD1 .RRDG1{
+    position: absolute;
+      width: 14vw !important;
+      margin-left: 126px !important;
+      top: 36rem !important;
+      top: 37rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
+
+  
+  .RRDD2 .RRDG2{
+    position: absolute;
+        width: 8vw !important;
+        left: 279px !important;
+        bottom: 39px !important;
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+      width: 8vw !important;
+      left: 231px !important;
+      top: 488px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+    width: 12vw !important;
+    right: 153px !important;
+    top: 36rem !important;
+    animation: fade-left-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+    width: 29.5vw !important;
+    right: 12rem !important;
+    top: 549px !important;
+
+    animation: zoom-in 0.7s ease-out;
+  }
+
+  
+ .g1{
+  position:absolute;
+  width:24vw !important;
+  top:66%;
+  left: 13%;
+  animation: arti1 2s infinite linear;
+
+  }
+  .g2{
+    position:absolute;
+    width:24vw !important;
+    top:66%;
+    right:10%;
+    animation: arti2 2s infinite linear;
+  }
+  .g3{
+    position:absolute;
+    width:24vw !important;
+    bottom:12%;
+    right:11%;
+    animation: arti1 2s infinite linear;
+  }
+  .g4{
+    position:absolute;
+    width:24vw !important;
+    bottom:14%;
+    left:11%;
+    animation: arti2 2s infinite linear;
+  }
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:430px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+
+    .RRDD1 .RRDG1{
+    position: absolute;
+    width: 14vw !important;
+    margin-left: 104px !important;
+    top: 36rem !important;
+    top: 40rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
+
+  
+  .RRDD2 .RRDG2{
+    position: absolute;
+    width: 8vw !important;
+    left: 203px !important;
+    bottom: 32px !important;
+
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+      width: 8vw !important;
+      left: 180px !important;
+      top: 551px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+        width: 12vw !important;
+        right: 117px !important;
+        top: 39rem !important;
+
+    animation: fade-left-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+    width: 29.5vw !important;
+      right: 10rem !important;
+      top: 599px !important;
+    animation: zoom-in 0.7s ease-out;
+  }
+
+  
+  .g1{
+    position:absolute;
+    width:24vw !important;
+    top:75%;
+    left: 13%;
+    animation: arti1 2s infinite linear;
+
+    }
+    .g2{
+      position:absolute;
+      width:24vw !important;
+      top:75%;
+      right:10%;
+      animation: arti2 2s infinite linear;
+    }
+    .g3{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      right:11%;
+      animation: arti1 2s infinite linear;
+    }
+    .g4{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      left:11%;
+      animation: arti2 2s infinite linear;
+    }
 }
+
+
+@media only screen and (max-width:430px)
+{
+
+
+    .RRDD1 .RRDG1{
+    position: absolute;
+    width: 14vw !important;
+    margin-left: 104px !important;
+    top: 36rem !important;
+    top: 41rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
+
+  
+  .RRDD2 .RRDG2{
+    position: absolute;
+    width: 8vw !important;
+    left: 203px !important;
+    bottom: 32px !important;
+
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+      width: 8vw !important;
+      left: 180px !important;
+        top: 575px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+        width: 12vw !important;
+      right: 108px !important;
+        top: 40rem !important;
+
+
+    animation: fade-left-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+        width: 30.5vw !important;
+        right: 9rem !important;
+        top: 618px !important;
+    animation: zoom-in 0.7s ease-out;
+  }
+
+  
+  .g1{
+    position:absolute;
+    width:24vw !important;
+    top:78%;
+    left: 13%;
+    animation: arti1 2s infinite linear;
+
+    }
+    .g2{
+      position:absolute;
+      width:24vw !important;
+      top:78%;
+      right:10%;
+      animation: arti2 2s infinite linear;
+    }
+    .g3{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      right:11%;
+      animation: arti1 2s infinite linear;
+    }
+    .g4{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      left:11%;
+      animation: arti2 2s infinite linear;
+    }
+}
+
+
 
 
 @media only screen and (max-width:393px)
@@ -1022,6 +1803,84 @@ p a{
     }
     .fhgdfg h2 {
         font-size:35px;
+    }
+
+    
+    .RRDD1 .RRDG1{
+    position: absolute;
+    width: 14vw !important;
+    margin-left: 88px !important;
+    top: 36rem !important;
+    top: 41rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
+
+  
+  .RRDD2 .RRDG2{
+    position: absolute;
+    width: 8vw !important;
+    left: 184px !important;
+    bottom: 32px !important;
+
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+      width: 8vw !important;
+      left: 188px !important;
+        top: 575px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+        width: 12vw !important;
+      right: 108px !important;
+        top: 40rem !important;
+
+
+    animation: fade-left-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+        width: 30.5vw !important;
+        right: 9rem !important;
+        top: 618px !important;
+    animation: zoom-in 0.7s ease-out;
+  }
+
+  
+  .g1{
+    position:absolute;
+    width:24vw !important;
+    top:78%;
+    left: 13%;
+    animation: arti1 2s infinite linear;
+
+    }
+    .g2{
+      position:absolute;
+      width:24vw !important;
+      top:78%;
+      right:10%;
+      animation: arti2 2s infinite linear;
+    }
+    .g3{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      right:11%;
+      animation: arti1 2s infinite linear;
+    }
+    .g4{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      left:11%;
+      animation: arti2 2s infinite linear;
     }
 
 }
@@ -1043,399 +1902,170 @@ p a{
     {
         padding:14px 10px;
     }
-}
 
-
-/* Rohit css start */
-
-
-.RRDD1 .RRDG1{
+    
+    .RRDD1 .RRDG1{
     position: absolute;
-    width: 6rem;
-    margin-left: 157px;
-    top: 157px;
+    width: 14vw !important;
+    margin-left: 82px !important;
+    top: 36rem !important;
+    top: 41rem !important;
     animation: fade-right-wiggle 1.5s ease-out ;
-}
+  }
 
-@keyframes fade-right-wiggle{
-  0%{
-    transform: translate(-100px,-50px);
-    opacity: 0;
-    scale: 0;
-  }
-  25%{
-    transform: translate(-75px,40px);
-    opacity: 0.25;
-    scale: 0.25;
-  }
-  50%{
-    transform: translate(-50px,-30px);
-    opacity: 0.5;
-    scale: 0.5;
-  }
-  75%{
-    transform: translate(-25px,20px);
-    opacity: 0.75;
-    scale: 0.75;
-  }
-  100%{
-    transform: translate(0px,0px);
-    opacity: 1;
-    scale: 1;
-  }
-}
-
-@keyframes fade-left-wiggle{
-  0%{
-    transform: translate(100px,-50px);
-    opacity: 0;
-    scale: 0;
-  }
-  25%{
-    transform: translate(75px,40px);
-    opacity: 0.25;
-    scale: 0.25;
-  }
-  50%{
-    transform: translate(50px,-30px);
-    opacity: 0.5;
-    scale: 0.5;
-  }
-  75%{
-    transform: translate(25px,20px);
-    opacity: 0.75;
-    scale: 0.75;
-  }
-  100%{
-    transform: translate(0px,0px);
-    opacity: 1;
-    scale: 1;
-  }
-}
-
-@keyframes fade-up-wiggle{
-  0%{
-    transform: translate(-50px,-100px);
-    opacity: 0;
-    scale: 0;
-  }
-  25%{
-    transform: translate(40px,-75px);
-    opacity: 0.25;
-    scale: 0.25;
-  }
-  50%{
-    transform: translate(-30px,-50px);
-    opacity: 0.5;
-    scale: 0.5;
-  }
-  75%{
-    transform: translate(20px,-25px);
-    opacity: 0.75;
-    scale: 0.75;
-  }
-  100%{
-    transform: translate(0px,0px);
-    opacity: 1;
-    scale: 1;
-  }
-}
-
-@keyframes fade-down-wiggle{
-  0%{
-    transform: translate(-50px,100px);
-    opacity: 0;
-    scale: 0;
-  }
-  25%{
-    transform: translate(40px,75px);
-    opacity: 0.25;
-    scale: 0.25;
-  }
-  50%{
-    transform: translate(-30px,50px);
-    opacity: 0.5;
-    scale: 0.5;
-  }
-  75%{
-    transform: translate(20px,25px);
-    opacity: 0.75;
-    scale: 0.75;
-  }
-  100%{
-    transform: translate(0px,0px);
-    opacity: 1;
-    scale: 1;
-  }
-}
-
-.RRDD2 .RRDG2{
-  position: absolute;
-  width: 56px;
-  left: 297px;
-  bottom: 13px;
-  animation: fade-down-wiggle 1.5s ease-out ;
-}
-
-
-.RRDD3 .RRDG3{
+  
+  .RRDD2 .RRDG2{
     position: absolute;
-    width: 59px;
-    left: 284px;
-    top: 12px;
-    animation: fade-up-wiggle 1.5s ease-out ;
-}
+    width: 8vw !important;
+    left: 169px !important;
+    bottom: 26px !important;
 
-.RRDD4 .RRDG4{
-  position: absolute;
-    width: 5rem;
-    right: 173px;
-    top: 131px;
+    animation: fade-down-wiggle 1.5s ease-out ;
+  }
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+      width: 8vw !important;
+        left: 159px !important;
+        top: 575px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
+  }
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+        width: 12vw !important;
+      right: 108px !important;
+        top: 40rem !important;
+
+
     animation: fade-left-wiggle 1.5s ease-out ;
-}
+  }
 
-.RRDD5 .RRDG5{
-  position: absolute;
-    width: 13.5rem;
-    right: 235px;
-    top: 80px;  
+  .RRDD5 .RRDG5{
+    position: absolute;
+        width: 30.5vw !important;
+        right: 9rem !important;
+        top: 618px !important;
     animation: zoom-in 0.7s ease-out;
+  }
+
+  
+  .g1{
+    position:absolute;
+    width:24vw !important;
+    top:78%;
+    left: 13%;
+    animation: arti1 2s infinite linear;
+
+    }
+    .g2{
+      position:absolute;
+      width:24vw !important;
+      top:78%;
+      right:10%;
+      animation: arti2 2s infinite linear;
+    }
+    .g3{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      right:11%;
+      animation: arti1 2s infinite linear;
+    }
+    .g4{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      left:11%;
+      animation: arti2 2s infinite linear;
+    }
+
 }
 
-@keyframes zoom-in{
-  0%{
-    scale: 0;
-  }
-  50%{
-    scale: 1.2;
-  }
-  100%{
-    scale: 1;
-  }
-}
+@media only screen and (max-width:360px)
+{
 
-/* Rohit css end */
 
-/* karina css start */
-
-.g1{
-  position:absolute;
-  width:20rem !important;
-  top:45%;
-  left: 13%;
-  animation: arti1 2s infinite linear;
-
-}
-.g2{
-  position:absolute;
-  width:20rem !important;
-  top:42%;
-  right:10%;
-  animation: arti2 2s infinite linear;
-}
-.g3{
-  position:absolute;
-  width:20rem !important;
-  bottom:12%;
-  right:11%;
-  animation: arti1 2s infinite linear;
-}
-.g4{
-  position:absolute;
-  width:22rem !important;
-  bottom:14%;
-  left:11%;
-  animation: arti2 2s infinite linear;
-}
-@keyframes arti1{
-  0%{
-    transform: translateY(0);
-  }
-  30%{
-    transform: translateX(-1rem);
-  }
-  100%{
-    transform: translateY(0);
-  }
-}
-@keyframes arti2 {
-  0%{
-    transform: translateY(0);
-  }
-  30%{
-    transform: translateX(1rem);
-  }
-  100%{
-    transform: translateY(0);
-  }
-}
-
-/* Karina css end */
-
-/* Rohit css start */
-
-.RRRD1 .RRRDD1{
-  position: absolute;
-    width: 35px;
-    left: 412px;
-    bottom: 138px;
-}
-
-.RRRD2 .RRRDD2{
+    
+    .RRDD1 .RRDG1{
     position: absolute;
-    width: 4.5rem;
-    left: 14px;
-    bottom: 159px;
-}
+    width: 14vw !important;
+    margin-left: 82px !important;
+    top: 36rem !important;
+    top: 47rem !important;
+    animation: fade-right-wiggle 1.5s ease-out ;
+  }
 
-
-.RRRD3 .RRRDD3{
-  position: absolute;
-    width: 7.2rem;
-    right: 49px;
-    top: 72px;
-}
-
-.RRRD4 .RRRDD4{
-  position: absolute;
-    width: 3.8rem;
-    top: 127px;
-    left: 203px;
-}
-/* Rohit css end */
-
-
-/*karina startt*/
-
-.dbfghsdf{
-  position:relative;
-}
-.img1{
-        position: absolute;
-    width: 10vw !important;
-    height: auto !important;
-    left: 19%;
-    top: 2%;
-}
-.img2{
-     position: absolute;
-    width: 10vw !important;
-    height: auto !important;
-    left: 20%;
-    top: 63%;
-}
-.img3{
+  
+  .RRDD2 .RRDG2{
     position: absolute;
-    width: 10vw !important;
-    height: auto !important;
-    left: 60%;
-    top: 61%;
-}
-.img4{
- position: absolute;
-    width: 10vw !important;
-    height: auto !important;
-    left: 60%;
-    top: 2%;
-}
-.img5{
- position: absolute;
-    width: 10vw !important;
-    height: auto !important;
-    left: 76%;
-    top: 32%;
-}
-.img6{
- position: absolute;
-    width: 10vw !important;
-    height: auto !important;
-    left: 4%;
-    top: 32%;
-}
+    width: 8vw !important;
+    left: 169px !important;
+    bottom: 26px !important;
 
-/*karina endd*/
-
-/*rohit starttttt*/
-
-.Rpicbg{
-  width: 100%;
-}
-
-/*rohit enddddd*/
-
-
-
-/*nisha starttttt*/
-
-.sasimg1{
-  position: absolute;
-  width: 30vw !important;
-  bottom: 27.5%;
-  left: 11.5%;
-  animation: fadeleft 4s infinite;
-}
-@keyframes fadeleft{
-  0% {
-    transform: translateX(-100px);
-    opacity: 0;
+    animation: fade-down-wiggle 1.5s ease-out ;
   }
-  100% {
-    transform: translateX(0);
-    opacity: 1;
+
+
+  .RRDD3 .RRDG3{
+      position: absolute;
+        width: 8vw !important;
+        left: 153px !important;
+        top: 672px !important;
+      animation: fade-up-wiggle 1.5s ease-out ;
   }
-}
-.sasimg2{
-  position: absolute;
-  width: 30vw !important;
-  bottom: 4.2%;
-  left: 7.5%;
-  animation: dropUp 4s ease-out forwards infinite;
-}
-@keyframes dropUp {
-  0% {
-    transform: translateY(60px);
-    opacity: 0;
+
+  .RRDD4 .RRDG4{
+    position: absolute; 
+        width: 12vw !important;
+        right: 96px !important;
+        top: 46rem !important;
+
+
+    animation: fade-left-wiggle 1.5s ease-out ;
   }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
+
+  .RRDD5 .RRDG5{
+    position: absolute;
+        width: 30.5vw !important;
+        right: 8rem !important;
+        top: 710px !important;
+    animation: zoom-in 0.7s ease-out;
   }
-}
-.sasimg3{
-  position: absolute;
-  width: 29vw !important;
-  bottom: 27.5%;
-  right: 11.5%;
-  animation: dropIn 4s ease-out forwards infinite;
-}
-@keyframes dropIn {
-  0% {
-    transform: translateY(-60px);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-.sasimg4{
-  position: absolute;
-  width: 30vw !important;
-  bottom: 4.7%;
-  right: 8%;
-  animation: faderight 4s infinite;
-}
-@keyframes faderight{
-  0% {
-    transform: translateX(100px);
-    opacity: 0;
-  }
-  100% {
-    transform: translateX(0);
-    opacity: 1;
-  }
+
+  
+  .g1{
+    position:absolute;
+    width:24vw !important;
+    top:78%;
+    left: 13%;
+    animation: arti1 2s infinite linear;
+
+    }
+    .g2{
+      position:absolute;
+      width:24vw !important;
+      top:78%;
+      right:10%;
+      animation: arti2 2s infinite linear;
+    }
+    .g3{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      right:11%;
+      animation: arti1 2s infinite linear;
+    }
+    .g4{
+      position:absolute;
+      width:24vw !important;
+      bottom:10%;
+      left:11%;
+      animation: arti2 2s infinite linear;
+    }
+
 }
 
-/*nisha enddddd*/
 
 

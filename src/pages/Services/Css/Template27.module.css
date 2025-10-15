@@ -1,6 +1,7 @@
 .dbfghsdf img{
         width: 100%;
         height: auto;
+        margin-top: 30px;
     }
     .sdfghdfgdf {
       width: 50%;
@@ -1035,3 +1036,817 @@
     }
 }
 /* Prerana css end */
+
+
+@media only screen and (max-width:2551px){
+  .circle {
+    width: 18vw !important;
+    height: auto !important;
+    left: 32% !important;
+    top: 15% !important;
+    
+}
+  .img1 {
+    width: 9.5vw !important;
+    height: auto !important;
+    left: 20% !important;
+    top: 1% !important;
+}
+.img2 {
+        width: 10.5vw !important;
+        height: auto !important;
+        left: 20% !important;
+        top: 62% !important;
+}
+.img3{
+    width: 9.5vw !important;
+        height: auto !important;
+        left: 63% !important;
+        top: 1% !important;
+}
+.img4 {
+    width: 9.5vw !important;
+        height: auto !important;
+        left: 58% !important;
+        top: 53% !important;
+}
+.l1{
+    
+    height: auto !important;
+        width: 7.5vw !important;
+        top: 42vw !important;
+        right: 66vw !important;
+
+    
+}
+.l2{
+    
+    height: auto !important;
+        width: 7.7vw !important;
+        top: -7vw !important;
+        right: -21vw !important;
+    
+}
+.l3{
+    
+        height: auto !important;
+        width: 7.3vw !important;
+        top: 51vw !important;
+        right: 45vw !important;
+}
+.l4{
+    
+   height: auto !important;
+        width: 7.5vw !important;
+        top: 60vw !important;
+        right: 55vw !important;
+    
+}
+.l5{
+        height: auto !important;
+        width: 7.8vw !important;
+        top: 53vw !important;
+        right: 67vw !important;
+}
+.l6 {
+    height: 8vw !important;
+    width: 14vw !important;
+    top: 48.5vw !important;
+    right: 52.5vw !important;
+}
+}
+@media only screen and (max-width:1921px){
+  .l2 {
+        height: auto !important;
+        width: 7.7vw !important;
+        top: -2vw !important;
+        right: -19vw !important;
+}    
+}
+@media only screen and (max-width:1601px){
+  .l2{
+        height: auto !important;
+        width: 7.7vw !important;
+        top: 2vw !important;
+        right: -18vw !important;
+    }
+}
+@media only screen and (max-width:1367px){
+  .l6{
+        height: 8vw !important;
+        width: 14vw !important;
+        top: 53.5vw !important;
+        right: 52.5vw !important;
+    }
+    .l4{
+        height: auto !important;
+        width: 8.5vw !important;
+        top: 65vw !important;
+        right: 55vw !important;
+    }
+        .l5 {
+        height: auto !important;
+        width: 8.8vw !important;
+        top: 56vw !important;
+        right: 68vw !important;
+    }
+    .l1 {
+        height: auto !important;
+        width: 8.5vw !important;
+        top: 45vw !important;
+        right: 64vw !important;
+    }
+    .l3 {
+        height: auto !important;
+        width: 7.3vw !important;
+        top: 53vw !important;
+        right: 44vw !important;
+    }
+        .l2{
+        height: auto !important;
+        width: 8.7vw !important;
+        top: 7vw !important;
+        right: -18vw !important;
+    }
+}
+@media only screen and (max-width:801px){
+      .circle{
+        width: 35vw !important;
+        height: auto !important;
+        left: 34% !important;
+        top: 47% !important;
+    }
+    .img2{
+       width: 20.5vw !important;
+        height: auto !important;
+        left: 23% !important;
+        top: 76% !important;
+    }
+    .img3{
+        width: 18vw !important;
+        height: auto !important;
+        left: 64% !important;
+        top: 39% !important;
+    }
+    .img4 {
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 57% !important;
+        top: 69% !important;
+    }
+    .img1{
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 22% !important;
+        top: 39% !important;
+    }
+    .s4{
+    height: auto !important;
+        width: 35.3vw !important;
+        top: 16vw !important;
+        right: 52vw !important;
+    
+}
+.s1{
+    height: auto !important;
+    width: 30vw !important;
+    top: 9.2vw !important;
+    right: 19.1vw !important;
+}
+.s3{
+    height: auto !important;
+    width: 34.2vw !important;
+    top: 53vw !important;
+    right: 55vw !important;
+    
+}
+.s2{
+    height: auto !important;
+    width: 34.2vw !important;
+    top: 53.3vw !important;
+    right: 8.2vw !important;
+}
+.l6{
+        height: auto !important;
+        width: 41vw !important;
+        top: 202.5vw !important;
+        right: 27.5vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: -26vw !important;
+        right: -56vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 28.5vw !important;
+        top: 179vw !important;
+        right: 62vw !important;
+    
+}
+    .l5{
+        height: auto !important;
+        width: 30.8vw !important;
+        top: 218vw !important;
+        right: 65vw !important;
+}
+.l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 237vw !important;
+        right: 32vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 26.3vw !important;
+        top: 203vw !important;
+        right: 0vw !important;
+    }
+}
+@media only screen and (max-width:601px){
+  .circle{
+        width: 35vw !important;
+        height: auto !important;
+        left: 34% !important;
+        top: 56% !important;
+    }
+        .img1{
+        width: 17.5vw !important;
+        height: auto !important;
+        left: 22% !important;
+        top: 50% !important;
+    }
+    .img3{
+        width: 18vw !important;
+        height: auto !important;
+        left: 64% !important;
+        top: 50% !important;
+    }
+        .img2{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 21% !important;
+        top: 78% !important;
+    }
+    .img4{
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 60% !important;
+        top: 72% !important;
+    }
+    .s1{
+        height: auto !important;
+        width: 30vw !important;
+        top: 13.2vw !important;
+        right: 14.1vw !important;
+    }
+    .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 243.5vw !important;
+        right: 25.5vw !important;
+    }
+        .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 277vw !important;
+        right: 32vw !important;
+    }
+        .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 259vw !important;
+        right: 68vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 28.5vw !important;
+        top: 220vw !important;
+        right: 62vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 26.3vw !important;
+        top: 249vw !important;
+        right: -2vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: -11vw !important;
+        right: -56vw !important;
+    }
+}
+
+
+
+@media only screen and (max-width:600px)
+{
+     .btn125
+    {
+        padding:14px 20px;
+    }
+    
+     .btn126
+    {
+        padding:14px 20px;
+    }
+    
+    .custom-container,
+    .container-grid,
+    .custom-container10
+    {
+        width:90% !important;
+    }
+    
+    .dsfbsdf
+    {
+        margin-bottom:20px;
+    }
+    .fbgfjhg
+    {
+        margin-bottom:25px;
+    }
+    .vgbfdf
+    {
+        padding:10px;
+    }
+
+    .dbfghsdf 
+    {
+      margin-top: 30px;
+    }
+}
+
+
+
+@media only screen and (max-width:581px)
+{
+    .btn126{
+        margin-left: 0 !important;
+    }
+}
+
+@media only screen and (max-width:540px){
+  .l6 {
+        height: auto !important;
+        width: 44vw !important;
+        top: 263.5vw !important;
+        right: 25.5vw !important;
+    }
+        .l1{
+        height: auto !important;
+        width: 28.5vw !important;
+        top: 240vw !important;
+        right: 66vw !important;
+    }
+        .l3{
+        height: auto !important;
+        width: 24.3vw !important;
+        top: 267vw !important;
+        right: -2vw !important;
+    }
+    .l4 {
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 300vw !important;
+        right: 32vw !important;
+    }
+    .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 277vw !important;
+        right: 68vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: -2vw !important;
+        right: -56vw !important;
+    }
+}
+
+@media only screen and (max-width:538px)
+{
+    .sdcsdfeewwwww ul{
+        display: block;
+    }
+}
+@media only screen and (max-width:431px){
+  .circle {
+        width: 35vw !important;
+        height: auto !important;
+        left: 34% !important;
+        top: 69% !important;
+    }
+    .img1{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 22% !important;
+        top: 63% !important;
+    }
+        .img3{
+        width: 19vw !important;
+        height: auto !important;
+        left: 62% !important;
+        top: 63% !important;
+    }
+    .img2{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 21% !important;
+        top: 85% !important;
+    }
+    .img4{
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 60% !important;
+        top: 81% !important;
+    }
+    .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 327.5vw !important;
+        right: 25.5vw !important;
+    }
+    .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 363vw !important;
+        right: 32vw !important;
+    }
+        .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 341vw !important;
+        right: 68vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 28.3vw !important;
+        top: 334vw !important;
+        right: -2vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 307vw !important;
+        right: 66vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: 19vw !important;
+        right: -56vw !important;
+    }
+}
+
+
+@media only screen and (max-width:415px){
+      .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 339.5vw !important;
+        right: 25.5vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 315vw !important;
+        right: 63vw !important;
+    }
+    .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 376vw !important;
+        right: 32vw !important;
+    }
+    .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 354vw !important;
+        right: 68vw !important;
+    }
+        .l3 {
+        height: auto !important;
+        width: 28.3vw !important;
+        top: 346vw !important;
+        right: -2vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: 22vw !important;
+        right: -56vw !important;
+    }
+}
+
+@media only screen and (max-width:394px)
+{
+       .btn125
+    {
+        padding:14px 12px;
+    }
+    
+     .btn126
+    {
+        padding:14px 12px;
+    }
+    .fhgdfg h2 {
+        font-size:35px;
+    }
+    .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 349.5vw !important;
+        right: 25.5vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 324vw !important;
+        right: 63vw !important;
+    }
+        .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 364vw !important;
+        right: 68vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 28.3vw !important;
+        top: 356vw !important;
+        right: -2vw !important;
+    }
+    .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 387vw !important;
+        right: 32vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: 27vw !important;
+        right: -56vw !important;
+    }
+
+}
+
+
+@media only screen and (max-width:376px)
+{
+    h2 
+    {
+        font-size:30px !important;
+    }
+    
+       .btn125
+    {
+        padding:14px 10px;
+    }
+    
+     .btn126
+    {
+        padding:14px 10px;
+    }
+    .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 363.5vw !important;
+        right: 25.5vw !important;
+    }
+    .l1 {
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 337vw !important;
+        right: 63vw !important;
+    }
+    .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 379vw !important;
+        right: 68vw !important;
+    }
+        .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 402vw !important;
+        right: 32vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 26.3vw !important;
+        top: 371vw !important;
+        right: -1vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 31.7vw !important;
+        top: 30vw !important;
+        right: -56vw !important;
+    }
+}
+@media only screen and (max-width:361px){
+      .img2{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 25% !important;
+        top: 84% !important;
+    }
+        .img4{
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 57% !important;
+        top: 81% !important;
+    }
+    .circle{
+        width: 35vw !important;
+        height: auto !important;
+        left: 33% !important;
+        top: 76% !important;
+    }
+    .img1{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 22% !important;
+        top: 70% !important;
+    }
+    .img3{
+        width: 20vw !important;
+        height: auto !important;
+        left: 62% !important;
+        top: 70% !important;
+    }
+    .img2{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 23% !important;
+        top: 91% !important;
+    }
+        .img4 {
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 57% !important;
+        top: 87% !important;
+    }
+    .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 385.5vw !important;
+        right: 24.5vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 359vw !important;
+        right: 63vw !important;
+    }
+    .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 400vw !important;
+        right: 68vw !important;
+    }
+    .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 425vw !important;
+        right: 32vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 26.3vw !important;
+        top: 393vw !important;
+        right: -1vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 32.7vw !important;
+        top: 35vw !important;
+        right: -56vw !important;
+    }
+
+}
+@media only screen and (max-width:321px){
+  .img2{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 23% !important;
+        top: 89% !important;
+    }
+        .img4{
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 58% !important;
+        top: 86% !important;
+    }
+    .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 453.5vw !important;
+        right: 24.5vw !important;
+    }
+    .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 489vw !important;
+        right: 30vw !important;
+    }
+    .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 470vw !important;
+        right: 68vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 430vw !important;
+        right: 63vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 26.3vw !important;
+        top: 457vw !important;
+        right: -1vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 32.7vw !important;
+        top: 50vw !important;
+        right: -56vw !important;
+    }
+}
+@media only screen and (max-width:281px){
+  .circle{
+        width: 35vw !important;
+        height: auto !important;
+        left: 33% !important;
+        top: 79% !important;
+    }
+    .img1 {
+        width: 15.5vw !important;
+        height: auto !important;
+        left: 23% !important;
+        top: 77% !important;
+    }
+    .img3{
+        width: 16vw !important;
+        height: auto !important;
+        left: 62% !important;
+        top: 77% !important;
+    }
+    .img2{
+        width: 19.5vw !important;
+        height: auto !important;
+        left: 19% !important;
+        top: 89% !important;
+    }
+    .img4 {
+        width: 18.5vw !important;
+        height: auto !important;
+        left: 62% !important;
+        top: 86% !important;
+    }
+        .l6{
+        height: auto !important;
+        width: 44vw !important;
+        top: 546.5vw !important;
+        right: 24.5vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 522vw !important;
+        right: 63vw !important;
+    }
+    .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 562vw !important;
+        right: 68vw !important;
+    }
+        .l4{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 584vw !important;
+        right: 30vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 26.3vw !important;
+        top: 554vw !important;
+        right: -1vw !important;
+    }
+    .l2{
+        height: auto !important;
+        width: 32.7vw !important;
+        top: 70vw !important;
+        right: -56vw !important;
+
+}
+}
+

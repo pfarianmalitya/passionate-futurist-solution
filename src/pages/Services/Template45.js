@@ -39,6 +39,7 @@ export const Template45 = ({ serviceResponse, slug }) => {
               {serviceResponse.data?.banner_image && (
                 <img
                   src={`${serviceResponse.image_url}/Templete_45/${serviceResponse.data.banner_image}`}
+                  className={styles.banner_img_bg}
                   alt=""
                 />
               )}
@@ -107,6 +108,7 @@ export const Template45 = ({ serviceResponse, slug }) => {
                     {serviceResponse.data?.third_section_image && (
                       <img
                         src={`${serviceResponse.image_url}/Templete_45/${serviceResponse.data.third_section_image}`}
+                        className={styles.img_1_bg}
                         alt=""
                       />
                     )}
@@ -226,10 +228,11 @@ export const Template45 = ({ serviceResponse, slug }) => {
             <div className={styles.fgdfgfdg}>
               <div className="row">
                 <div className="col-lg-6">
-                  <div className={styles.dfbghdfd}>
+                  <div className={styles.dfbghdfdd}>
                     {serviceResponse.data?.fifth_section_image && (
                       <img
                         src={`${serviceResponse.image_url}/Templete_45/${serviceResponse.data.fifth_section_image}`}
+                        className={styles.img_2_bg}
                         alt=""
                       />
                     )}

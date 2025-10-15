@@ -661,3 +661,137 @@
   75%  { top: 80px; left: 0; }   /* Move Left */
   100% { top: 0; left: 0; }       /* Move Up */
 }
+
+
+@media only screen and (max-width:2551px) {
+  .movingimg {
+    width: 9vw !important;
+    height: 9vw !important;
+    top: -6vw !important;
+    left: 10vw !important;
+  }
+}
+
+@media only screen and (max-width:1921px) {
+  .movingimg {
+    width: 9vw !important;
+    height: 9vw !important;
+    top: -1vw !important;
+    left: 5vw !important;
+
+  }
+}
+
+@media only screen and (max-width:1600px) {
+  .movingimg {
+    width: 9vw !important;
+    height: 9vw !important;
+    top: 4vw !important;
+    left: 2vw !important;
+
+  }
+}
+
+@media only screen and (max-width:1367px) {
+  .movingimg {
+    width: 9vw !important;
+    height: 9vw !important;
+    top: 4vw !important;
+    left: 6vw !important;
+
+  }
+}
+
+@media only screen and (max-width:992px) {
+  .movingimg {
+    width: 10vw !important;
+    height: 10vw !important;
+    top: 13vw !important;
+    left: -5vw !important;
+  }
+}
+
+@media only screen and (max-width:800px) {
+  .movingimg {
+    width: 15vw !important;
+    height: 15vw !important;
+    top: 9vw !important;
+    left: 5vw !important;
+  }
+}
+
+@media only screen and (max-width:600px) {
+  .movingimg {
+    width: 16vw !important;
+    height: 16vw !important;
+    top: 25vw !important;
+    left: -11vw !important;
+  }
+}
+
+@media only screen and (max-width:541px) {
+  .movingimg {
+    width: 16vw !important;
+    height: 16vw !important;
+    top: 32vw !important;
+    left: -18vw !important;
+  }
+}
+
+@media only screen and (max-width:431px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+    top: 42vw !important;
+    left: -18vw !important;
+  }
+}
+@media only screen and (max-width:415px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+    top: 42vw !important;
+    left: -18vw !important;
+  }
+}
+@media only screen and (max-width:394px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+    top: 50vw !important;
+    left: -22vw !important;
+
+  }
+}
+@media only screen and (max-width:376px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+     top: 53vw !important;
+    left: -25vw !important;
+  }
+}
+@media only screen and (max-width:360px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+     top: 56vw !important;
+    left: -31vw !important;
+  }
+}
+@media only screen and (max-width:321px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+    top: 42vw !important;
+    left: -18vw !important;
+  }
+}
+@media only screen and (max-width:280px) {
+  .movingimg {
+    width: 17vw !important;
+    height: 17vw !important;
+    top: 42vw !important;
+    left: -18vw !important;
+  }
+}
