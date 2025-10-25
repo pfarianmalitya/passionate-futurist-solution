@@ -389,10 +389,134 @@
         box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
     }
 
+    .png1{
+    position:absolute;
+    width: 11rem ;
+    left: 55%;
+    top: 22%;
+  }
+  
+  .png2{
+    position:absolute;
+    width: 6rem ;
+    right: 9%;
+    top: 22%;
+  }
+  .png3{
+    position:absolute;
+    width:6rem ;
+    right:4%;
+    bottom:35%;
+    animation:third 3s;
+  }
+  @keyframes third {
+    0%{transform:scale(0.5);}
+    100%{transform:scale(1.5);}
+    
+  }
+  .png4{
+    position:absolute;
+    width:6rem ;
+    right:11%;
+    bottom:18%;
+    animation: fourth 3s;
+  }
+  @keyframes fourth{
+    0%{
+  transform: translateY(0);
+  }
+     30%{
+    transform: translateY(-1rem);
+  }
+     100%{
+    transform: translateY(0);
+  }
+}
+  .png5{
+    position:absolute;
+    width: 7rem ;
+    right: 34%;
+    bottom: 17%;
+    animation: fifth 3s;
+  }
+  @keyframes fifth{
+    0%{transform:rotate(90deg);}
+    100%{transform:scaleX(-1);}
+    
+  }
+  .png6{
+    position:absolute;
+    width: 8rem !important;
+    right: 40%;
+    bottom: 36%;
+    animation: sixth 3s;
+  }
+  @keyframes sixth{
+    0%{
+    transform: translateX(0);
+  }
+     30%{
+    transform: translateX(-1rem);
+  }
+     100%{
+    transform: translateX(0);
+  }
+   }
+/* Karina css end */
 
 
 
 
+
+@media only screen and (max-width:1366px)
+{
+  
+    .png1{
+    position:absolute;
+    width: 11rem  !important;
+    left: 55%;
+    top: 22%;
+  }
+  
+  .png2{
+    position:absolute;
+    width: 6rem !important;
+    right: 9%;
+    top: 22%;
+  }
+  .png3{
+    position:absolute;
+    width:6rem !important;
+    right:4%;
+    bottom:35%;
+    animation:third 3s;
+  }
+
+    .png5{
+    position:absolute;
+    width: 7rem  !important;
+    right: 34%;
+    bottom: 17%;
+    animation: fifth 3s;
+  }
+
+  .png6{
+    position:absolute;
+    width: 8rem !important;
+    right: 40%;
+    bottom: 36%;
+    animation: sixth 3s;
+  }
+
+    .png4{
+    position:absolute;
+    width:6rem  !important;
+    right:11%;
+    bottom:18%;
+    animation: fourth 3s;
+  }
+
+}
 
 
 
@@ -725,6 +849,33 @@
     {
         padding:10px;
     }
+
+    .png2
+    {
+      top: 44%;
+      width: 12vw !important;
+    }
+      .png1
+    {
+      width: 12vw !important;
+    }
+
+    .png3
+    {
+      width: 12vw !important;
+    }
+
+    .png4
+    {
+      width: 12vw !important;
+    }
+
+       .png6
+    {
+      width: 12vw !important;
+    }
+
+
 }
 
 
@@ -737,11 +888,39 @@
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+
+  .png2 
+  {
+    width: 10vw !important;
+    right: 13%;
+    top: 60%;
+  }
+  .png3 
+  {
+    top: 67%;
+  }
+  .png1 
+  {
+    width: 21vw !important;
+    top: 59%;
+    left: 14%;
+  }
+  .png6 
+  {
+    width: 12vw !important;
+    left: 7%;
+    top: 68%;
+  }
+  .png5 
+  {
+    width: 13vw !important;
+    left: 18%;
+  }
 }
 
 
@@ -759,6 +938,34 @@
     .fhgdfg h2 {
         font-size:35px;
     }
+
+      .png2 
+      {
+        width: 10vw !important;
+        right: 13%;
+        top: 60%;
+      }
+      .png3 
+      {
+        top: 67%;
+      }
+      .png1 
+      {
+        width: 21vw !important;
+        top: 59%;
+        left: 14%;
+      }
+      .png6 
+      {
+        width: 12vw !important;
+        left: 7%;
+        top: 68%;
+      }
+      .png5 
+      {
+        width: 13vw !important;
+        left: 18%;
+      }
 
 }
 
@@ -845,81 +1052,7 @@
 
 
 /* Karina css start */
-  .png1{
-    position:absolute;
-    width: 11rem !important;
-    left: 55%;
-    top: 22%;
-  }
   
-  .png2{
-    position:absolute;
-    width: 6rem !important;
-    right: 9%;
-    top: 22%;
-  }
-  .png3{
-    position:absolute;
-    width:6rem !important;
-    right:4%;
-    bottom:35%;
-    animation:third 3s;
-  }
-  @keyframes third {
-    0%{transform:scale(0.5);}
-    100%{transform:scale(1.5);}
-    
-  }
-  .png4{
-    position:absolute;
-    width:6rem !important;
-    right:11%;
-    bottom:18%;
-    animation: fourth 3s;
-  }
-  @keyframes fourth{
-    0%{
-  transform: translateY(0);
-  }
-     30%{
-    transform: translateY(-1rem);
-  }
-     100%{
-    transform: translateY(0);
-  }
-}
-  .png5{
-    position:absolute;
-    width: 7rem !important;
-    right: 34%;
-    bottom: 17%;
-    animation: fifth 3s;
-  }
-  @keyframes fifth{
-    0%{transform:rotate(90deg);}
-    100%{transform:scaleX(-1);}
-    
-  }
-  .png6{
-    position:absolute;
-    width: 8rem !important;
-    right: 40%;
-    bottom: 36%;
-    animation: sixth 3s;
-  }
-  @keyframes sixth{
-    0%{
-    transform: translateX(0);
-  }
-     30%{
-    transform: translateX(-1rem);
-  }
-     100%{
-    transform: translateX(0);
-  }
-   }
-/* Karina css end */
-
 /* Nisha css start */
 
 .gtdspic1{

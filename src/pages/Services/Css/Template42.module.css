@@ -841,7 +841,7 @@
     }
 
     .img1{
-    top: 63% !important;
+    top: 68% !important;
   }
   .img2{
     top: 88% !important;
@@ -869,6 +869,9 @@
     top: 82% !important;
     left: 0px !important;
   }
+  .img1{
+    top: 70% !important;
+  }
 }
 
 
@@ -888,7 +891,7 @@
     }
 
      .img1{
-    top: 66% !important;
+    top: 73% !important;
   }
   .img2{
     top: 88.9% !important;
@@ -921,7 +924,7 @@
     }
 
     .img1{
-    top: 67.2% !important;
+    top: 73.2% !important;
   }
   .img2{
     top: 90% !important;
@@ -937,7 +940,7 @@
 
 @media only screen and (max-width:361px){
   .img1{
-    top: 71.5% !important;
+    top: 76.5% !important;
   }
   .img2{
     top: 90.9% !important;

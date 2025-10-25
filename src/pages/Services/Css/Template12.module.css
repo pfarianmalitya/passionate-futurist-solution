@@ -1063,3 +1063,242 @@
       }
 
       /* Rohit css end */
+
+
+      /* start pay per  click responsive  */
+
+      @media only screen and (max-width:801px) {
+        .RIMMG4 .RIIMMG4 {
+          width: 27vw !important;
+          right: 37vw !important;
+          bottom: 16vw !important;
+        }
+
+        .RIMMG2 .RIIMMG2 {
+          width: 27vw !important;
+          right: 20vw !important;
+          bottom: 10vw !important;
+        }
+
+        .RIMMG1 .RIIMMG1 {
+          width: 25.5vw !important;
+          left: 18vw !important;
+          bottom: 9vw !important;
+        }
+        .RIMMG3 .RIIMMG3 {
+          position: absolute;
+            width: 12rem !important;
+            left: 326px !important;
+            top: 331px !important;
+                }
+          .picture2 {
+            position: absolute;
+            width: 26vw !important;
+            height: 24vw !important;
+            right: 31vw !important;
+            top: 31vw !important;
+          }
+
+            .picture1 {
+              width: 35vw !important;
+              height: 24vw !important;
+              left: 30vw;
+              top: 4vw;
+            }
+        .image1 {
+        position: absolute;
+        width: 13vw !important;
+        height: 12vw !important;
+        left: 17vw !important;
+        bottom: 42vw !important;
+        }
+
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw !important;
+            left: 41vw !important;
+            top: 106vw !important;
+        }
+      }
+      @media only screen and (max-width:601px) {
+            .picture2 {
+            position: absolute;
+            width: 27vw !important;
+            height: 24vw !important;
+            right: 33vw;
+            top: 31vw;
+        }
+        .picture1 {
+        width: 36vw !important;
+            height: 25vw !important;
+            left: 31vw;
+            top: 4vw;
+      }
+      .image1 {
+            width: 13vw !important;
+            height: 12vw !important;
+            left: 19vw;
+            bottom: 44vw;
+      }
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw;
+            left: 41vw;
+            top: 58.5vw;
+        }
+
+    }
+    @media only screen and (max-width:541px) {
+            .picture2 {
+            position: absolute;
+            width: 27vw !important;
+            height: 24vw !important;
+            right: 33vw;
+            top: 31vw;
+        }
+        .picture1 {
+        width: 36vw !important;
+            height: 25vw !important;
+            left: 31vw;
+            top: 4vw;
+      }
+      .image1 {
+            width: 13vw !important;
+            height: 12vw !important;
+            left: 19vw;
+            bottom: 44vw;
+      }
+      .image3 {
+        position: absolute;
+        width: 24vw !important;
+        height: auto !important;
+        left: 60vw;
+        top: 19%;
+      }
+      .image4 {
+        position: absolute;
+        width: 24vw !important;
+        height: auto !important;
+        left: 58%;
+        bottom: 6vw;
+      }
+      .image2 {
+        position: absolute;
+        width: 18vw !important;
+        height: 18vw !important;
+        right: 62vw;
+        bottom: 7vw;
+      }
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw;
+            left: 41vw;
+            top: 72vw;
+        }
+
+    }
+    @media only screen and (max-width:431px) {
+            .picture2 {
+            position: absolute;
+            width: 27vw !important;
+            height: 24vw !important;
+            right: 32vw;
+            top: 31vw;
+        }
+        .picture1 {
+        width: 36vw !important;
+            height: 25vw !important;
+            left: 31vw !important;
+            top: 4vw;
+      }
+      .image1 {
+            width: 13vw !important;
+            height: 12vw !important;
+            left: 19vw;
+            bottom: 44vw;
+      }
+      .image3 {
+        position: absolute;
+        width: 24vw !important;
+        height: auto !important;
+        left: 60vw;
+        top: 19%;
+      }
+      .image4 {
+        position: absolute;
+        width: 26vw !important;
+        height: auto !important;
+        left: 58%;
+        bottom: 6vw;
+      }
+      .image2 {
+        position: absolute;
+        width: 18vw !important;
+        height: 18vw !important;
+        right: 62vw;
+        bottom: 7vw;
+      }
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw !important;
+            left: 41vw !important;
+            top: 136vw !important;
+        }
+
+    }
+    @media only screen and (max-width:394px) {
+            .picture2 {
+            position: absolute;
+            width: 27vw !important;
+            height: 24vw !important;
+            right: 31vw;
+            top: 31vw;
+        }
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw !important;
+            left: 41vw !important;
+            top: 149vw !important;
+        }
+
+    }
+    @media only screen and (max-width:376px) {
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw !important;
+            left: 41vw !important;
+            top: 164vw !important;
+        }
+
+    }
+    @media only screen and (max-width:361px) {
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw !important;
+            left: 41vw !important;
+            top: 185vw !important;
+        }
+
+    }
+    @media only screen and (max-width:321px) {
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw;
+            left: 41vw;
+            top: 172vw;
+        }
+
+    }
+    @media only screen and (max-width:281px) {
+        .RIMMG3 .RIIMMG3 {
+            width: 24vw;
+            left: 41vw;
+            top: 220vw;
+        }
+            .picture2 {
+            position: absolute;
+            width: 26vw !important;
+            height: 23vw !important;
+            right: 30vw;
+            top: 31vw;
+        }
+            .picture1 {
+            width: 35vw !important;
+            height: 24vw !important;
+            left: 30vw;
+            top: 5vw;
+        }
+
+    }

@@ -893,3 +893,278 @@
   opacity:1;}
  }
 /* Karina css end */
+
+
+@media only screen and (max-width:2551px) {
+  .s2 {
+    width: 5.5vw !important;
+    bottom: 18.5vw !important;
+    left: 27vw !important;
+
+  }
+
+  .s1 {
+    width: 6vw !important;
+    bottom: 11vw !important;
+    left: 13.5vw !important;
+  }
+
+  .s4 {
+    position: absolute;
+    width: 10.5vw !important;
+    bottom: 18vw !important;
+    left: 3.7vw !important;
+  }
+
+  .s3 {
+    position: absolute;
+    width: 9vw !important;
+    bottom: 3vw !important;
+    left: 37vw !important;
+  }
+
+  .picture_1 {
+    width: 7vw !important;
+    height: auto !important;
+    left: 15vw;
+    top: 12vw;
+  }
+
+  .picture_2 {
+    position: absolute;
+    width: 5vw !important;
+    height: auto !important;
+    right: 38%;
+    top: 6%;
+  }
+
+  .picture_3 {
+    width: 6vw !important;
+    height: auto !important;
+    right: 16vw;
+    bottom: 4vw;
+  }
+
+  .motion4 {
+    position: absolute;
+    width: 14.5vw !important;
+    top: 14%;
+    right: 8%;
+  }
+
+  .motion1 {
+    position: absolute;
+    width: 19vw !important;
+    bottom: 3vw;
+    right: 4vw;
+  }
+
+  .motion3 {
+    position: absolute;
+    width: 16vw !important;
+    bottom: 3vw;
+    left: 2vw;
+  }
+
+  .motion2 {
+    position: absolute;
+    width: 18vw !important;
+    top: 4vw;
+    left: 7vw;
+  }
+}
+
+@media only screen and (max-width:1600px) {
+  .s2 {
+    width: 5.5vw !important;
+    bottom: 18.5vw !important;
+    left: 27vw !important;
+
+  }
+
+  .s1 {
+    width: 6vw !important;
+    bottom: 11vw !important;
+    left: 13.5vw !important;
+  }
+
+  .picture_1 {
+    width: 7vw !important;
+    height: auto !important;
+    left: 15vw;
+    top: 12vw;
+  }
+
+  .picture_3 {
+    width: 6vw !important;
+    height: auto !important;
+    right: 16vw;
+    bottom: 4vw;
+  }
+
+  .picture_2 {
+    width: 4vw !important;
+    height: auto !important;
+    right: 10vw;
+    top: 1vw;
+  }
+}
+@media only screen and (max-width:992px) {
+.s1 {
+       width: 8vw !important;
+        bottom: 14vw !important;
+        left: 16.5vw !important;
+    }
+    .s2{
+        width: 7.5vw !important;
+        bottom: 23.5vw !important;
+        left: 35vw !important;
+    }
+    .s3{
+      width: 13vw !important;
+        bottom: 4vw !important;
+        left: 46vw !important;
+    }
+    .s4{
+      width: 12.5vw !important;
+        bottom: 24vw !important;
+        left: 4.7vw !important;
+    }
+    .picture_1{
+      width: 21vw !important;
+        height: auto !important;
+        left: 46vw;
+        top: 34vw;
+    }
+    .picture_2{
+      width: 15vw !important;
+        height: auto !important;
+        left: 31vw;
+        top: 4vw;
+    }
+   .picture_3{
+        width: 17vw !important;
+        height: auto !important;
+        left: 17vw;
+        top: 33vw;
+    }
+  }
+@media only screen and (max-width:801px) {
+  .s2 {
+    width: 10.5vw !important;
+    bottom: 38.5vw !important;
+    left: 54vw !important;
+  }
+
+  .s1 {
+    width: 11vw !important;
+    bottom: 24vw !important;
+    left: 26.5vw !important;
+  }
+
+  .s3 {
+    width: 15vw !important;
+    bottom: 7vw !important;
+    left: 75vw !important;
+  }
+
+  .s4 {
+    width: 16.5vw !important;
+    bottom: 38vw !important;
+    left: 9.7vw !important;
+  }
+
+  .picture_1 {
+    width: 21vw !important;
+    height: auto !important;
+    left: 62vw;
+    top: 45vw;
+  }
+
+  .picture_2 {
+    width: 13vw !important;
+    height: auto !important;
+    left: 41vw;
+    top: 9vw;
+  }
+
+  .picture_3 {
+    width: 17vw !important;
+    height: auto !important;
+    right: 63vw;
+    top: 44vw;
+  }
+
+  .motion4 {
+    position: absolute;
+    width: 14.5vw !important;
+    top: 14%;
+    right: 8%;
+  }
+
+  .motion1 {
+    position: absolute;
+    width: 19vw !important;
+    bottom: 3vw;
+    right: 4vw;
+  }
+
+  .motion3 {
+    position: absolute;
+    width: 16vw !important;
+    bottom: 3vw;
+    left: 2vw;
+  }
+
+  .motion2 {
+    position: absolute;
+    width: 18vw !important;
+    top: 4vw;
+    left: 7vw;
+  }
+}
+
+@media only screen and (max-width:601px) {
+  .picture_1 {
+    width: 21vw !important;
+    height: auto !important;
+    left: 59vw;
+    top: 47vw;
+  }
+
+  .picture_2 {
+    width: 13vw !important;
+    height: auto !important;
+    right: 41vw;
+    top: 9vw;
+  }
+
+  .picture_3 {
+    width: 17vw !important;
+    height: auto !important;
+    right: 57vw;
+    top: 47vw;
+  }
+}
+@media only screen and (max-width:394px) {
+  .picture_1 {
+    width: 21vw !important;
+    height: auto !important;
+    left: 59vw;
+    top: 46vw;
+  }
+
+  .picture_2 {
+    width: 13vw !important;
+    height: auto !important;
+    right: 41vw;
+    top: 7vw;
+  }
+
+  .picture_3 {
+        width: 17vw !important;
+        height: auto !important;
+        right: 58vw;
+        bottom: 31vw;
+    }
+  }

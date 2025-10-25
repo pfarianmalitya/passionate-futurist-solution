@@ -829,11 +829,89 @@
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:430px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+    .le1 
+    {
+      height: 10.2vw !important;
+      width: 13.8vw !important;
+      top: 140.3vw !important;
+      right: 76.8vw !important;
+
+    }
+
+    .le5
+    {
+      top: 169.7vw !important;
+      right: 72vw !important;
+    }
+
+     .le3
+     {
+      top: 139.6vw !important;
+      right: 14vw !important;
+
+     }
+     .le2
+     {
+      top: 126.6vw !important;
+      right: 45vw !important;
+     }
+    .le4
+    {
+      top: 169vw !important;
+      right: 19vw !important;
+
+    }
+
+
+
+
+
+
+
+  
+
+}
+
+@media only screen and (max-width:415px) 
+{
+    .le1 
+    {
+
+      top: 144.3vw !important;
+      right: 76.8vw !important;
+
+    }
+
+    .le5
+    {
+      top: 174.7vw !important;
+      right: 72vw !important;
+    }
+
+     .le3
+     {
+      top: 144.6vw !important;
+      right: 14vw !important;
+
+     }
+     .le2
+     {
+      top: 130.6vw !important;
+      right: 45vw !important;
+     }
+    .le4
+    {
+      top: 173vw !important;
+      right: 19vw !important;
+
+    }
+
+
 }
 
 
@@ -850,6 +928,38 @@
     }
     .fhgdfg h2 {
         font-size:35px;
+    }
+
+      .le1 
+    {
+
+      top: 156.3vw !important;
+      right: 76.8vw !important;
+
+    }
+
+    .le5
+    {
+      top: 186.7vw !important;
+      right: 72vw !important;
+    }
+
+     .le3
+     {
+      top: 156.6vw !important;
+      right: 14vw !important;
+
+     }
+     .le2
+     {
+      top: 144.6vw !important;
+      right: 45vw !important;
+     }
+    .le4
+    {
+      top: 185vw !important;
+      right: 19vw !important;
+
     }
 
 }
@@ -871,8 +981,91 @@
     {
         padding:14px 10px;
     }
+
+    
+    .le1 
+    {
+
+      top: 162.3vw !important;
+      right: 76.8vw !important;
+
+    }
+
+    .le5
+    {
+      top: 192.7vw !important;
+      right: 72vw !important;
+    }
+
+     .le3
+     {
+      top: 162.6vw !important;
+      right: 14vw !important;
+
+     }
+     .le2
+     {
+      top: 150.6vw !important;
+      right: 45vw !important;
+     }
+    .le4
+    {
+      top: 195vw !important;
+      right: 19vw !important;
+
+    }
 }
 
+@media only screen and (max-width:375px)
+{
+    h2 
+    {
+        font-size:30px !important;
+    }
+    
+       .btn125
+    {
+        padding:14px 10px;
+    }
+    
+     .btn126
+    {
+        padding:14px 10px;
+    }
+
+    
+    .le1 
+    {
+
+      top: 182.3vw !important;
+      right: 76.8vw !important;
+
+    }
+
+    .le5
+    {
+      top: 212.7vw !important;
+      right: 72vw !important;
+    }
+
+     .le3
+     {
+      top: 182.6vw !important;
+      right: 14vw !important;
+
+     }
+     .le2
+     {
+      top: 170.6vw !important;
+      right: 45vw !important;
+     }
+    .le4
+    {
+      top: 215vw !important;
+      right: 19vw !important;
+
+    }
+}
 
 /*karina start*/
 

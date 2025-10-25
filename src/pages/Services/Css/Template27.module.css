@@ -1456,7 +1456,7 @@
         width: 19.5vw !important;
         height: auto !important;
         left: 21% !important;
-        top: 85% !important;
+        top: 84% !important;
     }
     .img4{
         width: 18.5vw !important;
@@ -1467,31 +1467,31 @@
     .l6{
         height: auto !important;
         width: 44vw !important;
-        top: 327.5vw !important;
+        top: 354.5vw !important;
         right: 25.5vw !important;
     }
     .l4{
         height: auto !important;
         width: 29.5vw !important;
-        top: 363vw !important;
+        top: 390vw !important;
         right: 32vw !important;
     }
         .l5{
         height: auto !important;
         width: 28.8vw !important;
-        top: 341vw !important;
-        right: 68vw !important;
+        top: 367vw !important;
+        right: 65vw !important;
     }
     .l3{
         height: auto !important;
         width: 28.3vw !important;
-        top: 334vw !important;
+        top: 371vw !important;
         right: -2vw !important;
     }
     .l1{
         height: auto !important;
         width: 29.5vw !important;
-        top: 307vw !important;
+        top: 326vw !important;
         right: 66vw !important;
     }
     .l2{
@@ -1504,40 +1504,40 @@
 
 
 @media only screen and (max-width:415px){
-      .l6{
+   .l6{
         height: auto !important;
         width: 44vw !important;
-        top: 339.5vw !important;
+        top: 369.5vw !important;
         right: 25.5vw !important;
-    }
-    .l1{
-        height: auto !important;
-        width: 29.5vw !important;
-        top: 315vw !important;
-        right: 63vw !important;
     }
     .l4{
         height: auto !important;
         width: 29.5vw !important;
-        top: 376vw !important;
+        top: 405vw !important;
         right: 32vw !important;
     }
-    .l5{
+        .l5{
         height: auto !important;
         width: 28.8vw !important;
-        top: 354vw !important;
-        right: 68vw !important;
+        top: 382vw !important;
+        right: 65vw !important;
     }
-        .l3 {
+    .l3{
         height: auto !important;
         width: 28.3vw !important;
-        top: 346vw !important;
+        top: 386vw !important;
         right: -2vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 341vw !important;
+        right: 60vw !important;
     }
     .l2{
         height: auto !important;
         width: 31.7vw !important;
-        top: 22vw !important;
+        top: 25vw !important;
         right: -56vw !important;
     }
 }
@@ -1556,40 +1556,40 @@
     .fhgdfg h2 {
         font-size:35px;
     }
-    .l6{
+   .l6{
         height: auto !important;
         width: 44vw !important;
-        top: 349.5vw !important;
+        top: 384.5vw !important;
         right: 25.5vw !important;
-    }
-    .l1{
-        height: auto !important;
-        width: 29.5vw !important;
-        top: 324vw !important;
-        right: 63vw !important;
-    }
-        .l5{
-        height: auto !important;
-        width: 28.8vw !important;
-        top: 364vw !important;
-        right: 68vw !important;
-    }
-    .l3{
-        height: auto !important;
-        width: 28.3vw !important;
-        top: 356vw !important;
-        right: -2vw !important;
     }
     .l4{
         height: auto !important;
         width: 29.5vw !important;
-        top: 387vw !important;
+        top: 420vw !important;
         right: 32vw !important;
+    }
+        .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 397vw !important;
+        right: 65vw !important;
+    }
+    .l3{
+        height: auto !important;
+        width: 28.3vw !important;
+        top: 401vw !important;
+        right: -2vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 356vw !important;
+        right: 56vw !important;
     }
     .l2{
         height: auto !important;
         width: 31.7vw !important;
-        top: 27vw !important;
+        top: 30vw !important;
         right: -56vw !important;
     }
 
@@ -1612,40 +1612,40 @@
     {
         padding:14px 10px;
     }
-    .l6{
+   .l6{
         height: auto !important;
         width: 44vw !important;
-        top: 363.5vw !important;
+        top: 389.5vw !important;
         right: 25.5vw !important;
     }
-    .l1 {
+    .l4{
         height: auto !important;
         width: 29.5vw !important;
-        top: 337vw !important;
-        right: 63vw !important;
+        top: 427vw !important;
+        right: 32vw !important;
     }
-    .l5{
+        .l5{
         height: auto !important;
         width: 28.8vw !important;
-        top: 379vw !important;
-        right: 68vw !important;
-    }
-        .l4{
-        height: auto !important;
-        width: 29.5vw !important;
-        top: 402vw !important;
-        right: 32vw !important;
+        top: 403vw !important;
+        right: 65vw !important;
     }
     .l3{
         height: auto !important;
-        width: 26.3vw !important;
-        top: 371vw !important;
-        right: -1vw !important;
+        width: 28.3vw !important;
+        top: 408vw !important;
+        right: -2vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 363vw !important;
+        right: 56vw !important;
     }
     .l2{
         height: auto !important;
         width: 31.7vw !important;
-        top: 30vw !important;
+        top: 33vw !important;
         right: -56vw !important;
     }
 }
@@ -1653,8 +1653,8 @@
       .img2{
         width: 19.5vw !important;
         height: auto !important;
-        left: 25% !important;
-        top: 84% !important;
+        left: 20% !important;
+        top: 88% !important;
     }
         .img4{
         width: 18.5vw !important;
@@ -1695,38 +1695,37 @@
     .l6{
         height: auto !important;
         width: 44vw !important;
-        top: 385.5vw !important;
-        right: 24.5vw !important;
-    }
-    .l1{
-        height: auto !important;
-        width: 29.5vw !important;
-        top: 359vw !important;
-        right: 63vw !important;
-    }
-    .l5{
-        height: auto !important;
-        width: 28.8vw !important;
-        top: 400vw !important;
-        right: 68vw !important;
+        top: 416.5vw !important;
+        right: 25.5vw !important;
     }
     .l4{
         height: auto !important;
         width: 29.5vw !important;
-        top: 425vw !important;
+        top: 454vw !important;
         right: 32vw !important;
+    }
+        .l5{
+        height: auto !important;
+        width: 28.8vw !important;
+        top: 430vw !important;
+        right: 65vw !important;
     }
     .l3{
         height: auto !important;
-        width: 26.3vw !important;
-        top: 393vw !important;
-        right: -1vw !important;
+        width: 28.3vw !important;
+        top: 435vw !important;
+        right: -2vw !important;
+    }
+    .l1{
+        height: auto !important;
+        width: 29.5vw !important;
+        top: 390vw !important;
+        right: 56vw !important;
     }
     .l2{
         height: auto !important;
-        width: 32.7vw !important;
-        top: 35vw !important;
-        right: -56vw !important;
+        width: 31.7vw !important;
+        top: 41vw !important;
     }
 
 }

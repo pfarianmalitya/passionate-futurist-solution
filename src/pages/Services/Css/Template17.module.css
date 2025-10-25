@@ -929,6 +929,51 @@
     }
 }
 
+@media only screen and (max-width:992px) {
+  .RRimg3 {
+    position: relative;
+    top: 28vw !important;
+    left: 12vw !important;
+  }
+
+  .RRimg6 {
+    position: relative;
+    top: 29vw !important;
+    left: 42vw !important;
+  }
+
+  .tmspic1 {
+    top: 43vw !important;
+    left: 12vw !important;
+    width: 17vw !important;
+    height: 8vw !important;
+  }
+
+  .tmspic2 {
+    top: 44vw !important;
+    left: 50vw !important;
+    width: 17vw !important;
+    height: 8vw !important;
+  }
+
+  .tmspic3 {
+    top: 62vw !important;
+    left: 10vw !important;
+    width: 17vw !important;
+    height: 8vw !important;
+  }
+
+  .tmspic4 {
+    top: 62vw !important;
+    left: 48vw !important;
+    width: 17vw !important;
+    height: 8vw !important;
+  }
+  .ijdnm_eoijrer h2{
+    margin-top: 4vw !important;
+  }
+}
+
 
 
 @media only screen and (max-width:600px)
@@ -1093,12 +1138,12 @@
     }
     .RR1 .RRimg1 {
         left: 14% !important;
-        top: 62% !important;
+        top: 66% !important;
         width: 24vw !important;
     }
         .RR4 .RRimg4{
         right: 12% !important;
-        top: 62% !important;
+        top: 66% !important;
         width: 22vw !important;
     }
     .RR2 .RRimg2{
@@ -1123,17 +1168,17 @@
     }
         .tmspic1{
         left: 14% !important;
-        top: 71% !important;
+        top: 74% !important;
         width: 32vw !important;
     }
     .tmspic2{
         right: 6% !important;
-        top: 71% !important;
+        top: 75% !important;
         width: 31vw !important;
     }
     .tmspic3{
         right: 6% !important;
-        top: 82% !important;
+        top: 85% !important;
         width: 31vw !important;
     }
         .tmspic4{
@@ -1173,12 +1218,12 @@
     }
         .RR1 .RRimg1{
         left: 14% !important;
-        top: 63% !important;
+        top: 77% !important;
         width: 24vw !important;
     }
         .RR4 .RRimg4 {
         right: 12% !important;
-        top: 63% !important;
+        top: 77% !important;
         width: 22vw !important;
     }
         .RR3 .RRimg3 {
@@ -1193,23 +1238,23 @@
     }
     .tmspic1 {
         left: 14% !important;
-        top: 73% !important;
+        top: 77% !important;
         width: 32vw !important;
     }
         .tmspic2{
         right: 6% !important;
-        top: 73% !important;
+        top: 77% !important;
         width: 29vw !important;
     }
     .tmspic3{
         left: 7% !important;
-        top: 84% !important;
+        top: 87% !important;
         width: 31vw !important;
     }
     .tmspic4 {
-        bottom: 5% !important;
+        bottom: 4% !important;
         right: 8% !important;
-        width: 31vw !important;
+        width: 30vw !important;
     }
 
 
@@ -1235,33 +1280,70 @@
 
       .RR1 .RRimg1 {
         left: 14% !important;
-        top: 66% !important;
+        top: 69% !important;
         width: 24vw !important;
     }
         .RR4 .RRimg4{
         right: 13% !important;
-        top: 66% !important;
+        top: 69% !important;
         width: 22vw !important;
     }
         .RR2 .RRimg2{
         bottom: 12% !important;
         left: 6% !important;
-        width: 19vw !important;
+        width: 17vw !important;
     }
         .RR6 .RRimg6{
         bottom: 2% !important;
         right: 14% !important;
-        width: 20vw !important;
+        width: 18vw !important;
     }
         .tmspic2 {
         right: 6% !important;
-        top: 74% !important;
-        width: 29vw !important;
+        top: 77% !important;
+        width: 24vw !important;
     }
         .tmspic1 {
         left: 14% !important;
-        top: 73.5% !important;
-        width: 32vw !important;
+        top: 77% !important;
+        width: 25vw !important;
+    }
+
+}
+
+
+@media only screen and (max-width:361px){
+        .RR1 .RRimg1 {
+        left: 14% !important;
+        top: 75% !important;
+        width: 24vw !important;
+    }
+        .RR4 .RRimg4{
+        right: 13% !important;
+        top: 75% !important;
+        width: 22vw !important;
+    }
+
+    .RR2 .RRimg2 {
+        bottom: 9% !important;
+        left: 7% !important;
+        width: 19vw !important;
+    }
+   .RR5 .RRimg5{
+        bottom: 9% !important;
+        right: 6% !important;
+        width: 19vw !important;
+    } 
+
+            .tmspic2 {
+        right: 6% !important;
+        top: 79% !important;
+        width: 24vw !important;
+    }
+        .tmspic1 {
+        left: 14% !important;
+        top: 79% !important;
+        width: 25vw !important;
     }
 
 }
@@ -1462,28 +1544,28 @@
 /* Nisha css start */
 .tmspic1{
   position: absolute;
-  width: 18rem !important;
+  width: 18rem;
   top: 42%;
   left: 9%;
   animation: fadeinleft 3s infinite ease forwards;
 }
 .tmspic2{
   position: absolute;
-  width: 14rem !important;
+  width: 14rem;
   top: 43%;
   right: 13%;
   animation: ripple 4s infinite;
 }
 .tmspic3{
   position: absolute;
-  width: 16rem !important;
+  width: 16rem;
   bottom: 9%;
   left: 12%;
   animation: ripple 4s infinite;
 }
 .tmspic4{
   position: absolute;
-  width: 17rem !important;
+  width: 17rem ;
   bottom: 8%;
   right: 11%;
   animation: fadeinright 3s infinite ease forwards;

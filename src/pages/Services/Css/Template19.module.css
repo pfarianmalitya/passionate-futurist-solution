@@ -319,182 +319,6 @@
 
 
 
-@media only screen and (max-width:2550px)
-{
-  
-  .titli1 .sayan01{
-    position: absolute;
-    width: 10rem !important;
-    top: -1rem !important;
-    right: 15% !important;
-  }
-  .titli2 .sayan02{
-    position: absolute;
-    width: 10rem !important;
-    top: 14rem !important;
-    left: 65rem !important;
-  }
-  .titli3 .sayan03{
-    position: absolute;
-      top: 29rem !important;
-      left: 8rem !important;
-      width: 10rem !important;
-  }
-  .titli4 .sayan04{
-    position: absolute;
-    width: 11rem !important;
-    top: 15rem !important;
-    left: 2rem !important;
-  }
-  .titli5 .sayan05{
-      position: absolute;
-      width: 10rem !important;
-      top: 0 !important;
-      left: 7rem !important;
-  }
-  .titli6 .sayan06{
-    position: absolute;
-    width: 10rem  !important;
-    top: 29rem !important;
-    left: 59rem  !important;
-  }
-
-
-}
-
-
-@media only screen and (max-width:1920px)
-{
-    .titli1 .sayan01{
-    position: absolute;
-    width: 8rem !important;
-    top: -1rem !important;
-    right: 15% !important;
-  }
-  .titli2 .sayan02{
-    position: absolute;
-    width: 8rem !important;
-    top: 12rem !important;
-    left: 45rem !important;
-  }
-  .titli3 .sayan03{
-    position: absolute;
-      top: 24rem !important;
-      left: 8rem !important;
-      width: 8rem !important;
-  }
-  .titli4 .sayan04{
-    position: absolute;
-    width: 9rem !important;
-    top: 12rem !important;
-    left: 2rem !important;
-  }
-  .titli5 .sayan05{
-      position: absolute;
-      width: 8rem !important;
-      top: 0 !important;
-      left: 7rem !important;
-  }
-  .titli6 .sayan06{
-    position: absolute;
-    width: 9rem  !important;
-    top: 24rem !important;
-    left: 43rem  !important;
-  }
-
-}
-
-
-
-@media only screen and (max-width:1600px)
-{
-
-    .titli1 .sayan01{
-    position: absolute;
-    width: 8rem !important;
-    top: -1rem !important;
-    right: 15% !important;
-  }
-  .titli2 .sayan02{
-    position: absolute;
-    width: 8rem !important;
-    top: 9rem !important;
-    left: 41rem !important;
-  }
-  .titli3 .sayan03{
-    position: absolute;
-      top: 19rem !important;
-      left: 8rem !important;
-      width: 8rem !important;
-  }
-  .titli4 .sayan04{
-    position: absolute;
-    width: 9rem !important;
-    top: 9rem !important;
-    left: 2rem !important;
-  }
-  .titli5 .sayan05{
-      position: absolute;
-      width: 8rem !important;
-      top: 0 !important;
-      left: 7rem !important;
-  }
-  .titli6 .sayan06{
-    position: absolute;
-    width: 9rem  !important;
-    top: 19rem !important;
-    left: 36rem  !important;
-  }
-  
-}
-
-
-
-@media only screen and (max-width:1366px)
-{
-  
-  .titli1 .sayan01{
-    position: absolute;
-    width: 9rem !important;
-    top: -1rem !important;
-    right: 15% !important;
-  }
-  .titli2 .sayan02{
-    position: absolute;
-    width: 8rem !important;
-    top: 10rem !important;
-    left: 28rem !important;
-  }
-  .titli3 .sayan03{
-    position: absolute;
-      top: 16rem !important;
-      left: 8rem !important;
-      width: 8rem !important;
-  }
-  .titli4 .sayan04{
-    position: absolute;
-    width: 10rem !important;
-    top: 8rem !important;
-    left: 4rem !important;
-  }
-  .titli5 .sayan05{
-      position: absolute;
-      width: 8rem !important;
-      top: 0 !important;
-      left: 7rem !important;
-  }
-  .titli6 .sayan06{
-    position: absolute;
-    width: 8rem  !important;
-    top: 17rem !important;
-    left: 24rem  !important;
-  }
-
-
-  
-}
-
-
 
 
 
@@ -919,3 +743,855 @@
 }
 
 /* syantika css end */
+
+
+
+
+@media only screen and (max-width:2550px)
+{
+  
+  .titli1 .sayan01{
+    position: absolute;
+    width: 10rem !important;
+    top: -1rem !important;
+    right: 15% !important;
+  }
+  .titli2 .sayan02{
+    position: absolute;
+    width: 10rem !important;
+    top: 14rem !important;
+    left: 65rem !important;
+  }
+  .titli3 .sayan03{
+    position: absolute;
+      top: 29rem !important;
+      left: 8rem !important;
+      width: 10rem !important;
+  }
+  .titli4 .sayan04{
+    position: absolute;
+    width: 11rem !important;
+    top: 15rem !important;
+    left: 2rem !important;
+  }
+  .titli5 .sayan05{
+      position: absolute;
+      width: 10rem !important;
+      top: 0 !important;
+      left: 7rem !important;
+  }
+  .titli6 .sayan06{
+    position: absolute;
+    width: 10rem  !important;
+    top: 29rem !important;
+    left: 59rem  !important;
+  }
+
+
+}
+
+
+@media only screen and (max-width:1920px)
+{
+    .titli1 .sayan01{
+    position: absolute;
+    width: 8rem !important;
+    top: -1rem !important;
+    right: 15% !important;
+  }
+  .titli2 .sayan02{
+    position: absolute;
+    width: 8rem !important;
+    top: 12rem !important;
+    left: 45rem !important;
+  }
+  .titli3 .sayan03{
+    position: absolute;
+      top: 24rem !important;
+      left: 8rem !important;
+      width: 8rem !important;
+  }
+  .titli4 .sayan04{
+    position: absolute;
+    width: 9rem !important;
+    top: 12rem !important;
+    left: 2rem !important;
+  }
+  .titli5 .sayan05{
+      position: absolute;
+      width: 8rem !important;
+      top: 0 !important;
+      left: 7rem !important;
+  }
+  .titli6 .sayan06{
+    position: absolute;
+    width: 9rem  !important;
+    top: 24rem !important;
+    left: 43rem  !important;
+  }
+
+}
+
+
+
+@media only screen and (max-width:1600px)
+{
+
+    .titli1 .sayan01{
+    position: absolute;
+    width: 8rem !important;
+    top: -1rem !important;
+    right: 15% !important;
+  }
+  .titli2 .sayan02{
+    position: absolute;
+    width: 8rem !important;
+    top: 9rem !important;
+    left: 41rem !important;
+  }
+  .titli3 .sayan03{
+    position: absolute;
+      top: 19rem !important;
+      left: 8rem !important;
+      width: 8rem !important;
+  }
+  .titli4 .sayan04{
+    position: absolute;
+    width: 9rem !important;
+    top: 9rem !important;
+    left: 2rem !important;
+  }
+  .titli5 .sayan05{
+      position: absolute;
+      width: 8rem !important;
+      top: 0 !important;
+      left: 7rem !important;
+  }
+  .titli6 .sayan06{
+    position: absolute;
+    width: 9rem  !important;
+    top: 19rem !important;
+    left: 36rem  !important;
+  }
+  
+}
+
+
+
+@media only screen and (max-width:1366px)
+{
+  
+  .titli1 .sayan01{
+    position: absolute;
+    width: 9rem !important;
+    top: -1rem !important;
+    right: 15% !important;
+  }
+  .titli2 .sayan02{
+    position: absolute;
+    width: 8rem !important;
+    top: 10rem !important;
+    left: 28rem !important;
+  }
+  .titli3 .sayan03{
+    position: absolute;
+      top: 16rem !important;
+      left: 8rem !important;
+      width: 8rem !important;
+  }
+  .titli4 .sayan04{
+    position: absolute;
+    width: 10rem !important;
+    top: 8rem !important;
+    left: 4rem !important;
+  }
+  .titli5 .sayan05{
+      position: absolute;
+      width: 8rem !important;
+      top: 0 !important;
+      left: 7rem !important;
+  }
+  .titli6 .sayan06{
+    position: absolute;
+    width: 8rem  !important;
+    top: 17rem !important;
+    left: 24rem  !important;
+  }
+
+
+  
+}
+
+
+
+
+
+
+@media only screen and (max-width:992px) {
+
+   .sayan05 {
+     position: relative;
+     top: 3vw !important;
+     left: 8vw !important;
+     width: 11vw !important;
+     height: 9vw !important;
+
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 15vw !important;
+     left: 6vw !important;
+     width: 12vw !important;
+     height: 10vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 27vw !important;
+     left: 14vw !important;
+     width: 12vw !important;
+     height: 10vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 3vw !important;
+     left: 44vw !important;
+     width: 12vw !important;
+     height: 10vw !important;
+
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 15vw !important;
+     left: 46vw !important;
+     width: 12vw !important;
+     height: 10vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 27vw !important;
+     left: 41vw !important;
+     width: 12vw !important;
+     height: 9vw !important;
+   }
+ }
+ @media only screen and (max-width:801px) {
+
+   .sayan05 {
+     position: relative;
+     top: 37vw !important;
+     left: 15vw !important;
+     width: 14vw !important;
+     height: 12vw !important;
+
+
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 55vw !important;
+     left: 9vw !important;
+     width: 17vw !important;
+     height: 13vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 75vw !important;
+     left: 25vw !important;
+     width: 15vw !important;
+     height: 12vw !important;
+
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 35vw !important;
+     left: 61vw !important;
+     width: 15vw !important;
+     height: 13vw !important;
+
+
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 55vw !important;
+     left: 67vw !important;
+     width: 15vw !important;
+     height: 13vw !important;
+
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 75vw !important;
+     left: 58vw !important;
+     width: 16vw !important;
+     height: 12vw !important;
+   }
+ }
+
+ @media only screen and (max-width:601px) {
+
+   .sayan05 {
+     position: relative;
+     top: 57vw !important;
+     left: 15vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 77vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 96vw !important;
+     left: 25vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 56vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 74vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 96vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+ }
+ @media only screen and (max-width:541px) {
+
+   .sayan05 {
+     position: relative;
+     top: 64vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 83vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 101vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 62vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 81vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 102vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+ }
+
+  @media only screen and (max-width:431px) {
+
+   .sayan05 {
+     position: relative;
+     top: 89vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 107vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 125vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 88vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 105vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 126vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg2 {
+     width: 8vw !important;
+     left: 35vw !important;
+     top: 29vw !important;
+     height: 9vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 34vw !important;
+     height: 9vw !important;
+   }
+ }
+
+ @media only screen and (max-width:415px) {
+
+   .sayan05 {
+     position: relative;
+     top: 89vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 107vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 125vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 87vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 105vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+.sayan06 {
+     position: relative;
+     top: 126vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg2 {
+     width: 8vw !important;
+     left: 35vw !important;
+     top: 29vw !important;
+     height: 9vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 34vw !important;
+     height: 9vw !important;
+   }
+ }
+ @media only screen and (max-width:394px) {
+
+   .sayan05 {
+     position: relative;
+     top: 99vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 117vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 137vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 98vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 117vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 137vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg2 {
+     width: 8vw !important;
+     left: 35vw !important;
+     top: 29vw !important;
+     height: 9vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 34vw !important;
+     height: 9vw !important;
+   }
+ }
+ @media only screen and (max-width:376px) {
+
+   .sayan05 {
+     position: relative;
+     top: 115vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 136vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 153vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 113vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 134vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 154vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg2 {
+     width: 8vw !important;
+     left: 35vw !important;
+     top: 29vw !important;
+     height: 9vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 34vw !important;
+     height: 9vw !important;
+   }
+ }
+@media only screen and (max-width:361px) {
+
+   .sayan05 {
+     position: relative;
+     top: 135vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 155vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 173vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 133vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 154vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 173vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg2 {
+     width: 8vw !important;
+     left: 35vw !important;
+     top: 29vw !important;
+     height: 9vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 34vw !important;
+     height: 9vw !important;
+   }
+ }
+
+ @media only screen and (max-width:321px) {
+
+   .sayan05 {
+     position: relative;
+     top: 150vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 170vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 189vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 149vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 169vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 190vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg1 {
+     width: 27vw !important;
+     left: 28vw !important;
+     top: 4vw !important;
+     height: 25vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 34vw !important;
+     height: 9vw !important;
+   }
+ }
+
+ @media only screen and (max-width:281px) {
+
+   .sayan05 {
+     position: relative;
+     top: 210vw !important;
+     left: 13vw !important;
+     width: 18vw !important;
+     height: 14vw !important;
+   }
+
+   .sayan04 {
+     position: relative;
+     top: 229vw !important;
+     left: 9vw !important;
+     width: 21vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan03 {
+     position: relative;
+     top: 248vw !important;
+     left: 20vw !important;
+     width: 18vw !important;
+     height: 15vw !important;
+   }
+
+   .sayan01 {
+     position: relative;
+     top: 209vw !important;
+     left: 61vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan02 {
+     position: relative;
+     top: 228vw !important;
+     left: 69vw !important;
+     width: 18vw !important;
+     height: 16vw !important;
+   }
+
+   .sayan06 {
+     position: relative;
+     top: 249vw !important;
+     left: 58vw !important;
+     width: 19vw !important;
+     height: 14vw !important;
+   }
+
+   .offimg1 {
+     width: 27vw !important;
+     left: 27vw !important;
+     top: 19vw !important;
+     height: 25vw !important;
+   }
+
+   .offimg2 {
+     width: 8vw !important;
+     left: 35vw !important;
+     top: 46vw !important;
+     height: 9vw !important;
+   }
+
+   .offimg3 {
+     width: 8vw !important;
+     left: 65vw !important;
+     top: 55vw !important;
+     height: 9vw !important;
+   }
+ }

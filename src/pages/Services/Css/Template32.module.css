@@ -1123,6 +1123,84 @@
   }
 }
 
+@media only screen and (max-width:992px) {
+  .on4 {
+    position: relative;
+    top: 2vw !important;
+    left: 1vw !important;
+    width: 15vw !important;
+  }
+
+  .on2 {
+    position: relative;
+    top: 18vw !important;
+    left: 4vw !important;
+    width: 12vw !important;
+  }
+
+  .on3 {
+    position: relative;
+    top: 6vw !important;
+    left: 47vw !important;
+    width: 14vw !important;
+  }
+
+  .on1 {
+    position: relative;
+    top: 23vw !important;
+    left: 47vw !important;
+    width: 14vw !important;
+  }
+
+  .picture1 {
+    position: relative;
+    top: 5vw !important;
+    left: 8vw !important;
+    width: 17vw !important;
+    height: 16vw !important;
+  }
+
+  .picture2 {
+    position: relative;
+    top: 9vw !important;
+    left: 57vw !important;
+    width: 7vw !important;
+    height: 6vw !important;
+  }
+
+  .picture3 {
+    position: relative;
+    top: 60vw !important;
+    left: 55vw !important;
+    width: 13vw !important;
+    height: 11vw !important;
+  }
+
+  .picture6 {
+    position: relative;
+    top: 60vw !important;
+    left: 9vw !important;
+    width: 15vw !important;
+    height: 13vw !important;
+  }
+
+  .picture5 {
+    position: relative;
+    top: 39vw !important;
+    left: 4vw !important;
+    width: 15vw !important;
+    height: 13vw !important;
+  }
+
+  .picture4 {
+    position: relative;
+    top: 32vw !important;
+    left: 10vw !important;
+    width: 6vw !important;
+    height: 5vw !important;
+  }
+}
+
 @media only screen and (max-width:801px) {
   .ones .on1 {
     width: 18vw;

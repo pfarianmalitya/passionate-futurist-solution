@@ -462,7 +462,7 @@
   .rohitp02 .rohitimg02{
     position: absolute;
     width: 17rem !important;
-      bottom: 372px  !important;
+      bottom: 356px  !important;
       left: 53px !important;
       /* animation: wiggle2 2s infinite linear; */
   }
@@ -487,7 +487,7 @@
   .rohitp01 .rohitimg01{
     position: absolute;
     width: 15rem !important;
-    bottom: 255px !important;
+    bottom: 233px !important;
     left: 86px !important;
     /* animation: wiggle 2s infinite linear; */
     }
@@ -1135,3 +1135,294 @@
 }
 
 /*karina enddddd*/
+
+
+@media only screen and (max-width:801px){
+  .gfgfgfgfgfg .t1{
+    height:19vw !important;
+    width:19vw !important;
+    top:36% !important;
+    right:37% !important;
+  }
+  .gfgfgfgfgfg .t2{
+    height:12vw !important;
+    width:12vw !important;
+    bottom:65% !important;
+    right:63.5% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    height:9vw !important;
+    width:9vw !important;
+    top:70.5% !important;
+    right:63.5% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    height:9vw !important;
+    width:9vw !important;
+    top:69% !important;
+    left:63% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    height:8.5vw !important;
+    width:8.5vw !important;
+    bottom:67.5% !important;
+    left:66.5% !important;
+  }
+  .rohitp01 .rohitimg01{
+    width: 36vw !important;
+    bottom: 15.8% !important;
+    left: 12.5% !important;
+  }
+  .rohitp02 .rohitimg02{
+    width: 39vw !important;
+    bottom: 34% !important;
+    left: 8% !important;
+  }
+  .rohitp03 .rohitimg03{
+    width: 37vw !important;
+    bottom: 8% !important;
+    left: 56% !important;
+  }
+  .rohitp04 .rohitimg04{
+    width: 34vw !important;
+    bottom: 32% !important;
+    left: 59% !important;
+  }
+}
+@media only screen and (max-width:600px){
+  .gfgfgfgfgfg .t1{
+    right:37.5% !important;
+  }
+  .gfgfgfgfgfg .t2{
+    bottom:64.5% !important;
+    right:64% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    top:69.5% !important;
+    right:64% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:68.5% !important;
+    left:63.3% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:66.5% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 13% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 27% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 6% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 25.7% !important;
+  }
+}
+@media only screen and (max-width:541px){
+  .gfgfgfgfgfg .t2{
+    bottom:63.5% !important;
+    right:63.8% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    right:63.7% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:67.5% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:66% !important;
+    left:66.5% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 12% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 25% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 24.2% !important;
+  }
+}
+@media only screen and (max-width:431px){
+  .gfgfgfgfgfg .t1{
+    top:35% !important;
+  }
+  .gfgfgfgfgfg .t2{
+    bottom:63% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    top:67.5% !important;
+    right:63.4% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:66.5% !important;
+    left:63% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:65% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 9% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 17.7% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 4.8% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 16.9% !important;
+  }
+}
+@media only screen and (max-width:415px){
+  .gfgfgfgfgfg .t2{
+    bottom:62.5% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:64% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 8% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 15.8% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 4.5% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 14.9% !important;
+  }
+}
+@media only screen and (max-width:394px){
+  .gfgfgfgfgfg .t1{
+    right:37% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    right:63.7% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:65.5% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 7.8% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 15.2% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 4.2% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 14.5% !important;
+  }
+}
+@media only screen and (max-width:376px){
+  .gfgfgfgfgfg .t2{
+    bottom:62% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    top:67% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:63.5% !important;
+  }
+  /* .rohitp01 .rohitimg01{
+    bottom: 8.5% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 17.5% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 4.1% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 16.8% !important;
+  } */
+}
+@media only screen and (max-width:361px){
+  .gfgfgfgfgfg .t2{
+    bottom:61.5% !important;
+    right:63.6% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    top:66% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:65% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 6.8% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 13% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 3.2% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 13% !important;
+  }
+}
+@media only screen and (max-width:321px){
+  .gfgfgfgfgfg .t1{
+    top:34% !important;
+  }
+  .gfgfgfgfgfg .t2{
+    bottom:60.8% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    top:65.2% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:64% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:62.5% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 6.2% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 13% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 3% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 12.2% !important;
+  }
+}
+@media only screen and (max-width:281px){
+  .gfgfgfgfgfg .t1{
+    top:33% !important;
+  }
+  .gfgfgfgfgfg .t2{
+    bottom:59.5% !important;
+  }
+  .gfgfgfgfgfg .t3{
+    top:64.2% !important;
+    right:63.5% !important;
+  }
+  .gfgfgfgfgfg .t5{
+    top:63% !important;
+  }
+  .gfgfgfgfgfg .t4{
+    bottom:61.5% !important;
+  }
+  .rohitp01 .rohitimg01{
+    bottom: 5.2% !important;
+  }
+  .rohitp02 .rohitimg02{
+    bottom: 10.8% !important;
+  }
+  .rohitp03 .rohitimg03{
+    bottom: 2.4% !important;
+  }
+  .rohitp04 .rohitimg04{
+    bottom: 10.2% !important;
+  }
+}
