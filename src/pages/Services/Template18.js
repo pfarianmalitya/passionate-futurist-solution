@@ -252,13 +252,13 @@ export const Template18 = ({ serviceResponse, slug }) => {
                     {slug === 'authority-building-service' && (
                       <>
                         <div className={styles.RRIIMMG1}>
-                          <img src="./images/authrity_build_2ndImg_1.png" className="RRIIMG1" style={{ position: "absolute", width: "7.5rem", height: "auto", top: "113px", right: "92px", transform: "scale(0.2)" , opacity:"0.2" }} alt="" />
+                          <img src="./images/authrity_build_2ndImg_1.png" className="RRIIMG1" style={{ position: "absolute", width: "var(--RRIIMG1-width)", height: "auto", top: "var(--RRIIMG1-top)", right: "var(--RRIIMG1-right)", transform: "scale(0.2)" , opacity:"0.2" }} alt="" />
                         </div>
                         <div className={styles.RRIIMMG2}>
-                          <img src="./images/authrity_build_2ndImg_2.png" style={{ position: "absolute", width: "6.5rem", height: "auto", bottom: "63px", right: "98px", transform: "scale(0.2)" , opacity:"0.2" }} className="RRIIMG2" alt="" />
+                          <img src="./images/authrity_build_2ndImg_2.png" style={{ position: "absolute", width: "var(--RRIIMG2-width)", height: "auto", bottom: "var(--RRIIMG2-bottom)", right: "var(--RRIIMG2-right)", transform: "scale(0.2)" , opacity:"0.2" }} className="RRIIMG2" alt="" />
                         </div>
                         <div className={styles.RRIIMMG3}>
-                          <img src="./images/authrity_build_2ndImg_3.png" className="RRIIMG3" style={{ position: "absolute", width: "7.5rem", height: "auto", bottom: "61px", left: "264px", transform: "scale(0.2)" , opacity:"0.2"  }} alt="" />
+                          <img src="./images/authrity_build_2ndImg_3.png" className="RRIIMG3" style={{ position: "absolute", width: "var(--RRIIMG3-width)", height: "auto", bottom: "var(--RRIIMG3-bottom)", left: "var(--RRIIMG3-left)", transform: "scale(0.2)" , opacity:"0.2"  }} alt="" />
                         </div>
                       </>
                     )}

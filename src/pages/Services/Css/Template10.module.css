@@ -2020,3 +2020,496 @@ p a{
     bottom: 187px;
 }
 /* Rohit css end */
+
+
+@media only screen and (max-width:801px){
+    .titli05{
+        width: 125px !important;
+        top: 215px !important;
+        left: 244px !important;
+}
+.titli01{
+    width: 215px !important;
+    top: 118px !important;
+    left: 79px !important;
+}
+.titli03 {
+    width: 232px !important;
+    top: 134px !important;
+    left: 332px !important;
+}
+.titli02 {
+    width: 215px !important;
+    top: 275px !important;
+    left: 87px !important;
+    
+}
+.titli04 {
+   width: 215px !important;
+    top: 287px !important;
+    left: 321px !important;
+    
+}
+.lead_img1 {
+    width: 30vw !important;
+    height: auto !important;
+    left: 18% !important;
+    top: 4% !important;
+}
+.lead_img2 {
+    position: absolute;
+    width: 30vw !important;
+    height: auto !important;
+    right: 17% !important;
+    top: 15% !important;
+}
+.lead_img3 {
+    position: absolute;
+    width: 30vw !important;
+    height: auto !important;
+    left: 19% !important;
+    top: 34% !important;
+}
+.lead_img4 {
+    position: absolute;
+    width: 30vw !important;
+    height: auto !important;
+    right: 16% !important;
+    bottom: 25% !important;
+}
+.lead_img5 {
+    position: absolute;
+    width: 30vw !important;
+    height: auto !important;
+    left: 17% !important;
+    bottom: 5% !important;
+}
+.pf2 {
+    position: absolute;
+    width: 26vw !important;
+    height: auto !important;
+    bottom: 35% !important;
+    left: 19.7% !important;
+ 
+}
+.pf1 {
+    position: absolute;
+    width: 28vw !important;
+    height: auto !important;
+    bottom: 11% !important;
+    left: 51.5% !important;
+}
+.RRimmg2 .RRImmg2 {
+    width: 17vw !important;
+    height: auto !important;
+    right: 135px !important;
+    top: 10px !important;
+}
+.RRimmg3 .RRImmg3 {
+    width: 13vw !important;
+    height: auto !important;
+    left: 135px !important;
+    bottom: 207px !important;
+}
+.RRimmg1 .RRImmg1 {
+    width: 14vw !important;
+    height: auto !important;
+    right: 175px !important;
+    bottom: 39px !important;
+}
+}
+
+@media only screen and (max-width:601px)
+{
+     .btn125
+    {
+        padding:14px 20px;
+    }
+    
+     .btn126
+    {
+        padding:14px 20px;
+    }
+    
+    .custom-container,
+    .container-grid,
+    .custom-container10
+    {
+        width:90% !important;
+    }
+    
+    .dsfbsdf
+    {
+        margin-bottom:20px;
+    }
+    .fbgfjhg
+    {
+        margin-bottom:25px;
+    }
+    .vgbfdf
+    {
+        padding:10px;
+    }
+    .titli05 {
+        width: 20vw !important;
+        top: 151px !important;
+        left: 226px !important;
+    }
+    .titli01 {
+        width: 35vw !important;
+        top: 31px !important;
+        left: 79px !important;
+    }
+    .titli03 {
+        width: 35vw !important;
+        top: 38px !important;
+        left: 266px !important;
+    }
+    .titli02 {
+        width: 35vw !important;
+        top: 203px !important;
+        left: 87px !important;
+    }
+        .titli04 {
+        width: 34vw !important;
+        top: 217px !important;
+        left: 294px !important;
+    }
+    .RRimmg3 .RRImmg3 {
+        width: 13vw !important;
+        height: auto !important;
+        left: 98px !important;
+        bottom: 145px !important;
+    }
+        .RRimmg1 .RRImmg1 {
+        width: 14vw !important;
+        height: auto !important;
+        right: 159px !important;
+        bottom: 32px !important;
+    }
+
+}
+@media only screen and (max-width:581px)
+{
+    .btn126{
+        margin-left: 0 !important;
+    }
+}
+
+@media only screen and (max-width:541px){
+    .titli05 {
+        width: 15vw !important;
+        top: 151px !important;
+        left: 222px !important;
+    }
+    .titli01 {
+        width: 33vw !important;
+        top: 48px !important;
+        left: 97px !important;
+    }
+        .titli03{
+        width: 32vw !important;
+        top: 53px !important;
+        left: 258px !important;
+    }
+        .titli02 {
+        width: 33vw !important;
+        top: 198px !important;
+        left: 104px !important;
+    }
+    .titli04 {
+        width: 29vw !important;
+        top: 217px !important;
+        left: 259px !important;
+    }
+    .RRimmg2 .RRImmg2 {
+        width: 17vw !important;
+        height: auto !important;
+        right: 110px !important;
+        top: 10px !important;
+    }
+}
+@media only screen and (max-width:538px)
+{
+    .sdcsdfeewwwww ul{
+        display: block;
+    }
+}
+@media only screen and (max-width:431px){
+    .titli05 {
+        width: 15vw !important;
+        top: 118px !important;
+        left: 164px !important;
+    }
+        .titli01 {
+        width: 33vw !important;
+        top: 37px !important;
+        left: 62px !important;
+    }
+    .titli03 {
+        width: 32vw !important;
+        top: 53px !important;
+        left: 199px !important;
+    }
+    .titli02 {
+        width: 33vw !important;
+        top: 161px !important;
+        left: 65px !important;
+    }
+    .titli04{
+        width: 29vw !important;
+        top: 170px !important;
+        left: 206px !important;
+    }
+    .RRimmg3 .RRImmg3 {
+        width: 13vw !important;
+        height: auto !important;
+        left: 75px !important;
+        bottom: 113px !important;
+    }
+    .RRimmg2 .RRImmg2 {
+        width: 17vw !important;
+        height: auto !important;
+        right: 81px !important;
+        top: 2px !important;
+    }
+    .RRimmg1 .RRImmg1 {
+        width: 14vw !important;
+        height: auto !important;
+        right: 113px !important;
+        bottom: 24px !important;
+    }
+
+}
+@media only screen and (max-width:415px){
+        .titli03 {
+        width: 32vw !important;
+        top: 53px !important;
+        left: 189px !important;
+    }
+    .titli04{
+        width: 29vw !important;
+        top: 170px !important;
+        left: 196px !important;
+    }
+}
+@media only screen and (max-width:394px)
+{
+       .btn125
+    {
+        padding:14px 12px;
+    }
+    
+     .btn126
+    {
+        padding:14px 12px;
+    }
+    .fhgdfg h2 {
+        font-size:35px;
+    }
+    .titli01 {
+        width: 33vw !important;
+        top: 37px !important;
+        left: 70px !important;
+    }
+    .titli03{
+        width: 32vw !important;
+        top: 53px !important;
+        left: 182px !important;
+    }
+        .titli02{
+        width: 33vw !important;
+        top: 155px !important;
+        left: 70px !important;
+    }
+   .titli04{
+        width: 29vw !important;
+        top: 160px !important;
+        left: 196px !important;
+    }
+     .RRimmg3 .RRImmg3{
+        width: 13vw !important;
+        height: auto !important;
+        left: 67px !important;
+        bottom: 108px !important;
+    }
+        .RRimmg1 .RRImmg1{
+        width: 14vw !important;
+        height: auto !important;
+        right: 99px !important;
+        bottom: 21px !important;
+    }
+}
+  
+@media only screen and (max-width:376px)
+{
+    h2 
+    {
+        font-size:30px !important;
+    }
+    
+       .btn125
+    {
+        padding:14px 10px;
+    }
+    
+     .btn126
+    {
+        padding:14px 10px;
+    }
+    .titli05{
+        width: 15vw !important;
+        top: 105px !important;
+        left: 147px !important;
+    }
+    .titli01{
+        width: 29vw !important;
+        top: 48px !important;
+        left: 70px !important;
+    }
+    .titli03 {
+        width: 32vw !important;
+        top: 53px !important;
+        left: 169px !important;
+    }
+        .titli02 {
+        width: 29vw !important;
+        top: 142px !important;
+        left: 70px !important;
+    }
+    .titli04 {
+        width: 26vw !important;
+        top: 144px !important;
+        left: 177px !important;
+    }
+    .RRimmg1 .RRImmg1 {
+        width: 14vw !important;
+        height: auto !important;
+        right: 100px !important;
+        bottom: 18px !important;
+    }
+
+}
+@media only screen and (max-width:361px){
+        .titli05 {
+        width: 15vw !important;
+        top: 100px !important;
+        left: 142px !important;
+    }
+        .titli01 {
+        width: 27vw !important;
+        top: 48px !important;
+        left: 76px !important;
+    }
+        .titli03 {
+        width: 28vw !important;
+        top: 55px !important;
+        left: 162px !important;
+    }
+        .titli02{
+        width: 29vw !important;
+        top: 128px !important;
+        left: 73px !important;
+    }
+    .titli04{
+        width: 26vw !important;
+        top: 133px !important;
+        left: 167px !important;
+    }
+    .RRimmg2 .RRImmg2 {
+        width: 17vw !important;
+        height: auto !important;
+        right: 67px !important;
+        top: 2px !important;
+    }
+    .RRimmg1 .RRImmg1 {
+        width: 14vw !important;
+        height: auto !important;
+        right: 89px !important;
+        bottom: 18px !important;
+    }
+    .titli05{
+        width: 15vw !important;
+        top: 86px !important;
+        left: 118px !important;
+    }
+}
+@media only screen and (max-width:321px){
+    .titli01{
+        width: 33vw !important;
+        top: 24px !important;
+        left: 41px !important;
+    }
+    .titli03{
+        width: 34vw !important;
+        top: 30px !important;
+        left: 133px !important;
+    }
+    .titli02{
+        width: 35vw !important;
+        top: 119px !important;
+        left: 38px !important;
+    }
+        .titli04{
+        width: 31vw !important;
+        top: 126px !important;
+        left: 133px !important;
+    }
+        .RRimmg3 .RRImmg3{
+        width: 13vw !important;
+        height: auto !important;
+        left: 54px !important;
+        bottom: 83px !important;
+    }
+    .RRimmg1 .RRImmg1{
+        width: 14vw !important;
+        height: auto !important;
+        right: 80px !important;
+        bottom: 16px !important;
+    }
+}
+@media only screen and (max-width:281px){
+    .titli05{
+        width: 15vw !important;
+        top: 76px !important;
+        left: 104px !important;
+    }
+        .titli01{
+        width: 31vw !important;
+        top: 29px !important;
+        left: 44px !important;
+    }
+    .titli03 {
+        width: 31vw !important;
+        top: 35px !important;
+        left: 121px !important;
+    }
+    .titli02{
+        width: 30vw !important;
+        top: 96px !important;
+        left: 47px !important;
+    }
+        .titli04{
+        width: 27vw !important;
+        top: 105px !important;
+        left: 125px !important;
+    }
+        .RRimmg3 .RRImmg3{
+        width: 13vw !important;
+        height: auto !important;
+        left: 47px !important;
+        bottom: 74px !important;
+    }
+        .RRimmg2 .RRImmg2{
+        width: 17vw !important;
+        height: auto !important;
+        right: 52px !important;
+        top: 2px !important;
+    }
+    .RRimmg1 .RRImmg1{
+        width: 14vw !important;
+        height: auto !important;
+        right: 71px !important;
+        bottom: 13px !important;
+    }
+}

@@ -1207,3 +1207,769 @@ p a{
   100%{transform:translateX(0);opacity:1.2};
 }
 /* prerana css end */
+
+
+/* social media optimization */
+
+
+@media only screen and (max-width:801px){
+  .opti1{
+    width: 26vw !important;
+    top: 42% !important;
+    left: 6% !important;
+}
+.opti2{
+   width: 29vw !important;
+        top: 40% !important;
+        right: 1% !important;
+}
+.opti4{
+    width: 15vw !important;
+    bottom: 1% !important;
+    left: 9% !important;
+}
+.opti3{
+    width: 26vw !important;
+    bottom: 9% !important;
+    right: 4% !important;
+}
+.social .s3 {
+    width: 17vw !important;
+    bottom: 57% !important;
+    left: 32% !important;
+
+}
+.social .s2{
+    width: 19vw !important;
+    bottom: 48% !important;
+    left: 68.5% !important;
+
+}
+.social .s1 {
+    width: 19vw !important;
+    bottom: 28% !important;
+    left: 72% !important;
+}
+.sc1 {
+   height: 76vw !important;
+        width: 41vw !important;
+        top: 62vw !important;
+        right: 26.5vw !important;
+    
+}
+.sc6{
+   height: auto !important;
+        width: 28vw !important;
+        top: 36.5vw !important;
+        right: 32.5vw !important;
+    
+}
+.sc2{
+    height: auto !important;
+    width: 24.5vw !important;
+    top: 61vw !important;
+    right: 68vw !important;
+}
+.sc3 {
+    height: auto !important;
+    width: 23vw !important;
+    top: 61vw !important;
+    right: 6.3vw !important;
+}
+.sc4 {
+    height: auto !important;
+    width: 23.6vw !important;
+    top: 102.3vw !important;
+    right: 69.3vw !important;
+}
+.sc5 {
+    height: auto !important;
+    width: 24vw !important;
+    top: 102.5vw !important;
+    right: 2.5vw !important;
+}
+.smospic1{
+    width: 15vw !important;
+    bottom: 33% !important;
+    left: 8% !important;
+   
+}
+.smospic2 {
+    position: absolute;
+    width: 15vw !important;
+    top: 5% !important;
+    left: 24% !important;
+    
+}
+.smospic3 {
+    width: 15vw !important;
+    right: 21.5% !important;
+    bottom: 45% !important;
+ 
+}
+.smospic4{
+    width: 17vw !important;
+    top: 15% !important;
+    right: 5% !important;
+  
+}
+
+}
+
+@media only screen and (max-width:601px)
+{
+     .btn125
+    {
+        padding:14px 20px;
+    }
+    
+     .btn126
+    {
+        padding:14px 20px;
+    }
+    
+    .custom-container,
+    .container-grid,
+    .custom-container10
+    {
+        width:90% !important;
+    }
+    
+    .dsfbsdf
+    {
+        margin-bottom:20px;
+    }
+    .fbgfjhg
+    {
+        margin-bottom:25px;
+    }
+    .vgbfdf
+    {
+        padding:10px;
+    }
+        .opti1 {
+        width: 26vw !important;
+        top: 52% !important;
+        left: 6% !important;
+    }
+        .opti2{
+        width: 29vw !important;
+        top: 51% !important;
+        right: 1% !important;
+    }
+    .opti3{
+        width: 26vw !important;
+        bottom: 7% !important;
+        right: 4% !important;
+    }
+    .social .s3{
+        width: 17vw !important;
+        bottom: 48% !important;
+        left: 32% !important;
+    }
+    .social .s2{
+        width: 19vw !important;
+        bottom: 43% !important;
+        left: 68.5% !important;
+    }
+    .social .s1 {
+        width: 19vw !important;
+        bottom: 26% !important;
+        left: 72% !important;
+    }
+    .sc1{
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 88vw !important;
+        right: 26.5vw !important;
+    }
+        .sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 129.3vw !important;
+        right: 69.3vw !important;
+    }
+    .sc5{
+        height: auto !important;
+        width: 24vw !important;
+        top: 129.5vw !important;
+        right: 2.5vw !important;
+    }
+    .sc2{
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 90vw !important;
+        right: 68vw !important;
+    }
+        .sc3 {
+        height: auto !important;
+        width: 23vw !important;
+        top: 89vw !important;
+        right: 6.3vw !important;
+    }
+    .sc6{
+        height: auto !important;
+        width: 28vw !important;
+        top: 63.5vw !important;
+        right: 32.5vw !important;
+    }
+  }
+
+
+
+@media only screen and (max-width:581px)
+{
+    .btn126{
+        margin-left: 0 !important;
+    }
+}
+
+@media only screen and (max-width:541px){
+  .opti1 {
+        width: 26vw !important;
+        top: 56% !important;
+        left: 6% !important;
+    }
+    .opti2{
+        width: 29vw !important;
+        top: 55% !important;
+        right: 1% !important;
+    }
+        .opti4{
+        width: 15vw !important;
+        bottom: 2% !important;
+        left: 9% !important;
+    }
+        .social .s3 {
+        width: 17vw !important;
+        bottom: 45% !important;
+        left: 32% !important;
+    }
+    .social .s2 {
+        width: 19vw !important;
+        bottom: 40% !important;
+        left: 68.5% !important;
+    }
+        .social .s1{
+        width: 19vw !important;
+        bottom: 24% !important;
+        left: 72% !important;
+    }
+    .sc1{
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 105vw !important;
+        right: 26.5vw !important;
+    }
+    .sc4 {
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 147.3vw !important;
+        right: 69.3vw !important;
+    }
+    .sc2{
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 107vw !important;
+        right: 68vw !important;
+    }
+    .sc5 {
+        height: auto !important;
+        width: 24vw !important;
+        top: 146.5vw !important;
+        right: 2.5vw !important;
+    }
+    .sc3{
+        height: auto !important;
+        width: 23vw !important;
+        top: 107vw !important;
+        right: 6.3vw !important;
+    }
+        .sc6{
+        height: auto !important;
+        width: 28vw !important;
+        top: 78.5vw !important;
+        right: 32.5vw !important;
+    }
+}
+
+@media only screen and (max-width:538px)
+{
+    .sdcsdfeewwwww ul{
+        display: block;
+    }
+}
+@media only screen and (max-width:431px){
+     .opti1{
+        width: 27vw !important;
+        top: 71% !important;
+        left: 5% !important;
+    }
+    .opti2{
+        width: 31vw !important;
+        top: 71% !important;
+        right: -2% !important;
+    }
+    .opti3 {
+        width: 28vw !important;
+        bottom: 5% !important;
+        right: 3% !important;
+    }
+        .opti4 {
+        width: 17vw !important;
+        bottom: 1% !important;
+        left: 9% !important;
+    }
+    .social .s3 {
+        width: 17vw !important;
+        bottom: 35% !important;
+        left: 32% !important;
+    }
+    .social .s2 {
+        width: 19vw !important;
+        bottom: 31% !important;
+        left: 68.5% !important;
+    }
+        .social .s1{
+        width: 19vw !important;
+        bottom: 19% !important;
+        left: 72% !important;
+    }
+    .sc1 {
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 142vw !important;
+        right: 26.5vw !important;
+    }
+.sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 182.3vw !important;
+        right: 64.3vw !important;
+    }
+        .sc2{
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 146vw !important;
+        right: 63vw !important;
+    }
+    .sc5 {
+        height: auto !important;
+        width: 24vw !important;
+        top: 181.5vw !important;
+        right: 5.5vw !important;
+    }
+    .sc3 {
+        height: auto !important;
+        width: 23vw !important;
+        top: 145vw !important;
+        right: 8.3vw !important;
+    }
+    .sc6 {
+        height: auto !important;
+        width: 28vw !important;
+        top: 119.5vw !important;
+        right: 32.5vw !important;
+    }
+    .smospic2{
+        position: absolute;
+        width: 15vw !important;
+        top: 25% !important;
+        left: 20% !important;
+    }
+    .smospic3{
+        width: 15vw !important;
+        right: 18.5% !important;
+        bottom: 45% !important;
+    }
+    .smospic4{
+        width: 17vw !important;
+        top: 22% !important;
+        right: 3% !important;
+    }
+}
+@media only screen and (max-width:415px){
+  .sc1 {
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 146vw !important;
+        right: 24.5vw !important;
+    }
+    .sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 189.3vw !important;
+        right: 64.3vw !important;
+    }
+    .sc5 {
+        height: auto !important;
+        width: 24vw !important;
+        top: 189.5vw !important;
+        right: 2.5vw !important;
+    }
+        .sc2{
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 150vw !important;
+        right: 63vw !important;
+    }
+    .sc3{
+        height: auto !important;
+        width: 23vw !important;
+        top: 149vw !important;
+        right: 6.3vw !important;
+    }
+    .sc6 {
+        height: auto !important;
+        width: 28vw !important;
+        top: 123.5vw !important;
+        right: 31.5vw !important;
+    }
+}
+@media only screen and (max-width:394px)
+{
+       .btn125
+    {
+        padding:14px 12px;
+    }
+    
+     .btn126
+    {
+        padding:14px 12px;
+    }
+    .fhgdfg h2 {
+        font-size:35px;
+    }
+    .opti2{
+        width: 31vw !important;
+        top: 73% !important;
+        right: -2% !important;
+    }
+    .opti1{
+        width: 27vw !important;
+        top: 73% !important;
+        left: 5% !important;
+    }
+    .social .s3 {
+        width: 17vw !important;
+        bottom: 33% !important;
+        left: 32% !important;
+    }
+        .social .s2{
+        width: 19vw !important;
+        bottom: 29% !important;
+        left: 68.5% !important;
+    }
+.social .s1{
+        width: 19vw !important;
+        bottom: 18% !important;
+        left: 72% !important;
+    }
+    .sc1{
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 159vw !important;
+        right: 24.5vw !important;
+    }
+    .sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 198.3vw !important;
+        right: 63.3vw !important;
+    }
+        .sc5{
+        height: auto !important;
+        width: 24vw !important;
+        top: 198.5vw !important;
+        right: 3.5vw !important;
+    }
+    .sc2{
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 161vw !important;
+        right: 63vw !important;
+    }
+        .sc3{
+        height: auto !important;
+        width: 23vw !important;
+        top: 160vw !important;
+        right: 6.3vw !important;
+    }
+    .sc6{
+        height: auto !important;
+        width: 28vw !important;
+        top: 136.5vw !important;
+        right: 30.5vw !important;
+    }
+}
+
+
+
+@media only screen and (max-width:376px)
+{
+    h2 
+    {
+        font-size:30px !important;
+    }
+    
+       .btn125
+    {
+        padding:14px 10px;
+    }
+    
+     .btn126
+    {
+        padding:14px 10px;
+    }
+    .opti1 {
+        width: 27vw !important;
+        top: 75% !important;
+        left: 5% !important;
+    }
+    .opti2 {
+        width: 31vw !important;
+        top: 73% !important;
+        right: -2% !important;
+    }
+    .social .s2 {
+        width: 19vw !important;
+        bottom: 28% !important;
+        left: 68.5% !important;
+    }
+    .sc1 {
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 167vw !important;
+        right: 24.5vw !important;
+    }
+    .sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 208.3vw !important;
+        right: 63.3vw !important;
+    }
+        .sc5{
+        height: auto !important;
+        width: 24vw !important;
+        top: 207.5vw !important;
+        right: 3.5vw !important;
+    }
+    .sc2{
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 170vw !important;
+        right: 63vw !important;
+    }
+    .sc3{
+        height: auto !important;
+        width: 23vw !important;
+        top: 168vw !important;
+        right: 6.3vw !important;
+    }
+    .sc6{
+        height: auto !important;
+        width: 28vw !important;
+        top: 145.5vw !important;
+        right: 30.5vw !important;
+    }
+}
+
+@media only screen and (max-width:361px){
+      .opti1{
+        width: 27vw !important;
+        top: 76% !important;
+        left: 5% !important;
+    }
+    .opti2{
+        width: 31vw !important;
+        top: 76% !important;
+        right: -2% !important;
+    }
+        .opti3 {
+        width: 28vw !important;
+        bottom: 4% !important;
+        right: 3% !important;
+    }
+    .social .s3 {
+        width: 17vw !important;
+        bottom: 30% !important;
+        left: 35% !important;
+    }
+    .social .s2 {
+        width: 19vw !important;
+        bottom: 26% !important;
+        left: 68.5% !important;
+    }
+    .social .s1{
+        width: 19vw !important;
+        bottom: 17% !important;
+        left: 72% !important;
+    }
+    .sc1 {
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 202vw !important;
+        right: 24.5vw !important;
+    }
+    .sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 241.3vw !important;
+        right: 61.3vw !important;
+    }
+    .sc5{
+        height: auto !important;
+        width: 24vw !important;
+        top: 240.5vw !important;
+        right: 3.5vw !important;
+    }
+        .sc2 {
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 201vw !important;
+        right: 60vw !important;
+    }
+        .sc3 {
+        height: auto !important;
+        width: 23vw !important;
+        top: 200vw !important;
+        right: 8.3vw !important;
+    }
+    .sc6{
+        height: auto !important;
+        width: 28vw !important;
+        top: 179.5vw !important;
+        right: 30.5vw !important;
+    }
+}
+@media only screen and (max-width:321px){
+  .opti1 {
+        width: 27vw !important;
+        top: 74% !important;
+        left: 5% !important;
+    }
+    .opti2 {
+        width: 31vw !important;
+        top: 73% !important;
+        right: -2% !important;
+    }
+    .social .s3 {
+        width: 17vw !important;
+        bottom: 25% !important;
+        left: 35% !important;
+    }
+        .social .s2{
+        width: 19vw !important;
+        bottom: 23% !important;
+        left: 68.5% !important;
+    }
+    .social .s1 {
+        width: 19vw !important;
+        bottom: 14% !important;
+        left: 72% !important;
+    }
+    .sc1{
+        height: 76vw !important;
+        width: 41vw !important;
+        top: 237vw !important;
+        right: 24.5vw !important;
+    }
+    .sc4{
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 275.3vw !important;
+        right: 61.3vw !important;
+    }
+    .sc5{
+        height: auto !important;
+        width: 24vw !important;
+        top: 274.5vw !important;
+        right: 3.5vw !important;
+    }
+        .sc2 {
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 236vw !important;
+        right: 60vw !important;
+    }
+    .sc3{
+        height: auto !important;
+        width: 23vw !important;
+        top: 235vw !important;
+        right: 8.3vw !important;
+    }
+    .sc6 {
+        height: auto !important;
+        width: 25vw !important;
+        top: 217.5vw !important;
+        right: 30.5vw !important;
+    }
+}
+@media only screen and (max-width:281px){
+  .opti1 {
+        width: 27vw !important;
+        top: 78% !important;
+        left: 5% !important;
+    }
+    .opti2 {
+        width: 31vw !important;
+        top: 77% !important;
+        right: -4% !important;
+    }
+    .sc1 {
+        height: 76vw !important;
+        width: 40vw !important;
+        top: 307vw !important;
+        right: 22.5vw !important;
+    }
+    .sc4 {
+        height: auto !important;
+        width: 23.6vw !important;
+        top: 343.3vw !important;
+        right: 59.3vw !important;
+    }
+    .sc5{
+        height: auto !important;
+        width: 24vw !important;
+        top: 343.5vw !important;
+        right: 1.5vw !important;
+    }
+        .sc2 {
+        height: auto !important;
+        width: 24.5vw !important;
+        top: 309vw !important;
+        right: 60vw !important;
+    }
+    .sc3{
+        height: auto !important;
+        width: 23vw !important;
+        top: 309vw !important;
+        right: 5.3vw !important;
+    }
+    .sc6{
+        height: auto !important;
+        width: 25vw !important;
+        top: 287.5vw !important;
+        right: 30.5vw !important;
+    }
+    .smospic1 {
+        width: 15vw !important;
+        bottom: 16% !important;
+        left: 8% !important;
+    }
+    .smospic2 {
+        width: 15vw !important;
+        top: 36% !important;
+        left: 20% !important;
+    }
+    .smospic3{
+        width: 15vw !important;
+        right: 14.5% !important;
+        bottom: 44% !important;
+    }
+    .smospic4{
+        width: 17vw !important;
+        top: 37% !important;
+        right: -1% !important;
+    }
+}

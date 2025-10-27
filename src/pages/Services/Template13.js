@@ -375,28 +375,28 @@ export const Template13 = ({ serviceResponse, slug }) => {
           {slug === 'keyword-research-services' && (
             <>
               <div className={styles.RRIMGG1} >
-                <img src="./images/RRIMGG2.png" className="RRIMGGR1" style={{position: 'absolute', width: '29rem', left: '844px',  bottom: '-350px'}} alt="" />
+                <img src="./images/RRIMGG2.png" className="RRIMGGR1" style={{position: 'absolute', width: 'var(--RRIMGGR1-width)', left: 'var(--RRIMGGR1-left)',  bottom: 'var(--RRIMGGR1-bottom)'}} alt="" />
               </div>
               <div className={styles.RRIMGG2} >
-                <img src="./images/RRIMGG3.png" className="RRIMGGR2" style={{ position: 'absolute', width: '42.5rem', bottom: '-1px', left: '-1000px' }} alt="" />
+                <img src="./images/RRIMGG3.png" className="RRIMGGR2" style={{ position: 'absolute', width: 'var(--RRIMGG2-width)', bottom: 'var(--RRIMGG2-bottom)', left: 'var(--RRIMGG2-left)' }} alt="" />
               </div>
               <div className={styles.RRIMGG3} >
-                <img src="./images/RRIMGG4.png" className="RRIMGGR3"style={{ position: 'absolute', width: '11.5rem', top: '323px', right: '-251px' }} alt="" />
+                <img src="./images/RRIMGG4.png" className="RRIMGGR3"style={{ position: 'absolute', width: 'var(--RRIMGG3-width)', top: 'var(--RRIMGG3-top)', right: 'var(--RRIMGG3-right)' }} alt="" />
               </div>
               <div className={styles.RRIMGG4} >
-                <img src="./images/RRIMGG5.png" className="RRIMGGR4" style={{ position: 'absolute', width: '19.5rem', left: '309px', bottom: '217px', opacity:0 }} alt="" />
+                <img src="./images/RRIMGG5.png" className="RRIMGGR4" style={{ position: 'absolute', width: 'var(--RRIMGGR4-width)', left: 'var(--RRIMGGR4-left)', bottom: 'var(--RRIMGGR4-bottom)', opacity:0 }} alt="" />
               </div>
               <div className={styles.RRIMGG5} >
-                <img src="./images/RRIMGG6.png" className="RRIMGGR5" style={{ position: 'absolute', width: '22rem', left: '947px', top: '134px', opacity:0 }} alt="" />
+                <img src="./images/RRIMGG6.png" className="RRIMGGR5" style={{ position: 'absolute', width: 'var(--RRIMGGR5-width)', left: 'var(--RRIMGGR5-left)', top: 'var(--RRIMGGR5-top)', opacity:0 }} alt="" />
               </div>
               <div className={styles.RRIMGG6} >
-                <img src="./images/RRIMGG7.png" className="RRIMGGR6" style={{ position: 'absolute', width: '21.5rem', left: '897px', bottom: '-7px', transform: 'rotateZ(-11deg)', opacity:0 }} alt="" />
+                <img src="./images/RRIMGG7.png" className="RRIMGGR6" style={{ position: 'absolute', width: 'var(--RRIMGGR6-width)', left: 'var(--RRIMGGR6-left)', bottom: 'var(--RRIMGGR6-bottom)', transform: 'rotateZ(-11deg)', opacity:0 }} alt="" />
               </div>
               <div className={styles.RRIMGG7} >
-                <img src="./images/RRIMGG8.png" className="RRIMGGR7" style={{ position: 'absolute', width: '22rem', right: '50px', bottom: '134px', transform: 'rotateZ(-11deg)', opacity:0 }}  alt="" />
+                <img src="./images/RRIMGG8.png" className="RRIMGGR7" style={{ position: 'absolute', width: 'var(--RRIMGGR7-width)', right: 'var(--RRIMGGR7-right)', bottom: 'var(--RRIMGGR7-bottom)', transform: 'rotateZ(-11deg)', opacity:0 }}  alt="" />
               </div>
               <div className={styles.RRIMGG8} >
-                <img src="./images/RRIMGG9.png" className="RRIMGGR8" style={{ position: 'absolute', width: '22rem', right: '109px', top: '7px', transform: 'rotateZ(4deg)', opacity:0 }} alt="" />
+                <img src="./images/RRIMGG9.png" className="RRIMGGR8" style={{ position: 'absolute', width: 'var(--RRIMGGR8-width)', right: 'var(--RRIMGGR8-right)', top: 'var(--RRIMGGR8-top)', transform: 'rotateZ(4deg)', opacity:0 }} alt="" />
               </div>
             </>
           )}

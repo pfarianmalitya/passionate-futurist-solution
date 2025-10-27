@@ -380,6 +380,15 @@ p a{
     animation: mymovetl 2s;
   }
 
+  :root{
+    --llspic1-width: 6.5vw;
+    --llspic1-top: 3%;
+    --llspic1-right: -12%;
+    --llspic3-width: 11vw;
+    --llspic3-left: -7%;
+    --llspic3-bottom: 5.5%;
+  }
+
   .spp03 {
     position: absolute;
     width: 290px !important;
@@ -873,6 +882,15 @@ p a{
         padding:20px !important;
         text-align: center;
     }
+
+    :root{
+    --llspic1-width: 23vw;
+    --llspic1-top: 3%;
+    --llspic1-right: -12%;
+    --llspic3-width: 41vw;
+    --llspic3-left: -5%;
+    --llspic3-bottom: 5.5%;
+  }
     
     h1{
         font-size: 2.2rem !important;
@@ -1154,6 +1172,15 @@ p a{
      .btn126
     {
         padding:14px 20px;
+    }
+
+    :root{
+      --llspic1-width: 23vw;
+      --llspic1-top: 3%;
+      --llspic1-right: -12%;
+      --llspic3-width: 41vw;
+      --llspic3-left: -5%;
+      --llspic3-bottom: 10%;
     }
     
     .custom-container,

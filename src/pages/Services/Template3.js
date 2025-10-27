@@ -173,9 +173,9 @@ export const Template3 = ({ serviceResponse, slug }) => {
                           className="llspic1" 
                           style={{ 
                             position: "absolute",
-                            width: "7.5rem",
-                            top: "3%",
-                            right: "-35%",
+                            width: "var(--llspic1-width)",
+                            top: "var(--llspic1-top)",
+                            right: "var(--llspic1-right)",
                             opacity: "0"
                           }} 
                           alt=""
@@ -188,9 +188,9 @@ export const Template3 = ({ serviceResponse, slug }) => {
                           className="llspic3"
                           style={{
                             position: "absolute",
-                            width: "12rem", 
-                            left: "-15%",
-                            bottom: "5.5%"
+                            width: "var(--llspic3-width)", 
+                            left: "var(--llspic3-left)",
+                            bottom: "var(--llspic3-bottom)"
                           }}
                           alt=""
                         />

@@ -1468,25 +1468,25 @@ position: absolute;
 @media only screen and (max-width:396px) {
   .ssp4 {
     width: 27vw !important;
-    top: 94vw;
+    top: 166vw;
     left: 65vw;
   }
 
   .ssp1 {
     width: 26vw;
-    top: 128vw;
+    top: 132vw;
     left: 63vw;
   }
 
   .ssp3 {
     width: 32vw;
-        top: 127vw;
+        top: 132vw;
         left: 2vw;
   }
 
   .ssp2 {
     width: 25vw;
-    top: 95vw;
+    top: 166vw;
     left: 12vw;
   }
 
@@ -1516,52 +1516,100 @@ position: absolute;
 @media only screen and (max-width:376px) {
   .ssp4 {
     width: 27vw !important;
-    top: 106vw;
+    top: 180vw;
     left: 65vw;
   }
 
-  .ssp1 {
-    width: 26vw;
-    top: 140vw;
-    left: 63vw;
-  }
-
-  .ssp3 {
-    width: 32vw;
-        top: 140vw;
-        left: 2vw;
-  }
-
-  .ssp2 {
-    width: 25vw;
-    top: 107vw;
-    left: 12vw;
-  }
-
-}
-@media only screen and (max-width:361px) {
-  .ssp4 {
-    width: 27vw !important;
-    top: 111vw;
-    left: 65vw;
-  }
   .ssp1 {
     width: 26vw;
     top: 144vw;
     left: 63vw;
   }
+
   .ssp3 {
     width: 32vw;
-        top: 145vw;
+        top: 144vw;
         left: 2vw;
   }
+
   .ssp2 {
     width: 25vw;
-    top: 110vw;
+    top: 180vw;
     left: 12vw;
   }
 
+  .RRIMGG3 .RRIIMMGG3 {
+    width: 20vw;
+    right: 18vw;
+    bottom: 12vw;
+  }
+
+  .RRIMGG2 .RRIIMMGG2 {
+    width: 20vw;
+    right: 5vw;
+    bottom: 42vw;
+  }
+
+  .RRIMGG1 .RRIIMMGG1 {
+    width: 30vw;
+    left: 16vw;
+    top: 51vw;
+  }
+
+  .RRIMGG4 .RRIIMMGG4 {
+    width: 26vw;
+    top: 17vw;
+  }
 }
+@media only screen and (max-width:361px) {
+  .ssp4 {
+    width: 27vw !important;
+    top: 184vw;
+    left: 65vw;
+  }
+
+  .ssp1 {
+    width: 26vw;
+    top: 152vw;
+    left: 63vw;
+  }
+
+  .ssp3 {
+    width: 32vw;
+        top: 152vw;
+        left: 2vw;
+  }
+
+  .ssp2 {
+    width: 25vw;
+    top: 184vw;
+    left: 12vw;
+  }
+
+  .RRIMGG3 .RRIIMMGG3 {
+    width: 20vw;
+    right: 18vw;
+    bottom: 12vw;
+  }
+
+  .RRIMGG2 .RRIIMMGG2 {
+    width: 20vw;
+    right: 5vw;
+    bottom: 42vw;
+  }
+
+  .RRIMGG1 .RRIIMMGG1 {
+    width: 30vw;
+    left: 16vw;
+    top: 51vw;
+  }
+
+  .RRIMGG4 .RRIIMMGG4 {
+    width: 26vw;
+    top: 17vw;
+  }
+}
+
 @media only screen and (max-width:321px) {
   .ssp4 {
     width: 27vw !important;
