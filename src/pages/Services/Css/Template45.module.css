@@ -166,10 +166,11 @@
 
   .pic1 {
     position: absolute;
-    width: 5vw !important;
-    height: auto !important;
-    left: 57% !important;
-    top: 39% !important;
+        width: 4vw !important;
+        height: auto !important;
+        left: 15% !important;
+        top: 27% !important;
+
     animation: rubberBand 3s;
 
   }
@@ -198,10 +199,12 @@
 
   .pic2 {
     position: absolute;
-    width: 5vw !important;
-    height: auto !important;
-    left: 66% !important;
-    top: 21% !important;
+        width: 4vw !important;
+        height: auto !important;
+        left: 32% !important;
+        top: 0% !important;
+
+
     animation: strobe 3s;
 
   }
@@ -225,10 +228,10 @@
 
   .pic3 {
     position: absolute;
-    width: 5vw !important;
-    height: auto !important;
-    left: 52% !important;
-    bottom: 38% !important;
+      width: 4vw !important;
+      height: auto !important;
+      left: 9% !important;
+
     animation: slideOutRight 3s;
   }
 
@@ -246,10 +249,10 @@
 
   .pic4 {
     position: absolute;
-    width: 5vw !important;
+    width: 4vw !important;
     height: auto !important;
-    left: 90% !important;
-    top: 42% !important;
+    left: 80% !important;
+    top: 29% !important;
     animation: bounceIn 3s;
   }
 
@@ -275,10 +278,10 @@
 
   .pic5 {
     position: absolute;
-    width: 6vw !important;
-    height: auto !important;
-    left: 93% !important;
-    bottom: 35% !important;
+width: 6vw !important;
+        height: auto !important;
+        left: 86% !important;
+        bottom: 18% !important;
     animation: slideSkew 3s;
   }
 
@@ -296,10 +299,10 @@
 
   .pic6 {
     position: absolute;
-    width: 4.5vw !important;
+    width: 4vw !important;
     height: auto !important;
-    left: 80%;
-    top: 20% !important;
+    left: 60% !important;
+    top: -1% !important;
     animation: bounceX 3s;
 
   }
@@ -695,174 +698,6 @@
 
 
 
-  /* Prerana end */
-}
-
-@media only screen and (max-width: 1921px) {
-  .pic1 {
-    position: absolute;
-    width: 4vw !important;
-    height: auto !important;
-    left: 58% !important;
-    top: 43% !important;
-    animation: rubberBand 3s;
-
-  }
-
-  @keyframes rubberBand {
-    0% {
-      transform: scale(1);
-    }
-
-    30% {
-      transform: scaleX(1.25) scaleY(0.75);
-    }
-
-    40% {
-      transform: scaleX(0.75) scaleY(1.25);
-    }
-
-    60% {
-      transform: scaleX(1.15) scaleY(0.85);
-    }
-
-    100% {
-      transform: scale(1);
-    }
-  }
-
-  .pic2 {
-    position: absolute;
-    width: 4vw !important;
-    height: auto !important;
-    left: 67%;
-    top: 21% !important;
-    animation: strobe 3s;
-
-  }
-
-  @keyframes strobe {
-
-    0%,
-    100% {
-      opacity: 1;
-    }
-
-    25%,
-    75% {
-      opacity: 0;
-    }
-
-    50% {
-      opacity: 1;
-    }
-  }
-
-  .pic3 {
-    position: absolute;
-    width: 4vw !important;
-    height: auto !important;
-    left: 53% !important;
-    bottom: 27% !important;
-    animation: slideOutRight 3s;
-  }
-
-  @keyframes slideOutRight {
-    from {
-      transform: translateX(0);
-      opacity: 1;
-    }
-
-    to {
-      transform: translateX(100%);
-      opacity: 0;
-    }
-  }
-
-  .pic4 {
-    position: absolute;
-    width: 4vw !important;
-    height: auto !important;
-    left: 90% !important;
-    top: 48% !important;
-    animation: bounceIn 3s;
-  }
-
-  @keyframes bounceIn {
-    0% {
-      transform: scale(0.3);
-      opacity: 0;
-    }
-
-    50% {
-      transform: scale(1.05);
-      opacity: 1;
-    }
-
-    70% {
-      transform: scale(0.9);
-    }
-
-    100% {
-      transform: scale(1);
-    }
-  }
-
-  .pic5 {
-    position: absolute;
-    width: 6vw !important;
-    height: auto !important;
-    left: 93% !important;
-    bottom: 25% !important;
-    animation: slideSkew 3s;
-  }
-
-  @keyframes slideSkew {
-    from {
-      transform: translateX(-100%) skewX(30deg);
-      opacity: 0;
-    }
-
-    to {
-      transform: translateX(0) skewX(0deg);
-      opacity: 1;
-    }
-  }
-
-  .pic6 {
-    position: absolute;
-    width: 4vw !important;
-    height: auto !important;
-    left: 80%;
-    top: 18% !important;
-    animation: bounceX 3s;
-
-  }
-
-  @keyframes bounceX {
-
-    0%,
-    100% {
-      transform: translateX(0);
-    }
-
-    25% {
-      transform: translateX(-30px);
-    }
-
-    50% {
-      transform: translateX(15px);
-    }
-
-    75% {
-      transform: translateX(-15px);
-    }
-  }
-
-  /* /karina endd/ */
-
-
-
   /* /Prerana start/ */
 
   .dfbghdfd {
@@ -1234,171 +1069,6 @@
 }
 
 @media only screen and (max-width: 1601px) {
-  .pic1 {
-    position: absolute;
-        width: 4vw !important;
-        height: auto !important;
-        left: 15% !important;
-        top: 27% !important;
-
-    animation: rubberBand 3s;
-
-  }
-
-  @keyframes rubberBand {
-    0% {
-      transform: scale(1);
-    }
-
-    30% {
-      transform: scaleX(1.25) scaleY(0.75);
-    }
-
-    40% {
-      transform: scaleX(0.75) scaleY(1.25);
-    }
-
-    60% {
-      transform: scaleX(1.15) scaleY(0.85);
-    }
-
-    100% {
-      transform: scale(1);
-    }
-  }
-
-  .pic2 {
-    position: absolute;
-        width: 4vw !important;
-        height: auto !important;
-        left: 32% !important;
-        top: 0% !important;
-
-
-    animation: strobe 3s;
-
-  }
-
-  @keyframes strobe {
-
-    0%,
-    100% {
-      opacity: 1;
-    }
-
-    25%,
-    75% {
-      opacity: 0;
-    }
-
-    50% {
-      opacity: 1;
-    }
-  }
-
-  .pic3 {
-    position: absolute;
-      width: 4vw !important;
-      height: auto !important;
-      left: 9% !important;
-
-    animation: slideOutRight 3s;
-  }
-
-  @keyframes slideOutRight {
-    from {
-      transform: translateX(0);
-      opacity: 1;
-    }
-
-    to {
-      transform: translateX(100%);
-      opacity: 0;
-    }
-  }
-
-  .pic4 {
-    position: absolute;
-    width: 4vw !important;
-    height: auto !important;
-    left: 80% !important;
-    top: 29% !important;
-    animation: bounceIn 3s;
-  }
-
-  @keyframes bounceIn {
-    0% {
-      transform: scale(0.3);
-      opacity: 0;
-    }
-
-    50% {
-      transform: scale(1.05);
-      opacity: 1;
-    }
-
-    70% {
-      transform: scale(0.9);
-    }
-
-    100% {
-      transform: scale(1);
-    }
-  }
-
-  .pic5 {
-    position: absolute;
-width: 6vw !important;
-        height: auto !important;
-        left: 86% !important;
-        bottom: 18% !important;
-    animation: slideSkew 3s;
-  }
-
-  @keyframes slideSkew {
-    from {
-      transform: translateX(-100%) skewX(30deg);
-      opacity: 0;
-    }
-
-    to {
-      transform: translateX(0) skewX(0deg);
-      opacity: 1;
-    }
-  }
-
-  .pic6 {
-    position: absolute;
-     width: 4vw !important;
-        height: auto !important;
-        left: 60% !important;
-        top: -1% !important;
-    animation: bounceX 3s;
-
-  }
-
-  @keyframes bounceX {
-
-    0%,
-    100% {
-      transform: translateX(0);
-    }
-
-    25% {
-      transform: translateX(-30px);
-    }
-
-    50% {
-      transform: translateX(15px);
-    }
-
-    75% {
-      transform: translateX(-15px);
-    }
-  }
-
-  /* /karina endd/ */
-
 
 
   /* /Prerana start/ */

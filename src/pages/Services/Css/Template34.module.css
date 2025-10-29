@@ -1012,8 +1012,8 @@
 @media only screen and (max-width:992px) {
 .s1 {
        width: 8vw !important;
-        bottom: 14vw !important;
-        left: 16.5vw !important;
+       bottom: 28vw !important;
+        left: 22vw !important;
     }
     .s2{
         width: 7.5vw !important;
@@ -1023,7 +1023,7 @@
     .s3{
       width: 13vw !important;
         bottom: 4vw !important;
-        left: 46vw !important;
+        left: 71vw !important;
     }
     .s4{
       width: 12.5vw !important;

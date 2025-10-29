@@ -418,19 +418,15 @@
         display:inline !important;
     }
 
-      .sdfghdfgdf 
-    {
-      margin-top: 9rem;
-    }
-
     #navbarSupportedContent{
         display: none;
     }
     
     .sdfghdfgdf 
     {
-        padding:20px !important;
-        text-align: center;
+      float: initial;
+      padding: 9rem 20px 20px 20px !important;
+      text-align: center;
     }
     
     h1{
@@ -704,7 +700,6 @@
 @media only screen and (max-width:801px){
   .img1{
     width: 46vw !important;
-    top: 40% !important;
     left: 48.54% !important;
   }
   .img2{
@@ -785,9 +780,6 @@
 
 
 @media only screen and (max-width:600px){
-  .img1{
-    top: 50.5% !important;
-  }
   .img2{
     top: 83% !important;
   }
@@ -821,9 +813,6 @@
         margin-left: 0 !important;
     }
 
-  .img1{
-    top: 55% !important;
-  }
   .img2{
     top: 84.5% !important;
   }
@@ -840,9 +829,6 @@
         display: block;
     }
 
-    .img1{
-    top: 68% !important;
-  }
   .img2{
     top: 88% !important;
   }
@@ -859,18 +845,12 @@
 }
 
 @media only screen and (max-width:415px){
-  .img1{
-    top: 63% !important;
-  }
   .img2{
     top: 87.5% !important;
   }
   .img3{
     top: 82% !important;
     left: 0px !important;
-  }
-  .img1{
-    top: 70% !important;
   }
 }
 
@@ -890,9 +870,6 @@
         font-size:35px;
     }
 
-     .img1{
-    top: 73% !important;
-  }
   .img2{
     top: 88.9% !important;
   }
@@ -923,9 +900,6 @@
         padding:14px 10px;
     }
 
-    .img1{
-    top: 73.2% !important;
-  }
   .img2{
     top: 90% !important;
   }
@@ -939,9 +913,7 @@
 }
 
 @media only screen and (max-width:361px){
-  .img1{
-    top: 76.5% !important;
-  }
+  
   .img2{
     top: 90.9% !important;
   }
@@ -955,9 +927,7 @@
   }
 }
 @media only screen and (max-width:321px){
-  .img1{
-    top: 74.9% !important;
-  }
+  
   .img2{
     top: 92% !important;
   }
@@ -973,9 +943,7 @@
   }
 }
 @media only screen and (max-width:281px){
-  .img1{
-    top: 78.2% !important;
-  }
+  
   .img2{
     top: 93.5% !important;
   }

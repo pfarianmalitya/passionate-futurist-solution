@@ -1582,39 +1582,39 @@
         width: 14vw !important;
         height: auto !important;
         left: 20% !important;
-        top: 65% !important;
+        top: 72% !important;
     }
         .img2 {
         width: 12.8vw !important;
         height: auto !important;
         left: 68% !important;
-        top: 65.5% !important;
+        top: 71.5% !important;
     }
     .img7 {
         width: 12vw !important;
         height: auto !important;
         left: 17% !important;
-        top: 76% !important;
+        top: 80% !important;
     }
     .img3 {
         position: absolute;
         width: 12vw !important;
         height: auto !important;
         left: 71% !important;
-        top: 76% !important;
+        top: 81% !important;
     }
     .img6 {
         width: 13vw !important;
         height: auto !important;
         left: 20% !important;
-        top: 87% !important;
+        top: 90% !important;
     }
         .img4 {
         position: absolute;
         width: 12vw !important;
         height: auto !important;
         left: 69% !important;
-        top: 86.5% !important;
+        top: 89.5% !important;
     }
         .img5 {
         width: 12vw !important;
@@ -1644,13 +1644,17 @@
         width: 14vw !important;
         height: auto !important;
         left: 20% !important;
-        top: 67% !important;
+        top: 72% !important;
     }
         .img2 {
         width: 12.8vw !important;
         height: auto !important;
         left: 68% !important;
-        top: 67.5% !important;
+        top: 72% !important;
+    }
+    .img5 
+    {
+      top: 90% !important;
     }
 
 }
@@ -1672,25 +1676,38 @@
     {
         padding:14px 10px;
     }
+
+          .img1{
+        width: 14vw !important;
+        height: auto !important;
+        left: 20% !important;
+        top: 73% !important;
+    }
+        .img2 {
+        width: 12.8vw !important;
+        height: auto !important;
+        left: 68% !important;
+        top: 73% !important;
+    }
 }
 @media only screen and (max-width:361px){
   .img1{
         width: 14vw !important;
         height: auto !important;
         left: 20% !important;
-        top: 71% !important;
+        top: 75% !important;
     }
     .img2{
         width: 12.8vw !important;
         height: auto !important;
         left: 68% !important;
-        top: 70.5% !important;
+        top: 75.5% !important;
     }
     .img7 {
         width: 12vw !important;
         height: auto !important;
         left: 17% !important;
-        top: 79% !important;
+        top: 83% !important;
     }
     .img6{
         width: 13vw !important;
@@ -1703,7 +1720,7 @@
         width: 12vw !important;
         height: auto !important;
         left: 71% !important;
-        top: 80% !important;
+        top: 83% !important;
     }
         .img4{
         position: absolute;

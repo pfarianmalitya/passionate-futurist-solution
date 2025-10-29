@@ -1019,7 +1019,7 @@
     width: 5vw !important;
     height: 3vw !important;
     right: 2vw;
-    top: 8vw;
+    top: 6vw;
   }
 
   .sales4 {
@@ -1038,7 +1038,15 @@
     top: 65%;
   }
 }
-
+@media only screen and (max-width:1921px) {
+  .sales3{
+        position: absolute;
+        width: 5vw !important;
+        height: 3vw !important;
+        right: 2vw;
+        top: 8vw;
+    }
+}
 @media only screen and (max-width:1601px) {
 
   .sales2 {
@@ -1124,149 +1132,160 @@
 }
 
 @media only screen and (max-width:992px) {
-  .on4 {
-    position: relative;
-    top: 2vw !important;
-    left: 1vw !important;
-    width: 15vw !important;
+  .ones .on4 {
+    top: 3vw !important;
+        left: 4vw !important;
+        width: 15vw !important;
   }
 
-  .on2 {
-    position: relative;
-    top: 18vw !important;
-    left: 4vw !important;
-    width: 12vw !important;
+  .ones .on2 {
+    top: 12vw !important;
+        left: 2vw !important;
+        width: 10vw !important;
   }
 
   .on3 {
     position: relative;
-    top: 6vw !important;
-    left: 47vw !important;
+    top: 4vw !important;
+    left: 41vw !important;
     width: 14vw !important;
   }
 
   .on1 {
-    position: relative;
-    top: 23vw !important;
-    left: 47vw !important;
-    width: 14vw !important;
+    top: 18vw !important;
+        left: 39vw !important;
+        width: 12vw !important;
   }
 
   .picture1 {
     position: relative;
-    top: 5vw !important;
-    left: 8vw !important;
-    width: 17vw !important;
-    height: 16vw !important;
+        top: -68vw !important;
+        left: 7vw !important;
+        width: 12vw !important;
+        height: 14vw !important;
   }
 
   .picture2 {
-    position: relative;
-    top: 9vw !important;
-    left: 57vw !important;
-    width: 7vw !important;
-    height: 6vw !important;
+     position: relative;
+    top: -68vw !important;
+        left: 41vw !important;
+        width: 6vw !important;
+        height: 5vw !important;
   }
 
   .picture3 {
-    position: relative;
-    top: 60vw !important;
-    left: 55vw !important;
-    width: 13vw !important;
-    height: 11vw !important;
+   position: relative;
+        top: -19vw !important;
+        left: 36vw !important;
+        width: 14vw !important;
+        height: 12vw !important;
   }
 
   .picture6 {
     position: relative;
-    top: 60vw !important;
-    left: 9vw !important;
-    width: 15vw !important;
-    height: 13vw !important;
+        top: -19vw !important;
+        left: -44vw !important;
+        width: 16vw !important;
+        height: 14vw !important;
   }
 
   .picture5 {
     position: relative;
-    top: 39vw !important;
-    left: 4vw !important;
-    width: 15vw !important;
-    height: 13vw !important;
+        top: -42vw !important;
+        left: -29vw !important;
+        width: 13vw !important;
+        height: 11vw !important;
   }
 
   .picture4 {
     position: relative;
-    top: 32vw !important;
-    left: 10vw !important;
-    width: 6vw !important;
-    height: 5vw !important;
+        top: -49vw !important;
+        left: -19vw !important;
+        width: 5vw !important;
+        height: 5vw !important;
   }
+      .sales3{
+        position: absolute;
+        width: 9vw !important;
+        height: 5vw !important;
+        right: 4vw;
+        top: 16vw;
+    }
+    .sales4 {
+        position: absolute;
+        width: 14vw !important;
+        height: 5rem !important;
+        right: 4%;
+        top: 74%;
+    }
 }
 
 @media only screen and (max-width:801px) {
   .ones .on1 {
-    width: 18vw;
-    right: 9vw;
-    bottom: 8vw;
+    width: 21vw !important;
+        left: 73vw !important;
+        top: 85vw !important;
   }
 
   .ones .on2 {
-    width: 11.5vw;
-    bottom: 14.5vw;
-    left: 7vw;
+    width: 15vw !important;
+        top: 73vw !important;
+        left: 6vw !important;
   }
 
   .ones .on3 {
-    width: 20vw;
-    bottom: 33vw;
-    right: 4vw;
+    width: 21vw !important;
+        top: 59vw !important;
+        left: 76vw !important;
   }
 
   .ones .on4 {
-    width: 18vw !important;
-    bottom: 41vw !important;
-    left: 14vw;
+   width: 24vw !important;
+        top: 57vw !important;
+        left: 8vw !important;
   }
 
   .picture2 {
-    position: absolute;
-    width: 7vw !important;
-    height: 5vw !important;
-    right: 11vw;
-    top: 13vw;
+   position: absolute;
+        width: 9vw !important;
+        height: 7vw !important;
+        left: 70vw !important;
+        top: 13vw !important;
   }
 
   .picture1 {
-    width: 11vw !important;
-    height: 11vw !important;
-    left: 16vw;
-    top: 13vw;
+   width: 15vw !important;
+        height: 17vw !important;
+        left: -5vw !important;
+        top: -90vw !important;
   }
 
   .picture3 {
-    width: 12vw !important;
-    height: 13vw !important;
-    left: 74vw;
-    top: 69vw;
+    width: 17vw !important;
+        height: 15vw !important;
+        left: 42vw !important;
+        top: -27vw !important;
   }
 
   .picture4 {
     width: 4vw !important;
-    height: 4vw !important;
-    left: 20vw;
-    bottom: 37vw;
+        height: 4vw !important;
+        left: -26vw !important;
+        top: -55vw !important;
   }
 
   .picture5 {
-    width: 10vw !important;
-    height: 9vw !important;
-    left: 16vw;
-    bottom: 29vw;
+            width: 13vw !important;
+        height: 12vw !important;
+        left: -35vw !important;
+        top: -49vw !important;
   }
 
   .picture6 {
-    width: 15vw !important;
-    height: 13vw !important;
-    left: 14vw;
-    bottom: 12vw;
+    width: 19vw !important;
+        height: 17vw !important;
+        left: -48vw !important;
+        top: -28vw !important;
   }
 
   .sales1 {
@@ -1409,6 +1428,29 @@
 }
 
 @media only screen and (max-width:431px) {
+   .ones .on1 {
+    width: 21vw !important;
+        left: 73vw !important;
+        top: 148vw !important;
+  }
+
+  .ones .on2 {
+    width: 15vw !important;
+        top: 137vw !important;
+        left: 6vw !important;
+  }
+
+  .ones .on3 {
+    width: 21vw !important;
+        top: 124vw !important;
+        left: 76vw !important;
+  }
+
+  .ones .on4 {
+   width: 24vw !important;
+        top: 121vw !important;
+        left: 8vw !important;
+  } 
   .picture6 {
     width: 15vw !important;
     height: 15vw !important;
@@ -1425,7 +1467,7 @@
   .picture5 {
         width: 10vw !important;
         height: 9vw !important;
-        left: 12vw;
+        left: -163vw;
         bottom: 29vw;
     }
         .picture4{
@@ -1474,6 +1516,29 @@
   }
 }
 @media only screen and (max-width:394px){
+  .ones .on1 {
+    width: 21vw !important;
+        left: 73vw !important;
+        top: 153vw !important;
+  }
+
+  .ones .on2 {
+    width: 15vw !important;
+        top: 143vw !important;
+        left: 6vw !important;
+  }
+
+  .ones .on3 {
+    width: 21vw !important;
+        top: 130vw !important;
+        left: 76vw !important;
+  }
+
+  .ones .on4 {
+   width: 24vw !important;
+        top: 127vw !important;
+        left: 8vw !important;
+  } 
 .sales1 {
     width: 6rem !important;
     height: 2rem !important;

@@ -241,7 +241,7 @@
 
 
 
-@media only screen and (max-width:2550px)
+@media only screen and (max-width:2551px)
 {
     .li1{
       position: absolute;
@@ -278,10 +278,17 @@
       right: 24.5vw !important;
       animation:zoom 2s ease-in-out infinite;
   }
+  
+      .li1{
+        height: auto !important;
+        width: 3vw !important;
+        top: 7vw !important;
+        right: 15vw !important;
+    }
 
 }
 
-@media only screen and (max-width:1920px)
+@media only screen and (max-width:1921px)
 {
     .li1{
       position: absolute;
@@ -318,11 +325,11 @@
       right: 24.5vw !important;
       animation:zoom 2s ease-in-out infinite;
   }
-
+    
   
 }
 
-@media only screen and (max-width:1600px)
+@media only screen and (max-width:1601px)
 {
     .li1{
       position: absolute;
@@ -1031,10 +1038,10 @@
     width: 7vw !important;
   }
   .li1{
-    height: 4vw !important;
-    width: 4vw !important;
-    top: 6vw !important;
-    right: 14vw !important;
+   height: auto !important;
+        width: 4vw !important;
+        top: 6vw !important;
+        right: 14vw !important;
   }
   .li2{
     height: 4vw !important;
@@ -1045,6 +1052,8 @@
   .li3{
     height: 4.5vw !important;
     width: 4.5vw !important;
+    top: 0.8vw !important;
+    right: 10vw !important;
   }
   .li4{
     height: 4.5vw !important;
@@ -1058,6 +1067,14 @@
     bottom: 10.3vw !important;
     right: 18.3vw !important;
   }
+      .li3 {
+       height: auto !important;
+        width: 4vw !important;
+        top: 0.8vw !important;
+        right: 10vw !important;
+
+    }
+
 }
 @media only screen and (max-width:1601px){
   .li1{
@@ -1176,9 +1193,9 @@
     top: 57% !important;
   }
 }
-@media only screen and (max-width:600px){
+@media only screen and (max-width:601px){
   .on1{
-    top: 74vw !important;
+    top: 74vw;
   }
   .on2{
     top: 74.3vw !important;
@@ -1232,7 +1249,7 @@
 }
 @media only screen and (max-width:541px){
   .on1{
-    top: 89vw !important;
+    top: 89vw ;
   }
   .on2{
     top: 89.3vw !important;
@@ -1270,16 +1287,16 @@
 }
 @media only screen and (max-width:431px){
   .on1{
-    top: 116vw !important;
+    top: 116vw;
   }
   .on2{
-    top: 116.5vw !important;
+    top: 122vw !important;
   }
   .on3{
-    top: 135.7vw !important;
+    top: 139.7vw !important;
   }
   .on4{
-    top: 153.7vw !important;
+    top: 157.7vw !important;
   }
   .on5{
     top: 154vw !important;
@@ -1318,6 +1335,42 @@
   .img6{
     bottom: 33.2% !important;
   }
+      .on1{
+        height: 11.5vw !important;
+        width: 12.5vw !important;
+        top: 117.2vw !important;
+        left: 12vw !important;
+    }
+        .on2 {
+        height: 11.5vw !important;
+        width: 12.5vw !important;
+        top: 118vw !important;
+        right: 13vw !important;
+    }
+    .on6 {
+        height: 13vw !important;
+        width: 13vw !important;
+        top: 137.5vw !important;
+        left: 8vw !important;
+    }
+    .on3 {
+        height: 11.9vw !important;
+        width: 12.5vw !important;
+        top: 135.7vw !important;
+        right: 12vw !important;
+    }
+    .on5{
+        height: 12.5vw !important;
+        width: 16vw !important;
+        top: 153.4vw !important;
+        left: 18vw !important;
+    }
+       .on4 {
+        height: 13vw !important;
+        width: 14vw !important;
+        top: 154.7vw !important;
+        right: 22.5vw !important;
+    }
 }
 @media only screen and (max-width:415px){
   .on1{
@@ -1359,22 +1412,22 @@
 }
 @media only screen and (max-width:394px){
   .on1{
-    top: 136vw !important;
+    top: 134vw !important;
   }
   .on2{
-    top: 136.5vw !important;
+    top: 133.5vw !important;
   }
   .on3{
-    top: 155.7vw !important;
+    top: 151.7vw !important;
   }
   .on4{
-    top: 173.7vw !important;
+    top: 169.7vw !important;
   }
   .on5{
-    top: 173vw !important;
+    top: 170vw !important;
   }
   .on6{
-    top: 155.5vw !important;
+    top: 153.5vw !important;
   }
   .li3{
     top: 0.8vw !important;
@@ -1400,6 +1453,7 @@
   .img6{
     bottom: 33.8% !important;
   }
+
 }
 @media only screen and (max-width:376px){
   .on1{

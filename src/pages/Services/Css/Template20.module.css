@@ -692,23 +692,23 @@ svg circle {
 
 .bmspic1{
   position: absolute;
-  width: 16rem !important;
-  right: 5.5%;
-  top: 36%;
+  width: 19vw !important;
+  left: 55%;
+  top: 32%;
 }
 
 .bmspic2{
   position: absolute;
-  width: 19rem !important;
-  right: 4.5%;
-  bottom: 19.6%;
+  width: 19vw !important;
+  right: 16%;
+  bottom: 4%;
 }
 
 .bmspic3{
-  position: absolute;
-  width: 6.5rem !important;
-  right: 38.8%;
-  bottom: 25.5%;
+    position: absolute;
+    width: 6.5vw !important;
+    left: 10%;
+    bottom: 20%;
 }
 
 /* Nisha css end */
@@ -768,7 +768,110 @@ svg circle {
 }
 /* Rohit css end */
 
+@media only screen and (max-width:2551px){
+  .img1{
+    width: 4vw !important;
+  }
+  .img2{
+    width: 13vw !important;
+  }
+  .img3{
+    width: 6.5vw !important;
+  }
+  .blog .b1{
+    width:12vw !important;
+    bottom: 53.8% !important;
+    left: 0.6% !important;
+  }
+  .blog .b2{
+    width:9.7vw !important;
+    bottom: 48% !important;
+    left:63% !important;
+  }
+  .blog .b3{
+    width: 10.5vw !important;
+  }
+  .blog .b4{
+    width:12vw !important;
+  }
+  .RRD1 .RRDimg1{
+    width: 13vw !important;
+  }
+  .RRD2 .RRDimg2{
+    width: 13vw !important;
+  }
+  .RRD3 .RRDimg3{
+    width: 15vw !important;
+  }
+}
+@media only screen and (max-width:1921px){
+  .blog .b1{
+    bottom: 51.8% !important;
+  }
+  .blog .b2{
+    bottom: 46% !important;
+  }
+}
+@media only screen and (max-width:1601px){
+  .blog .b1{
+    bottom: 50.2% !important;
+  }
+}
+@media only screen and (max-width:1367px){
+  .blog .b1{
+    bottom: 48.5% !important;
+  }
+}
 
+@media only screen and (max-width:992px) {
+
+  .img3 {
+    width: 14vw !important;
+  }
+
+  .img2 {
+    width: 23vw !important;
+  }
+
+  .img1 {
+    width: 10vw !important;
+  }
+
+  .b1 {
+    width: 23vw !important;
+  }
+
+  .b2 {
+    width: 16vw !important;
+  }
+
+  .b3 {
+    width: 17vw !important;
+  }
+
+  .b4 {
+    width: 23vw !important;
+  }
+
+  .RRDimg1 {
+    position: relative;
+    top: 2vw !important;
+    left: 65vw !important;
+    width: 15vw !important;
+  }
+
+  .RRDimg2 {
+    top: 33vw !important;
+    left: 19vw !important;
+    width: 15vw !important;
+  }
+
+  .RRDimg3 {
+    top: 34vw !important;
+    left: 63vw !important;
+    width: 15vw !important;
+  }
+}
 
 @media only screen and (max-width:991px)
 {
@@ -776,19 +879,31 @@ svg circle {
     {
         display:inline !important;
     }
-      .sdfghdfgdf 
-  {
-    margin-top: 9rem;
-  }
-
     #navbarSupportedContent{
         display: none;
     }
     
     .sdfghdfgdf 
     {
-        padding:20px !important;
+      float: initial;
+        padding: 9rem 20px 20px 20px !important;
         text-align: center;
+    }
+
+    .bmspic1 {
+        width: 44vw !important;
+        top: 25%;
+    }
+
+    .bmspic2{
+      width: 44vw !important;
+        bottom: 7%;
+        right: 12%;
+    }
+
+    .bmspic3{
+        width: 12vw !important;
+        left: 6%;
     }
     
     h1{
@@ -1059,6 +1174,72 @@ svg circle {
     }
 }
 
+@media only screen and (max-width:801px){
+  .img1{
+    width: 9vw !important;
+    right: 18% !important;
+  }
+  .img2{
+    width: 27vw !important;
+    left: 17.8% !important;
+  }
+  .img3{
+    width: 13.7vw !important;
+    left: 16.5% !important;
+  }
+  .blog .b1{
+    width:23vw !important;
+    bottom: 50.4% !important;
+    left: 16.5% !important;
+  }
+  .blog .b2{
+    width:19vw !important;
+    bottom: 46% !important;
+    left:60% !important;
+  }
+  .blog .b3{
+    width: 21.5vw !important;
+    bottom: 4% !important;
+    right: 58% !important;
+  }
+  .blog .b4{
+    width:25.5vw !important;
+    bottom: 5% !important;
+    left: 55% !important;
+  }
+  .RRD1 .RRDimg1{
+    top: 20% !important;
+  }
+  .RRD2 .RRDimg2{
+    bottom: 18% !important;
+  }
+  .RRD3 .RRDimg3{
+    bottom: 17% !important;
+  }
+
+   .sdfsdfsdf {
+    margin-top: 16vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 2) {
+    top: -2vw !important;
+    left: 46vw !important;
+  }
+
+  .doieworwer :nth-of-type(4n - 1) {
+    position: absolute;
+    top: 8vw !important;
+    left: 75vw !important;
+
+  }
+
+  .doieworwer :nth-of-type(4n - 3) {
+    position: absolute;
+    top: 7vw !important;
+    left: 4vw !important;
+  }
+  
+}
 
 
 @media only screen and (max-width:600px)
@@ -1149,107 +1330,7 @@ svg circle {
 }
 
 
-@media only screen and (max-width:2551px){
-  .bmspic1{
-    width: 19vw !important;
-    right: 4.8% !important;
-    top: 30% !important;
-  }
-  .bmspic2{
-    width: 21.5vw !important;
-    right: 5.5% !important;
-    bottom: 22.5% !important;
-  }
-  .bmspic3{
-    width: 6.5vw !important;
-    right: 38.8% !important;
-    bottom: 32% !important;
-  }
-  .img1{
-    width: 4vw !important;
-  }
-  .img2{
-    width: 13vw !important;
-  }
-  .img3{
-    width: 6.5vw !important;
-  }
-  .blog .b1{
-    width:12vw !important;
-    bottom: 53.8% !important;
-    left: 0.6% !important;
-  }
-  .blog .b2{
-    width:9.7vw !important;
-    bottom: 48% !important;
-    left:63% !important;
-  }
-  .blog .b3{
-    width: 10.5vw !important;
-  }
-  .blog .b4{
-    width:12vw !important;
-  }
-  .RRD1 .RRDimg1{
-    width: 13vw !important;
-  }
-  .RRD2 .RRDimg2{
-    width: 13vw !important;
-  }
-  .RRD3 .RRDimg3{
-    width: 15vw !important;
-  }
-}
-@media only screen and (max-width:1921px){
-  .bmspic1{
-    top: 25.5% !important;
-  }
-  .bmspic2{
-    bottom: 38.5% !important;
-  }
-  .bmspic3{
-    bottom: 45.7% !important;
-  }
-  .blog .b1{
-    bottom: 51.8% !important;
-  }
-  .blog .b2{
-    bottom: 46% !important;
-  }
-}
-@media only screen and (max-width:1601px){
-  .bmspic1{
-    top: 23.3% !important;
-  }
-  .bmspic2{
-    bottom: 46.5% !important;
-  }
-  .bmspic3{
-    bottom: 52.4% !important;
-  }
-  .blog .b1{
-    bottom: 50.2% !important;
-  }
-}
-@media only screen and (max-width:1367px){
-  .bmspic1{
-    top: 36% !important;
-  }
-  .bmspic2{
-    bottom: 20% !important;
-  }
-  .bmspic3{
-    bottom: 32.4% !important;
-  }
-  .blog .b1{
-    bottom: 48.5% !important;
-  }
-}
-
 @media only screen and (max-width:992px) {
-  .sdfsdfsdf {
-    margin-top: -10rem !important;
-  }
 
   .doieworwer :nth-of-type(4n - 2) {
     position: absolute;
@@ -1271,167 +1352,7 @@ svg circle {
   }
 }
 
-@media only screen and (max-width:992px) {
-  .bmspic3 {
-    position: relative;
-    top: 50vw !important;
-    left: 36vw !important;
-    width: 10vw !important;
-  }
-
-  .bmspic1 {
-    position: relative;
-    top: 31vw !important;
-    left: 72vw !important;
-  }
-
-  .bmspic2 {
-    position: inherit;
-    top: 51vw !important;
-    left: 66vw !important;
-  }
-
-  .img3 {
-    width: 14vw !important;
-  }
-
-  .img2 {
-    width: 23vw !important;
-  }
-
-  .img1 {
-    width: 10vw !important;
-  }
-
-  .b1 {
-    width: 23vw !important;
-  }
-
-  .b2 {
-    width: 16vw !important;
-  }
-
-  .b3 {
-    width: 17vw !important;
-  }
-
-  .b4 {
-    width: 23vw !important;
-  }
-
-  .RRDimg1 {
-    position: relative;
-    top: 2vw !important;
-    left: 65vw !important;
-    width: 15vw !important;
-  }
-
-  .RRDimg2 {
-    top: 22vw !important;
-    left: 19vw !important;
-    width: 15vw !important;
-  }
-
-  .RRDimg3 {
-    top: 22vw !important;
-    left: 63vw !important;
-    width: 15vw !important;
-  }
-}
-
-@media only screen and (max-width:801px){
-  .bmspic1{
-    width: 37vw !important;
-    right: 9.6% !important;
-    top: 48% !important;
-  }
-  .bmspic2{
-    width: 42.5vw !important;
-    right: 11% !important;
-    bottom: 22.5% !important;
-  }
-  .bmspic3{
-    width: 14vw !important;
-    right: 77% !important;
-    bottom: 28.1% !important;
-  }
-  .img1{
-    width: 9vw !important;
-    right: 18% !important;
-  }
-  .img2{
-    width: 27vw !important;
-    left: 17.8% !important;
-  }
-  .img3{
-    width: 13.7vw !important;
-    left: 16.5% !important;
-  }
-  .blog .b1{
-    width:23vw !important;
-    bottom: 50.4% !important;
-    left: 16.5% !important;
-  }
-  .blog .b2{
-    width:19vw !important;
-    bottom: 46% !important;
-    left:60% !important;
-  }
-  .blog .b3{
-    width: 21.5vw !important;
-    bottom: 4% !important;
-    right: 58% !important;
-  }
-  .blog .b4{
-    width:25.5vw !important;
-    bottom: 5% !important;
-    left: 55% !important;
-  }
-  .RRD1 .RRDimg1{
-    top: 20% !important;
-  }
-  .RRD2 .RRDimg2{
-    bottom: 18% !important;
-  }
-  .RRD3 .RRDimg3{
-    bottom: 17% !important;
-  }
-
-   .sdfsdfsdf {
-    margin-top: 16vw !important;
-  }
-
-  .doieworwer :nth-of-type(4n - 2) {
-    top: -2vw !important;
-    left: 46vw !important;
-  }
-
-  .doieworwer :nth-of-type(4n - 1) {
-    position: absolute;
-    top: 8vw !important;
-    left: 75vw !important;
-
-  }
-
-  .doieworwer :nth-of-type(4n - 3) {
-    position: absolute;
-    top: 7vw !important;
-    left: 4vw !important;
-  }
-  
-}
-
 @media only screen and (max-width:600px){
-  .bmspic1{
-    right: 9.8% !important;
-    top: 48.5% !important;
-  }
-  .bmspic2{
-    bottom: 28.8% !important;
-  }
-  .bmspic3{
-    bottom: -33.2% !important;
-  }
   .blog .b1{
     bottom: 49% !important;
   }
@@ -1507,15 +1428,6 @@ svg circle {
 
 }
 @media only screen and (max-width:541px){
-  .bmspic1{
-    top: 50% !important;
-  }
-  .bmspic2{
-    bottom: 29.6% !important;
-  }
-  .bmspic3{
-    bottom: 33.6% !important;
-  }
   .blog .b1{
     bottom: 47.8% !important;
   }
@@ -1526,10 +1438,10 @@ svg circle {
     top: 25% !important;
   }
   .RRD2 .RRDimg2{
-    bottom: 23.5% !important;
+    top: 39vw !important;
   }
   .RRD3 .RRDimg3{
-    bottom: 22.5% !important;
+    top: 39vw !important;
   }
 }
 
@@ -1565,15 +1477,6 @@ svg circle {
 }
 
 @media only screen and (max-width:431px){
-  .bmspic1{
-    top: 64% !important;
-  }
-  .bmspic2{
-    bottom: 19% !important;
-  }
-  .bmspic3{
-    bottom: 37.2% !important;
-  }
   .blog .b1{
     bottom: 45% !important;
   }
@@ -1584,26 +1487,13 @@ svg circle {
     top: 27% !important;
   }
   .RRD2 .RRDimg2{
-    bottom: 26% !important;
+    top: 54% !important;
   }
   .RRD3 .RRDimg3{
-    bottom: 25% !important;
-  }
-  .bmspic3 
-  {
-    bottom: 23.2% !important;
+    top: 54% !important;
   }
 }
 @media only screen and (max-width:415px){
-  .bmspic1{
-    top: 63.5% !important;
-  }
-  .bmspic2{
-    bottom: 18.7% !important;
-  }
-  .bmspic3{
-    bottom: 22.5% !important;
-  }
   .blog .b1{
     bottom: 44.5% !important;
   }
@@ -1611,10 +1501,10 @@ svg circle {
     top: 28% !important;
   }
   .RRD2 .RRDimg2{
-    bottom: 26.5% !important;
+    top: 54% !important;
   }
   .RRD3 .RRDimg3{
-    bottom: 25.5% !important;
+    top: 54% !important;
   }
 
     .dfdsf52dsasas {
@@ -1647,16 +1537,6 @@ svg circle {
   }
 }
 @media only screen and (max-width:394px){
-  .bmspic2{
-    bottom: 12.7% !important;
-  }
-  .bmspic1{
-    bottom: 68.5% !important;
-  }
-
-  .bmspic3{
-    bottom: 16.5% !important;
-  }
   .blog .b1{
     bottom: 68.5% !important;
   }
@@ -1664,12 +1544,11 @@ svg circle {
     bottom: 38% !important;
   }
   .RRD2 .RRDimg2{
-    bottom: 27% !important;
+    top: 54% !important;
   }
   .RRD3 .RRDimg3{
-    bottom: 26% !important;
+    top: 54% !important;
   }
-
     .btn125 {
     padding: 14px 12px;
   }
@@ -1700,15 +1579,6 @@ svg circle {
   }
 }
 @media only screen and (max-width:376px){
-  .bmspic1{
-      top: 96.5% !important;
-  }
-  .bmspic2{
-    bottom: -19.6% !important;
-  }
-  .bmspic3{
-      bottom: -13.8% !important;
-  }
   .blog .b1{
     bottom: 43% !important;
   }
@@ -1716,10 +1586,10 @@ svg circle {
     top: 28.5% !important;
   }
   .RRD2 .RRDimg2{
-    bottom: 27.5% !important;
+    top: 54% !important;
   }
   .RRD3 .RRDimg3{
-    bottom: 26.5% !important;
+    top: 54% !important;
   }
    .typewriterEnd {
     position: relative;
@@ -1736,15 +1606,6 @@ svg circle {
   }
 }
 @media only screen and (max-width:361px){
-  .bmspic1{
-        top: 95% !important;
-  }
-  .bmspic2{ 
-    bottom: -13.7% !important;
-  }
-  .bmspic3{
-    bottom: -8% !important;
-  }
   .blog .b1{
     bottom: 42.5% !important;
   }
@@ -1755,10 +1616,10 @@ svg circle {
     top: 29.5% !important;
   }
   .RRD2 .RRDimg2{
-    bottom: 28% !important;
+    top: 54% !important;
   }
   .RRD3 .RRDimg3{
-    bottom: 27% !important;
+    top: 54% !important;
   }
   .typewriterEnd {
     position: relative;
@@ -1775,15 +1636,6 @@ svg circle {
   }
 }
 @media only screen and (max-width:321px){
-  .bmspic1{
-    top: 64.5% !important;
-  }
-  .bmspic2{
-    bottom: 23.5% !important;
-  }
-  .bmspic3{
-    bottom: 26% !important;
-  }
   .blog .b1{
     bottom: 40.6% !important;
   }
@@ -1833,15 +1685,6 @@ svg circle {
   } 
 }
 @media only screen and (max-width:281px){
-  .bmspic1{
-    top: 68.7% !important;
-  }
-  .bmspic2{
-    bottom: 20.9% !important;
-  }
-  .bmspic3{
-    bottom: 23% !important;
-  }
   .blog .b1{
     bottom: 38.9% !important;
   }
@@ -2289,6 +2132,54 @@ svg circle {
     left: 28vw;
     width: 13vw !important;
   }
+}
+
+@media only screen and (max-width: 991px){
+  .irtuier54da img {
+      width: 19vw;
+      height: auto;
+      margin-top: -51rem;
+      margin-left: 16rem;
+    }
+
+    .dgndfgdfgdf img{
+      width: 100%;
+    }
+
+    .irtuier54daaaaa img {
+      width: 19vw !important;
+      height: auto !important;
+      margin-top: -104vw !important;
+      margin-left: 53vw !important;
+    }
+
+    .irtuier54daa img {
+      width: 19vw;
+      height: auto;
+      margin-top: -39rem;
+      margin-left: 12rem;
+    }
+
+    .irtuier54daaaaaa img {
+      width: 19vw !important;
+      height: auto !important;
+      margin-top: -46rem !important;
+      margin-left: 30rem !important;
+    }
+
+    .irtuier54daaa img {
+      width: 19vw;
+      height: auto;
+      margin-top: -44vw;
+      margin-left: 32vw;
+    }
+
+    .irtuier54daaaa img {
+      width: 19vw;
+      height: auto;
+      margin-top: -52vw !important;
+      margin-left: 58vw !important;
+    }
 }
 
 @media only screen and (max-width:801px) {

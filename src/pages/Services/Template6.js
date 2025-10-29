@@ -97,7 +97,7 @@ export const Template6 = ({ serviceResponse, slug }) => {
                         )}
                         {slug === 'e-commerce-services' && (
                             <>
-                            <h1 className={`${styles.thsbxdfgnxcvgn} position-relative`}>
+                            <h1 className={`${styles.thsbxdfgnxcvgn} position-absolute`}>
                                 Partner with India's top
                                 <span>
                                     <div

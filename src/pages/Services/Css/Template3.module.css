@@ -362,7 +362,7 @@ p a{
 }
 
 
-@media only screen and (max-width:2550px)
+@media only screen and (max-width:2551px)
 {
    .spp01 {
     position: absolute;
@@ -488,14 +488,49 @@ p a{
   align-items: center; 
   padding: 1rem 0 3rem 0;
    }
+    .spp03{
+   width: 11vw !important;
+    top: 238px !important;
+    left: 493px !important;
+  }
+  .llspic2{
+    position: absolute;
+    width: 9vw !important;
+    top: 35% !important;
+    right: 30% !important;
 
+}
+
+:root{
+    --llspic1-width: 7.5vw;
+    --llspic1-top: 3%;
+    --llspic1-right: -24%;
+    --llspic3-width: 11vw;
+    --llspic3-left: 1%;
+    --llspic3-bottom: 5.5%;
+  }
+.RIMG3 .RIMGG3 {
+    width: 7vw !important;
+    left: 228px !important;
+    top: 10px !important;
+}
+.RIMG1 .RIMGG1{
+    width: 7vw !important;
+    left: 4px !important;
+    bottom: 107px !important;
+}
+.RIMG2 .RIMGG2{
+    width: 6vw !important;
+    right: 11px !important;
+    bottom: 104px !important;
+}
 
 
 
 
 }
 
-@media only screen and (max-width:1920px)
+@media only screen and (max-width:1921px)
 {
   .spp01 {
     position: absolute;
@@ -614,11 +649,21 @@ p a{
   align-items: center; 
   padding: 1rem 0 3rem 0;
    }
+      .spp03{
+        width: 210px !important;
+        top: 213px !important;
+        left: 350px !important;
+}
+.RIMG3 .RIMGG3 {
+        width: 7vw !important;
+        left: 177px !important;
+        top: 10px !important;
+    }
 
   
 }
 
-@media only screen and (max-width:1600px)
+@media only screen and (max-width:1601px)
 {
 
    .spp01 {
@@ -739,7 +784,22 @@ p a{
   align-items: center; 
   padding: 1rem 0 3rem 0;
    }
-
+.RIMG3 .RIMGG3 {
+        width: 7vw !important;
+        left: 145px !important;
+        top: 10px !important;
+    }
+    .spp01{
+        width: 275px !important;
+        top: 280px !important;
+        left: 447px !important;
+  
+}
+.RIMG3 .RIMGG3 {
+        width: 7vw !important;
+        left: 145px !important;
+        top: 10px !important;
+    }
   
 }
 
@@ -1158,11 +1218,162 @@ p a{
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+        .spp03{
+        position: absolute;
+        width: 26vw !important;
+        top: 603px !important;
+        left: 355px !important;
+}
+    .spp04{
+        position: absolute;
+        width: 33vw !important;
+        top: 593px !important;
+        left: 20px !important;
+    }
+    .spp02{
+        position: absolute;
+        width: 39vw !important;
+        top: 433px !important;
+        left: 506px !important;
+}
+    .spp01 {
+        position: absolute;
+        width: 36vw !important;
+        top: 741px !important;
+        left: 608px !important;
+    }
+    .llspic2{
+        position: absolute;
+        width: 38vw !important;
+        top: 33% !important;
+        right: 28% !important;
+
+    }
+    .listing .l2{
+        position: absolute;
+        width: 26vw !important;
+        bottom: 64% !important;
+        right: 8% !important;
+    }
+    .listing .l1 {
+        position: absolute;
+        width: 36vw !important;
+        left: -3% !important;
+        top: 49% !important;
+
+    }
+    .listing .l2 {
+        position: absolute;
+        width: 43vw !important;
+        bottom: 53% !important;
+        right: -6% !important;
+    }
+    .ss04 {
+        position: absolute;
+        width: 29vw !important;
+        top: 203px !important;
+        left: 126px !important;
+    }
+        .ss01{
+        position: absolute;
+        width: 31vw !important;
+        top: 194px !important;
+        left: 532px !important;
+    }
+    .ss02{
+        position: absolute;
+        width: 33vw !important;
+        top: 596px !important;
+        left: 107px !important;
+    }
+    .ss03{
+        position: absolute;
+        width: 31vw !important;
+        top: 593px !important;
+        left: 537px !important;
+    }
+    .RIMG3 .RIMGG3{
+        width: 32vw !important;
+        left: 328px !important;
+        top: -29px !important;
+    }
+        .RIMG1 .RIMGG1 {
+        width: 28vw !important;
+        left: 4px !important;
+        bottom: 196px !important;
+    }
 }
 
+@media only screen and (max-width:801px){
+  .spp01 {
+    width: 35vw !important;
+    top: 77% !important;
+    left: 57% !important;
+  }
+  .spp02 {
+    width: 38vw !important;
+    top: 40% !important;
+    left: 53% !important;
+  }
+  .spp03 {
+    width: 28vw !important;
+    top: 57% !important;
+    left: 32% !important;
+  }
+  .spp04 {
+    width: 31vw !important;
+    top: 55% !important;
+    left: 1% !important;
+  }
+  .llspic2{
+    width: 39.5vw !important;
+  }
+  .listing .l1{
+    width:36vw !important;
+    left: -1% !important;
+    bottom:16% !important;
+  }
+  .listing .l2{
+    width:34.5vw !important;
+  }
+  .ss01 {
+    width: 30vw !important;
+    top: 17% !important;
+    left: 55% !important;
+  }
+  .ss02 {
+    width: 33vw !important;
+    top: 52% !important;
+    left: 12% !important;
+  }
+  .ss03 {
+    width: 30vw !important;
+    top: 52.5% !important;
+    left: 55% !important;
+  }
+  .ss04 {
+    width: 31vw !important;
+    top: 15% !important;
+    left: 13.5% !important;
+  }
+  .RIMG1 .RIMGG1{
+    width: 25vw !important;
+    left: 2% !important;
+    bottom: 20% !important;
+  }
+  .RIMG2 .RIMGG2{
+    width: 22vw !important;
+    right: 1.5% !important;
+    bottom: 21.5% !important;
+  }
+  .RIMG3 .RIMGG3{
+    width: 28vw !important;
+    left: 32% !important;
+    top: 1% !important;
+  }
+}
 
-
-@media only screen and (max-width:600px)
+@media only screen and (max-width:601px)
 {
      .btn125
     {
@@ -1202,7 +1413,45 @@ p a{
     {
         padding:10px;
     }
+    .spp01 {
+        
+        width: 36vw !important;
+        top: 83.5% !important;
+        left: 58% !important;
+    }
+  
+  .spp02 {
+        width: 40vw !important;
+        top: 59% !important;
+        left: 49% !important;
+    
+  }
+  .spp03 {
+    top: 64% !important;
+  }
+  .spp04 {
+        width: 33vw !important;
+        top: 70% !important;
+        left: 1% !important;
+    
+  }
+  .listing .l1{
+    bottom:19% !important;
+  }
+  .ss02 {
+    top: 50% !important;
+  }
+  .ss03 {
+    top: 71% !important;
+  }
+  .RIMG1 .RIMGG1{
+    bottom: 24% !important;
+  }
+  .RIMG2 .RIMGG2{
+    bottom: 25% !important;
+  }
 }
+
 
 
 
@@ -1218,6 +1467,37 @@ p a{
 {
     .sdcsdfeewwwww ul{
         display: block;
+    }
+}
+@media only screen and (max-width:431px){
+.spp03 {
+        width: 28vw !important;
+        top: 57% !important;
+        left: 32% !important;
+    }
+        .RIMG3 .RIMGG3{
+        width: 28vw !important;
+        left: 37% !important;
+        top: 1% !important;
+    }
+    .spp03{
+        width: 28vw !important;
+        top: 57% !important;
+        left: 33% !important;
+    }
+      .llspic2{
+        width: 9.2rem !important;
+        top: 30% !important;
+        right: 29% !important;
+ 
+    }
+        :root {
+        --llspic1-width: 23vw;
+        --llspic1-top: 3%;
+        --llspic1-right: -10%;
+        --llspic3-width: 41vw;
+        --llspic3-left: -5%;
+        --llspic3-bottom: 10%;
     }
 }
 
@@ -1478,74 +1758,7 @@ p a{
 /* local listing  servive */
 /* local listing  servive */
 
-@media only screen and (max-width:801px){
-  .spp01 {
-    width: 35vw !important;
-    top: 77% !important;
-    left: 57% !important;
-  }
-  .spp02 {
-    width: 38vw !important;
-    top: 40% !important;
-    left: 53% !important;
-  }
-  .spp03 {
-    width: 28vw !important;
-    top: 57% !important;
-    left: 32% !important;
-  }
-  .spp04 {
-    width: 31vw !important;
-    top: 55% !important;
-    left: 1% !important;
-  }
-  .llspic2{
-    width: 39.5vw !important;
-  }
-  .listing .l1{
-    width:36vw !important;
-    left: -1% !important;
-    bottom:16% !important;
-  }
-  .listing .l2{
-    width:34.5vw !important;
-  }
-  .ss01 {
-    width: 30vw !important;
-    top: 17% !important;
-    left: 55% !important;
-  }
-  .ss02 {
-    width: 33vw !important;
-    top: 52% !important;
-    left: 12% !important;
-  }
-  .ss03 {
-    width: 30vw !important;
-    top: 52.5% !important;
-    left: 55% !important;
-  }
-  .ss04 {
-    width: 31vw !important;
-    top: 15% !important;
-    left: 13.5% !important;
-  }
-  .RIMG1 .RIMGG1{
-    width: 25vw !important;
-    left: 2% !important;
-    bottom: 20% !important;
-  }
-  .RIMG2 .RIMGG2{
-    width: 22vw !important;
-    right: 1.5% !important;
-    bottom: 21.5% !important;
-  }
-  .RIMG3 .RIMGG3{
-    width: 28vw !important;
-    left: 32% !important;
-    top: 1% !important;
-  }
-}
+
 @media only screen and (max-width:600px){
   .spp01 {
     top: 80.5% !important;

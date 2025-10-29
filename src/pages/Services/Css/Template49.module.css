@@ -6,7 +6,7 @@
 
 .sdfghdfgdf {
     width: 50%;
-    float: left;
+    /* float: left; */
     padding: 70px;
 }
 
@@ -721,10 +721,10 @@
         display:inline !important;
     }
 
-      .sdfghdfgdf 
+      /* .sdfghdfgdf 
     {
         margin-top: 9rem;
-    }
+    } */
 
     #navbarSupportedContent{
         display: none;

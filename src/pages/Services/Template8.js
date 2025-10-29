@@ -184,31 +184,31 @@ export const Template8 = ({ serviceResponse, slug }) => {
                   {slug === 'wordpress-web-design-services' && (
                     <>
                       <div className={`${styles.askdjnerwer} position-absolute`}>
-                        <div className="col-lg-6">
+                        <div className="col-6">
                           <div className={styles.diheuiwhrewrwer}>
                             <img src="./images/Our Services Include (1).png" data-aos="fade-right" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-6 offset-lg-6">
+                        <div className="col-6 offset-6">
                           <div className={styles.diheuiwhrewrwer}>
                             <img src="./images/Our Services Include (2).png" data-aos="fade-left" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-6">
+                        <div className="col-6">
                           <div className={styles.diheuiwhrewrwer}>
                             <img src="./images/Our Services Include (3).png" data-aos="fade-right" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-6 offset-lg-6">
+                        <div className="col-6 offset-6">
                           <div className={styles.diheuiwhrewrwer}>
                             <img src="./images/Our Services Include (4).png" data-aos="fade-left" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-6">
+                        <div className="col-6">
                           <div className={styles.diheuiwhrewrwer}>
                             <img src="./images/Our Services Include (5).png" data-aos="fade-right" alt="" />
                           </div>

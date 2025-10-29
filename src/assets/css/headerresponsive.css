@@ -44,6 +44,11 @@
         top: initial;
     }
 
+    .header-top-right 
+    {
+        display: none;
+    }
+
     .d-m-cstm{
         width: auto;
         max-height: 26rem;

@@ -1005,7 +1005,7 @@
     .dkneiewmrreryty .pic2{
         position: absolute;
         width: 27vw !important;
-        top: 51%;
+        top: 60%;
         right: 34%;
     }
     .dkneiewmrreryty .pic3{
@@ -1016,7 +1016,7 @@
     }
     .dkneiewmrreryty .pic4{
         width: 27vw !important;
-        top: 379px;
+        top: 521px;
         left: 7%;
     }
      
@@ -1153,7 +1153,7 @@
         display: block;
     }
 
-   .dkneiewmrreryty .pic1{
+    .dkneiewmrreryty .pic1{
         position: absolute;
         width: 27vw !important;
         bottom: -1%;
@@ -1162,7 +1162,7 @@
     .dkneiewmrreryty .pic2{
         position: absolute;
         width: 27vw !important;
-        top: 63%;
+        top: 70%;
         right: 34%;
     }
     .dkneiewmrreryty .pic3{
@@ -1173,12 +1173,47 @@
     }
     .dkneiewmrreryty .pic4{
         width: 27vw !important;
-        top: 446px;
+        top: 576px;
         left: 7%;
     }
 
 
 }
+
+
+
+@media only screen and (max-width:414px)
+{
+    .sdcsdfeewwwww ul{
+        display: block;
+    }
+
+    .dkneiewmrreryty .pic1{
+        position: absolute;
+        width: 27vw !important;
+        bottom: -1%;
+        right: 36%;
+    }
+    .dkneiewmrreryty .pic2{
+        position: absolute;
+        width: 27vw !important;
+        top: 72%;
+        right: 34%;
+    }
+    .dkneiewmrreryty .pic3{
+        position: absolute;
+        width: 27vw !important;
+        bottom: -2%;
+        left: 7%;
+    }
+    .dkneiewmrreryty .pic4{
+        width: 27vw !important;
+        top: 600px;
+        left: 7%;
+    }
+
+}
+
 
 
 @media only screen and (max-width:393px)
@@ -1205,7 +1240,7 @@
     .dkneiewmrreryty .pic2{
         position: absolute;
         width: 27vw !important;
-        top: 69%;
+        top: 74%;
         right: 34%;
     }
     .dkneiewmrreryty .pic3{
@@ -1216,7 +1251,7 @@
     }
     .dkneiewmrreryty .pic4{
         width: 27vw !important;
-        top: 497px;
+        top: 638px;
         left: 7%;
     }
 
@@ -1239,6 +1274,12 @@
     {
         padding:14px 10px;
     }
+    .dkneiewmrreryty .pic2{
+        position: absolute;
+        width: 27vw !important;
+        top: 75%;
+        right: 34%;
+    }
 }
 
 
@@ -1247,7 +1288,7 @@
 {
 
 
-    .dkneiewmrreryty .pic1{
+     .dkneiewmrreryty .pic1{
         position: absolute;
         width: 27vw !important;
         bottom: -1%;
@@ -1256,19 +1297,19 @@
     .dkneiewmrreryty .pic2{
         position: absolute;
         width: 27vw !important;
-        top: 80%;
+        top: 77%;
         right: 34%;
     }
     .dkneiewmrreryty .pic3{
         position: absolute;
         width: 27vw !important;
-        bottom: -1%;
+        bottom: -2%;
         left: 7%;
     }
     .dkneiewmrreryty .pic4{
         width: 27vw !important;
-        top: 636px;
-        left: 8%;
+        top: 693px;
+        left: 7%;
     }
     .btn125
     {

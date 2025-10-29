@@ -225,6 +225,71 @@
     margin-bottom: 1rem;
 }
 
+@media only screen and (max-width:2551px){
+  .hdfgffdfsd1 img{
+    height: 7.5vw !important;
+    width: 5.6vw !important;
+    margin-top: -52% !important;
+  }
+  .hdfgffdfsd2 img{
+    height: 7.5vw !important;
+    width: 5.8vw !important;
+    margin-top: -55% !important;
+  }
+  .hdfgffdfsd3 img{
+    height: 7.5vw !important;
+    width: 5.7vw !important;
+    margin-top: -58% !important;
+  }
+  .sddfsdfdd54a img {
+    width: 8vw !important;
+    height: 7vw !important;
+    margin-top: -155% !important;
+    margin-left: 12% !important;
+  }
+  .sddfsdfdd54aa img {
+    width: 8vw !important;
+    height: 7vw !important;
+    margin-top: -136% !important;
+    margin-left: 62% !important;
+  }
+  .sddfsdfdd54aaa img {
+    width: 8vw !important;
+    height: 7vw !important;
+    margin-top: -115% !important;
+    margin-left: 15% !important;
+  }
+  .sddfsdfdd54aaaa img {
+    width: 8vw !important;
+    height: 7vw !important;
+    margin-top: -74% !important;
+    margin-left: 63% !important;
+  }
+}
+
+@media only screen and (max-width:1601px){
+  .hdfgffdfsd2 img{
+    margin-top: -57% !important;
+  }
+  .hdfgffdfsd3 img{
+    margin-top: -61% !important;
+  }
+  .sddfsdfdd54a img {
+    margin-top: -159% !important;
+    margin-left: 11% !important;
+  }
+  .sddfsdfdd54aa img {
+    margin-top: -140% !important;
+  }
+  .sddfsdfdd54aaa img {
+    margin-top: -122% !important;
+    margin-left: 14% !important;
+  }
+  .sddfsdfdd54aaaa img {
+    margin-top: -84% !important;
+  }
+}
+
 @media only screen and (max-width:991px)
 {
     .dfgjhfgd
@@ -667,26 +732,26 @@
     }
 
      .hdfgffdfsd2 img{
-        margin-top: -63.5% !important;
+        margin-top: -60.5% !important;
       }
       .hdfgffdfsd3 img{
-        margin-top: -71.8% !important;
+        margin-top: -68.8% !important;
       }
       .sddfsdfdd54a img{
-        margin-top: -463px !important;
-        margin-left: -124.5px !important;
+        margin-top: -128px !important;
+        margin-left: -219.5px !important;
       }
       .sddfsdfdd54aa img{
-        margin-top: -433px !important;
-        margin-left: 134px !important;
+        margin-top: -172px !important;
+        margin-left: -189px !important;
       }
       .sddfsdfdd54aaa img{
-        margin-top: -399px !important;
-        margin-left: -30.6%;
+        margin-top: -140px !important;
+        margin-left: -52.6% !important;
       }
       .sddfsdfdd54aaaa img{
-        margin-top: -338px !important;
-        margin-left: 135px !important;
+        margin-top: -228px !important;
+        margin-left: -195px !important;
       }
 }
 
@@ -705,30 +770,22 @@
     .fhgdfg h2 {
         font-size:35px;
     }
-
-      .hdfgffdfsd2 img{
-        margin-top: -64% !important;
-      }
-      .hdfgffdfsd3 img{
-        margin-top: -73.3% !important;
-      }
-      .sddfsdfdd54a img{
-        margin-top: -427px !important;
-        margin-left: -115px !important;
-      }
-      .sddfsdfdd54aa img{
-        margin-top: -405px !important;
-        margin-left: 122px !important;
-      }
-      .sddfsdfdd54aaa img{
-        margin-top: -375px !important;
-        margin-left: -30.6%;
-      }
-      .sddfsdfdd54aaaa img{
-        margin-top: -321px !important;
-        margin-left: 122px !important;
-      }
-
+    
+    .hdfgffdfsd3 img{
+      margin-top: -69.8% !important;
+    }
+    .sddfsdfdd54a img{
+      margin-top: -123px !important;
+      margin-left: -199.5px !important;
+    }
+    .sddfsdfdd54aa img{
+      margin-top: -169px !important;
+      margin-left: -174px !important;
+    }
+    .sddfsdfdd54aaaa img{
+      margin-top: -224px !important;
+      margin-left: -180px !important;
+    }
 }
 
 
@@ -749,28 +806,6 @@
         padding:14px 10px;
     }
 
-     .hdfgffdfsd2 img{
-      margin-top: -64.5% !important;
-    }
-    .hdfgffdfsd3 img{
-      margin-top: -74% !important;
-    }
-    .sddfsdfdd54a img{
-      margin-top: -411px !important;
-      margin-left: -107.5px !important;
-    }
-    .sddfsdfdd54aa img{
-      margin-top: -389px !important;
-      margin-left: 115px !important;
-    }
-    .sddfsdfdd54aaa img{
-      margin-top: -363px !important;
-      margin-left: -30.6%;
-    }
-    .sddfsdfdd54aaaa img{
-      margin-top: -315px !important;
-      margin-left: 114px !important;
-    }
 }
 
 

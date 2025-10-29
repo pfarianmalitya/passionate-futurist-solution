@@ -164,13 +164,13 @@ export const Template46 = ({ serviceResponse, slug }) => {
                 <div className={styles.qwqe7ccxd}>
                   <div className={styles.dfdsf52d1hh8}>
                     <div className={styles.ghh52d1hh8}>
-                      <div className="row">
-                        <div className="col-lg-1">
+                      <div className="row align-items-center">
+                        <div className="col-1">
                           <div className={styles.trewrr88}>
                             <img src="./images/appdevo.png" alt=""/>
                           </div>
                         </div>
-                        <div className="col-lg-11">
+                        <div className="col-11">
                           <div className={styles.wwrexd5854}>
                             <h4>Responsive Web Design</h4>
                           </div>
@@ -181,13 +181,13 @@ export const Template46 = ({ serviceResponse, slug }) => {
 
                   <div className={styles.dfdsf52d1hh8}>
                     <div className={styles.ghh52d1hh8}>
-                      <div className="row">
-                        <div className="col-lg-1">
+                      <div className="row align-items-center">
+                        <div className="col-1">
                           <div className={styles.trewrr88}>
                             <img src="./images/appdevo.png" alt=""/>
                           </div>
                         </div>
-                        <div className="col-lg-11">
+                        <div className="col-11">
                           <div className={styles.wwrexd5854}>
                             <h4>E-commerce Design</h4>
                           </div>
@@ -251,7 +251,7 @@ export const Template46 = ({ serviceResponse, slug }) => {
             <div className={styles.fgdfgfdg}>
               <div className="row">
                 <div className="col-lg-6">
-                  <div className={styles.cfbfjhf} style={{backgroundImage: "url('images/background(2).png')"}}>
+                  <div className={styles.cfbfjhf}>
                     <h2>
                       {serviceResponse.data?.third_section_title &&
                         serviceResponse.data.third_section_title}

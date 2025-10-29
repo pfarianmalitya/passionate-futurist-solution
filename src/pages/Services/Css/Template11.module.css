@@ -599,7 +599,57 @@ position: absolute;
 /* Sayantika css end */
 
 
-
+@media only screen and (max-width:2551px){
+  .ssp2 {
+    width: 12vw !important;
+    height: auto !important;
+    top: 7% !important;
+    left: 13% !important;
+}
+.ssp4{
+    width: 12vw !important;
+    height: auto !important;
+    top: 7% !important;
+    left: 65% !important;
+}
+.ssp3{
+    width: 15vw !important;
+    height: auto !important;
+    top: 62% !important;
+    left: 1% !important;
+}
+.ssp1{
+    width: 13vw !important;
+    height: auto !important;
+    top: 75% !important;
+    left: 61% !important;
+ 
+}
+.RRIMGG4 .RRIIMMGG4{
+    position: absolute;
+    width: 15vw !important;
+    top: 9% !important;
+    left: 13% !important;
+}
+.RRIMGG1 .RRIIMMGG1{
+    position: absolute;
+    width: 16vw !important;
+    left: -2% !important;
+    top: 36% !important;
+}
+.RRIMGG2 .RRIIMMGG2{
+    position: absolute;
+    width: 12vw !important;
+    right: -7% !important;
+    bottom: 25% !important;
+}
+.RRIMGG3 .RRIIMMGG3 {
+    position: absolute;
+    width: 12vw !important;
+    right: 8% !important;
+    bottom: 4% !important;
+}
+}
 
 @media only screen and (max-width:991px)
 {
@@ -941,9 +991,59 @@ position: absolute;
         display: block;
     }
 }
+@media only screen and (max-width:431px){
+      .ssp2 {
+        width: 29vw !important;
+        height: auto !important;
+        top: 69% !important;
+        left: 14% !important;
+    }
+        .ssp4 {
+        width: 27vw !important;
+        height: auto !important;
+        top: 70% !important;
+        left: 67% !important;
+    }
+    .ssp1{
+        width: 29vw !important;
+        height: auto !important;
+        top: 90% !important;
+        left: 58% !important;
+    }
+        .ssp3{
+        width: 30vw !important;
+        height: auto !important;
+        top: 88% !important;
+        left: 4% !important;
+    }
+        .RRIMGG4 .RRIIMMGG4{
+        position: absolute;
+        width: 37vw !important;
+        top: 11% !important;
+        left: 19% !important;
+    }
+    .RRIMGG1 .RRIIMMGG1{
+        position: absolute;
+        width: 38vw !important;
+        left: 8% !important;
+        top: 37% !important;
+    }
+    .RRIMGG2 .RRIIMMGG2 {
+        position: absolute;
+        width: 31vw !important;
+        right: -1% !important;
+        bottom: 29% !important;
+    }
+    .RRIMGG3 .RRIIMMGG3{
+        position: absolute;
+        width: 33vw !important;
+        right: 10% !important;
+        bottom: 9% !important;
+    }
+}
 
 
-@media only screen and (max-width:393px)
+@media only screen and (max-width:394px)
 {
        .btn125
     {
@@ -956,6 +1056,19 @@ position: absolute;
     }
     .fhgdfg h2 {
         font-size:35px;
+    }
+
+.ssp2{
+        width: 29vw !important;
+        height: auto !important;
+        top: 71% !important;
+        left: 14% !important;
+    }
+    .ssp4{
+        width: 27vw !important;
+        height: auto !important;
+        top: 72% !important;
+        left: 67% !important;
     }
 
 }
@@ -985,6 +1098,10 @@ position: absolute;
     top: 4vw !important;
     left: 7vw !important;
   }
+
+      .fjhfdfgdfg {
+        margin-top: 10rem;
+    }
 }
 
 @media only screen and (max-width:1921px) {
@@ -992,10 +1109,6 @@ position: absolute;
     position: relative;
     top: 6vw !important;
     left: 6vw !important;
-  }
-
-  .sdfsdfsdf h2 {
-    margin-top: 5vw !important;
   }
 }
 
@@ -1017,10 +1130,6 @@ position: absolute;
     position: relative;
     top: 10vw !important;
     left: 0vw !important;
-  }
-
-  .sdfsdfsdf h2 {
-    margin-top: -5vw !important;
   }
 }
 
@@ -1050,9 +1159,6 @@ position: absolute;
   }
 }
 @media only screen and (max-width:800px) {
-  .sdfsdfsdf h2 {
-    margin-top: 21vw !important;
-  }
 
   .fjhfdfgdfgss {
     position: relative;
@@ -1063,10 +1169,6 @@ position: absolute;
 }
 
 @media only screen and (max-width:601px) {
-
-  .sdfsdfsdf h2 {
-    margin-top: 27vw !important;
-  }
 
   .fjhfdfgdfgss {
     position: relative;
@@ -1079,10 +1181,6 @@ position: absolute;
     position: relative;
     top: 30vw !important;
     left: 5vw !important;
-  }
-
-  .sdfsdfsdf h2 {
-    margin-top: 34vw !important;
   }
 }
 
@@ -1241,7 +1339,7 @@ position: absolute;
 
 @media only screen and (max-width:801px) {
   .ssp4 {
-    width: 27vw !important;
+    width: 27vw;
     top: 41vw;
     left: 65vw;
   }
@@ -1291,7 +1389,7 @@ position: absolute;
 
 @media only screen and (max-width:601px) {
   .ssp4 {
-    width: 27vw !important;
+    width: 27vw;
     top: 61vw;
     left: 65vw;
   }
@@ -1340,7 +1438,7 @@ position: absolute;
 
 @media only screen and (max-width:541px) {
   .ssp4 {
-    width: 27vw !important;
+    width: 27vw;
     top: 65vw;
     left: 65vw;
   }
@@ -1366,7 +1464,7 @@ position: absolute;
 
 @media only screen and (max-width:431px) {
   .ssp4 {
-    width: 27vw !important;
+    width: 27vw;
     top: 154vw;
     left: 65vw;
   }
@@ -1416,7 +1514,7 @@ position: absolute;
 
 @media only screen and (max-width:414px) {
   .ssp4 {
-    width: 27vw !important;
+    width: 27vw;
     top: 154vw;
     left: 65vw;
   }
@@ -1467,7 +1565,7 @@ position: absolute;
 
 @media only screen and (max-width:396px) {
   .ssp4 {
-    width: 27vw !important;
+    width: 27vw;
     top: 166vw;
     left: 65vw;
   }

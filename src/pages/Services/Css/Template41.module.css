@@ -1021,33 +1021,33 @@
     .psspic1 {
         position: absolute;
         width: 15vw !important;
-        top: 51vw !important;
+        top: 75vw !important;
         left: 19.5vw !important;
     }
     .psspic2 {
         position: absolute;
         width: 15vw !important;
-        top: 67vw !important;
+        top: 91vw !important;
         left: 1.5vw !important;
     }
     .psspic3 {
         position: absolute;
-        width: 14vw !important;
+        width: 15vw !important;
         bottom: 2vw !important;
         left: 19vw !important;
     }
 
     .psspic5 {
         position: absolute;
-        width: 14vw !important;
-        top: 68vw !important;
+        width: 15vw !important;
+        top: 92vw !important;
         left: 83vw;
     }
 
     .psspic4 {
         position: absolute;
-        width: 14vw !important;
-        top: 52vw !important;
+        width: 15vw !important;
+        top: 75vw !important;
         left: 67vw !important;
     }
 
@@ -1193,6 +1193,7 @@
 
 
 @media only screen and (max-width:431px) {
+  
     .psspic6 {
         position: absolute;
         width: 16vw !important;
@@ -1202,35 +1203,36 @@
     .psspic1 {
         position: absolute;
         width: 15vw !important;
-        top: 93vw !important;
+        top: 126vw !important;
         left: 19.5vw !important;
     }
     .psspic2 {
         position: absolute;
         width: 15vw !important;
-        top: 108vw !important;
-        left: 2.5vw !important;
+        top: 141vw !important;
+        left: 1.5vw !important;
     }
     .psspic3 {
         position: absolute;
-        width: 14vw !important;
+        width: 15vw !important;
         bottom: 2vw !important;
         left: 19vw !important;
     }
 
     .psspic5 {
         position: absolute;
-        width: 14vw !important;
-        top: 105vw !important;
-        left: 82vw;
+        width: 15vw !important;
+        top: 142vw !important;
+        left: 83vw;
     }
 
     .psspic4 {
         position: absolute;
-        width: 14vw !important;
-        top: 93vw !important;
-        left: 68vw !important;
+        width: 15vw !important;
+        top: 126vw !important;
+        left: 67vw !important;
     }
+
 
     .pic1 {
         position: absolute;
@@ -1281,6 +1283,52 @@
 
 }
 
+@media only screen and (max-width:414px) 
+{
+        .psspic6 {
+        position: absolute;
+        width: 16vw !important;
+        bottom: 2vw !important;
+        right: 18.5vw !important;
+    }
+    .psspic1 {
+        position: absolute;
+        width: 15vw !important;
+        top: 131vw !important;
+        left: 19.5vw !important;
+    }
+    .psspic2 {
+        position: absolute;
+        width: 15vw !important;
+        top: 146vw !important;
+        left: 1.5vw !important;
+    }
+    .psspic3 {
+        position: absolute;
+        width: 15vw !important;
+        bottom: 2vw !important;
+        left: 19vw !important;
+    }
+
+    .psspic5 {
+        position: absolute;
+        width: 15vw !important;
+        top: 147vw !important;
+        left: 83vw;
+    }
+
+    .psspic4 {
+        position: absolute;
+        width: 15vw !important;
+        top: 131vw !important;
+        left: 67vw !important;
+    }
+
+    
+}
+
+
+
 @media only screen and (max-width:393px)
 {
        .btn125
@@ -1305,35 +1353,36 @@
     .psspic1 {
         position: absolute;
         width: 15vw !important;
-        top: 100vw !important;
+        top: 138vw !important;
         left: 19.5vw !important;
     }
     .psspic2 {
         position: absolute;
         width: 15vw !important;
-        top: 116vw !important;
-        left: 2.5vw !important;
+        top: 153vw !important;
+        left: 1.5vw !important;
     }
     .psspic3 {
         position: absolute;
-        width: 14vw !important;
+        width: 15vw !important;
         bottom: 2vw !important;
         left: 19vw !important;
     }
 
     .psspic5 {
         position: absolute;
-        width: 14vw !important;
-        top: 117vw !important;
-        left: 82vw;
+        width: 15vw !important;
+        top: 154vw !important;
+        left: 83vw;
     }
 
     .psspic4 {
         position: absolute;
-        width: 14vw !important;
-        top: 100vw !important;
-        left: 68vw !important;
+        width: 15vw !important;
+        top: 138vw !important;
+        left: 67vw !important;
     }
+
 
     .pic1 {
         position: absolute;
@@ -1403,7 +1452,7 @@
         padding:14px 10px;
     }
 
-    .psspic6 {
+       .psspic6 {
         position: absolute;
         width: 16vw !important;
         bottom: 2vw !important;
@@ -1412,33 +1461,33 @@
     .psspic1 {
         position: absolute;
         width: 15vw !important;
-        top: 105vw !important;
+        top: 144vw !important;
         left: 19.5vw !important;
     }
     .psspic2 {
         position: absolute;
         width: 15vw !important;
-        top: 121vw !important;
-        left: 2.5vw !important;
+        top: 159vw !important;
+        left: 1.5vw !important;
     }
     .psspic3 {
         position: absolute;
-        width: 14vw !important;
+        width: 15vw !important;
         bottom: 2vw !important;
         left: 19vw !important;
     }
 
     .psspic5 {
         position: absolute;
-        width: 14vw !important;
-        top: 121.5vw !important;
-        left: 82vw;
+        width: 15vw !important;
+        top: 160vw !important;
+        left: 83vw;
     }
 
     .psspic4 {
         position: absolute;
-        width: 14vw !important;
-        top: 105vw !important;
+        width: 15vw !important;
+        top: 144vw !important;
         left: 67vw !important;
     }
 
@@ -1491,7 +1540,7 @@
 }
 
 @media only screen and (max-width:361px) {
-    .psspic6 {
+       .psspic6 {
         position: absolute;
         width: 16vw !important;
         bottom: 2vw !important;
@@ -1500,33 +1549,33 @@
     .psspic1 {
         position: absolute;
         width: 15vw !important;
-        top: 124vw !important;
+        top: 165vw !important;
         left: 19.5vw !important;
     }
     .psspic2 {
         position: absolute;
         width: 15vw !important;
-        top: 140vw !important;
-        left: 2.5vw !important;
+        top: 180vw !important;
+        left: 1.5vw !important;
     }
     .psspic3 {
         position: absolute;
-        width: 14vw !important;
+        width: 15vw !important;
         bottom: 2vw !important;
         left: 19vw !important;
     }
 
     .psspic5 {
         position: absolute;
-        width: 14vw !important;
-        top: 140.5vw !important;
-        left: 82vw;
+        width: 15vw !important;
+        top: 181vw !important;
+        left: 83vw;
     }
 
     .psspic4 {
         position: absolute;
-        width: 14vw !important;
-        top: 124vw !important;
+        width: 15vw !important;
+        top: 165vw !important;
         left: 67vw !important;
     }
 

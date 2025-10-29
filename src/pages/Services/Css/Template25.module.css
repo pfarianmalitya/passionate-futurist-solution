@@ -701,6 +701,13 @@
     bottom: 72px !important;
     right: 24px !important;
 }
+.g2 {
+height: 5vw !important;
+    position: absolute;
+    right: 17vw;
+    top: 4.6vw;
+    width: 5vw !important;
+}
 .g3{
     height: 4vw !important;
     width: 6vw !important;
@@ -754,7 +761,7 @@
     height: 5vw !important;
     width: 5vw !important;
     top: 4.6vw !important;
-    right: 17vw !important;
+    right: 16vw !important;
     
 }
 }
@@ -893,7 +900,7 @@
 }
 }
 
-@media only screen and (max-width:600px)
+@media only screen and (max-width:601px)
 {
      .btn125
     {
@@ -1047,20 +1054,20 @@
    .RIIIMMGG1 img {
         width: 23vw !important;
         height: auto !important;
-        left: 49px !important;
-        top: 490px !important;
+        left: 27px !important;
+        top: 525px !important;
     }
     .RIIIMMGG2 img {
         width: 24vw !important;
         height: auto !important;
-        top: 490px !important;
+        top: 534px !important;
         right: 167px !important;
     }
     .RIIIMMGG3 img {
+      height: auto !important;
+        right: 46px !important;
+        top: 531px !important;
         width: 15.5vw !important;
-        height: auto !important;
-        top: 490px !important;
-        right: 68px !important;
     }
         .RIIIMMGG6 img {
         width: 19vw !important;
@@ -1079,6 +1086,36 @@
         height: auto !important;
         bottom: 21px !important;
         right: 28px !important;
+    }
+    .g1{
+        height: 8.5vw !important;
+        right: 48.8vw !important;
+        top: 2vw !important;
+        width: auto !important;
+    }
+        .g2{
+        height: auto !important;
+        right: 51vw !important;
+        top: 12.6vw !important;
+        width: 8vw !important;
+    }
+    .g3{
+        height: auto !important;
+        right: 59vw !important;
+        top: 27vw !important;
+        width: 10vw !important;
+    }
+    .g5{
+        height: auto !important;
+        right: 20.5vw !important;
+        top: 29vw !important;
+        width: 9.7vw !important;
+    }
+        .g6{
+        height: auto !important;
+        right: 25.5vw !important;
+        top: 44.5vw !important;
+        width: 7.5vw !important;
     }
 }
 @media only screen and (max-width:415px){
@@ -1124,7 +1161,7 @@
     .RIIIMMGG2 img {
         width: 27vw !important;
         height: auto !important;
-        right: 135px !important;
+        right: 143px !important;
     }
     .RIIIMMGG5 img {
         width: 15vw !important;
@@ -1134,9 +1171,21 @@
     }
     .g3 {
         height: auto !important;
-        width: 8vw !important;
-        top: 28vw !important;
-        right: 60vw !important;
+        right: 59vw !important;
+        top: 26vw !important;
+        width: 10vw !important;
+    }
+        .RIIIMMGG1 img {
+        height: auto !important;
+        left: 30px !important;
+        top: 530px !important;
+        width: 23vw !important;
+    }
+    .RIIIMMGG3 img {
+        height: auto !important;
+        right: 45px !important;
+        top: 534px !important;
+        width: 15.5vw !important;
     }
 
 }

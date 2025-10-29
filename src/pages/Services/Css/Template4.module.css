@@ -747,7 +747,7 @@ p a{
 
 
 
-@media only screen and (max-width:2550px)
+@media only screen and (max-width:2551px)
 {
    .RRDD1 .RRDG1{
     position: absolute;
@@ -821,11 +821,52 @@ p a{
     left:11%;
     animation: arti2 2s infinite linear;
   }
+  .RRDD1 .RRDG1 {
+  margin-left: 210px !important;
+    position: absolute;
+    top: 304px !important;
+    width: 8vw !important;
+}
+.RRDD3 .RRDG3{
+   left: 522px !important;
+    position: absolute;
+    top: -7px !important;
+    width: 5vw !important;
+}
+.RRDD4 .RRDG4{
+  position: absolute;
+    right: 275px !important;
+    top: 304px !important;
+    width: 7vw !important;
+}
+.RRDD5 .RRDG5{
+  right: 478px !important;
+    top: 168px !important;
+    width: 15vw !important;
+}
+.RRRD4 .RRRDD4{
+    left: 422px !important;
+    position: absolute;
+    top: 250px !important;
+    width: 6vw !important;
+}
+.RRRD3 .RRRDD3{
+    position: absolute;
+    right: -10px;
+    top: 572px;
+    width: 9vw;
+}
+.RRRD2 .RRRDD2{
+    bottom: 294px;
+    left: 45px;
+    position: absolute;
+    width: 5vw;
+}
   
 
 }
 
-@media only screen and (max-width:1920px)
+@media only screen and (max-width:1921px)
 {
     .RRDD1 .RRDG1{
     position: absolute;
@@ -899,12 +940,29 @@ p a{
     left:11%;
     animation: arti2 2s infinite linear;
   }
-  
+   .RRRD4 .RRRDD4 {
+        left: 312px !important;
+        position: absolute;
+        top: 168px !important;
+        width: 5vw !important;
+    }
+      .RRRD2 .RRRDD2{
+        bottom: 224px !important;
+        left: 30px !important;
+        width: 5vw !important;
+    }
+        .RRRD3 .RRRDD3{
+        position: absolute;
+        right: -22px;
+        top: 421px;
+        width: 9vw;
+    }
+
   
 }
 
 
-@media only screen and (max-width:1600px)
+@media only screen and (max-width:1601px)
 {
 
     .RRDD1 .RRDG1{
@@ -979,7 +1037,36 @@ p a{
       left:11%;
       animation: arti2 2s infinite linear;
     }
-  
+          .RRDD2 .RRDG2{
+
+        bottom: -2px !important;
+        left: 195px !important;
+        position: absolute;
+        width: 9vw !important;
+    }
+.RRDD5 .RRDG5{
+        right: 10rem !important;
+        top: 617px !important;
+        width: 30.5vw !important;
+    }
+        .RRDD1 .RRDG1 {
+      margin-left: 82px !important;
+        position: absolute;
+        top: 36rem !important;
+        top: 42rem !important;
+        width: 14vw !important;
+    }
+    .RRDD3 .RRDG3{
+        left: 185px !important;
+        position: absolute;
+        top: 547px !important;
+        width: 8vw !important;
+    }
+  .RRDD4 .RRDG4 {
+        right: 98px !important;
+        top: 41.8rem !important;
+        width: 12vw !important;
+    }
 }
 
 
@@ -1060,9 +1147,55 @@ p a{
   
 }
 
+@media only screen and (max-width:1301px){
+  .RRDD5 .RRDG5 {
+  right: 230px !important;
+  top: 76px !important;
+ width: 16vw !important;
+    }
+}
+@media only screen and (max-width:1271px){
+  .RRDD5 .RRDG5{
+        right: 231px !important;
+        top: 82px !important;
+        width: 15vw !important;
+    }
+    .RRRD1 .RRRDD1{
+    width: 35px;
+    left: 388px;
+    bottom: 138px;
+}
+}
+@media only screen and (max-width:1221px){
+  .RRDD5 .RRDG5{
+      right: 229px !important;
+        top: 88px !important;
+        width: 14vw !important;
+    }
+    .RRRD2 .RRRDD2 {
+    width: 6vw !important;
+    left: 14px !important;
+    bottom: 125px !important;
+}
 
-
-
+.RRRD3 .RRRDD3{
+    width: 10vw !important;
+    right: 49px !important;
+    top: 59px !important;
+}
+    .RRRD1 .RRRDD1{
+        width: 35px !important;
+        left: 348px !important;
+        bottom: 121px !important;
+    }
+}
+@media only screen and (max-width:1191px){
+  .RRDD5 .RRDG5{
+        right: 232px !important;
+        top: 95px !important;
+        width: 13vw !important;
+    }
+}
 @media only screen and (max-width:991px)
 {
     .dfgjhfgd
@@ -1621,7 +1754,7 @@ p a{
 }
 
 
-@media only screen and (max-width:430px)
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
@@ -1701,6 +1834,76 @@ p a{
       bottom:10%;
       left:11%;
       animation: arti2 2s infinite linear;
+    }
+    .RRDD5 .RRDG5 {
+        position: absolute;
+        width: 29.5vw !important;
+        right: 10rem !important;
+        top: 615px !important;
+ 
+    }
+        .RRDD5 .RRDG5 {
+        position: absolute;
+        width: 30.5vw !important;
+        right: 9.9rem !important;
+        top: 615px !important;
+ 
+    }
+    .RRDD1 .RRDG1{
+        position: absolute;
+        width: 14vw !important;
+        margin-left: 91px !important;
+        top: 41.5rem !important;
+  
+    }
+    .RRDD4 .RRDG4{
+        position: absolute;
+        width: 12vw !important;
+        right: 111px !important;
+        top: 41rem !important;
+
+    }
+        .RRDD2 .RRDG2 {
+        position: absolute;
+        width: 8vw !important;
+        left: 202px !important;
+        bottom: 7px !important;
+     
+    }
+        .RRRD4 .RRRDD4 {
+        left: 185px !important;
+        position: absolute;
+        top: 105px !important;
+        width: 11vw !important;
+    }
+        .RRRD1 .RRRDD1{
+        width: 38px !important;
+        left: 345px !important;
+        bottom: 129px !important;
+    }
+        .RRRD2 .RRRDD2{
+        width: 12vw !important;
+        left: 14px !important;
+        bottom: 147px !important;
+    }
+        .RRRD1 .RRRDD1{
+        width: 38px !important;
+        left: 345px !important;
+        bottom: 147px !important;
+    }
+    .g3{
+        position: absolute;
+        width: 24vw !important;
+        bottom: 10%;
+        right: 4%;
+  
+}
+    .g4 {
+        position: absolute;
+        width: 24vw !important;
+        bottom: 10%;
+        left: 8%;
+   
     }
 }
 
@@ -1790,7 +1993,7 @@ p a{
 
 
 
-@media only screen and (max-width:393px)
+@media only screen and (max-width:394px)
 {
        .btn125
     {
@@ -1881,6 +2084,64 @@ p a{
       bottom:10%;
       left:11%;
       animation: arti2 2s infinite linear;
+    }
+    .RRDD5 .RRDG5{
+        position: absolute;
+        width: 28.5vw !important;
+        right: 9rem !important;
+        top: 618px !important;
+
+    }
+        .RRDD3 .RRDG3{
+        position: absolute;
+        width: 8vw !important;
+        left: 167px !important;
+        top: 554px !important;
+  
+    }
+    .RRDD5 .RRDG5{
+        position: absolute;
+        width: 30.5vw !important;
+        right: 9rem !important;
+        top: 612px !important;
+    }
+    .RRDD4 .RRDG4{
+        position: absolute;
+        width: 12vw !important;
+        right: 93px !important;
+        top: 41rem !important;
+     
+    }
+    .RRRD4 .RRRDD4 {
+        left: 160px !important;
+        position: absolute;
+        top: 88px !important;
+        width: 11vw !important;
+    }
+    .RRRD1 .RRRDD1{
+        width: 38px !important;
+        left: 303px !important;
+        bottom: 130px !important;
+    }
+    .RRRD2 .RRDD2{
+        width: 13vw !important;
+        left: 14px !important;
+        bottom: 136px !important;
+    }
+    .g3 {
+        position: absolute;
+        width: 24vw !important;
+        bottom: 10% !important;
+        right: 7% !important;
+ 
+    }
+
+.RRDD3 .RRDG3 {
+        position: absolute;
+        width: 8vw !important;
+        left: 180px !important;
+        top: 551px !important;
+
     }
 
 }

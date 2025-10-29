@@ -288,22 +288,22 @@ export const Template24 = ({ serviceResponse, slug }) => {
                     {slug === 'catalogue-design-services' && (
                       <>
                         <div className={styles.RRIMMGG1} >
-                          <img src="./images/catelog_2ndImg_2.png" className="RRIMMG11" style={{position: 'absolute', width: '6rem', height: 'auto', left: '202px', top: '141px',transform: "scale(0.2)", opacity: 0.2}} alt="" />
+                          <img src="./images/catelog_2ndImg_2.png" className="RRIMMG11" style={{position: 'absolute', width: 'var(--RRIMMG11-width)', height: 'auto', left: 'var(--RRIMMG11-left)', top: 'var(--RRIMMG11-top)',transform: "scale(0.2)", opacity: 0.2}} alt="" />
                         </div>
                         <div className={styles.RRIMMGG2} >
-                          <img src="./images/catelog_2ndImg_3.png" className="RRIMMG12" style={{position: 'absolute', width: '7.5rem', height: 'auto', right: '188px', top: '176px', transform: "scale(0.2)", opacity: 0.2}} alt="" />
+                          <img src="./images/catelog_2ndImg_3.png" className="RRIMMG12" style={{position: 'absolute', width: 'var(--RRIMMG12-width)', height: 'auto', right: 'var(--RRIMMG12-right)', top: 'var(--RRIMMG12-top)', transform: "scale(0.2)", opacity: 0.2}} alt="" />
                         </div>
                         <div className={styles.RRIMMGG3} >
-                          <img src="./images/catelog_2ndImg_4.png" className="RRIMMG13" style={{position: 'absolute', width: '7.5em', height: 'auto', right: '149px', bottom: '252px', transform: "scale(0.2)", opacity: 0.2}} alt="" />
+                          <img src="./images/catelog_2ndImg_4.png" className="RRIMMG13" style={{position: 'absolute', width: 'var(--RRIMMG13-width)', height: 'auto', right: 'var(--RRIMMG13-right)', bottom: 'var(--RRIMMG13-bottom)', transform: "scale(0.2)", opacity: 0.2}} alt="" />
                         </div>
                         <div className={styles.RRIMMGG4} >
-                          <img src="./images/catelog_2ndImg_5.png" className="RRIMMG14" style={{position: 'absolute', width: '11rem', height: 'auto', left: '34%', bottom: '143px', transform: "scale(0.2)", opacity: 0.2}} alt="" />
+                          <img src="./images/catelog_2ndImg_5.png" className="RRIMMG14" style={{position: 'absolute', width: 'var(--RRIMMG14-width)', height: 'auto', left: 'var(--RRIMMG14-left)', bottom: 'var(--RRIMMG14-bottom)', transform: "scale(0.2)", opacity: 0.2}} alt="" />
                         </div>
                         <div className={styles.RRIMMGG5} >
-                          <img src="./images/catelog_2ndImg_6.png" className="RRIMMG15" style={{position: 'absolute', width: '9rem', height: 'auto', left: '158px', top: '69px', transform: "scale(0.2)", opacity: 0.2}} alt="" />
+                          <img src="./images/catelog_2ndImg_6.png" className="RRIMMG15" style={{position: 'absolute', width: 'var(--RRIMMG15-width)', height: 'auto', left: 'var(--RRIMMG15-left)', top: 'var(--RRIMMG15-top)', transform: "scale(0.2)", opacity: 0.2}} alt="" />
                         </div>
                         <div className={styles.RRIMMGG6} >
-                          <img src="./images/catelog_2ndImg_7.png" className="RRIMMG16" style={{position: 'absolute', width: '8rem', height: 'auto', left: '176px', top: '211px', transform: "scale(0.2)", opacity: 0.2}} alt="" />
+                          <img src="./images/catelog_2ndImg_7.png" className="RRIMMG16" style={{position: 'absolute', width: 'var(--RRIMMG16-width)', height: 'auto', left: 'var(--RRIMMG16-left)', top: 'var(--RRIMMG16-top)', transform: "scale(0.2)", opacity: 0.2}} alt="" />
                         </div>
              
                       </>

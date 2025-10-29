@@ -110,8 +110,8 @@
 .prwsimg1{
     position: absolute;
     width: 18.5vw !important;
-    top: 24%;
-    right: 31%;
+    top: 0;
+    left: 0;
     animation: spininlu 5s;
 }
 @keyframes spininlu{
@@ -127,8 +127,8 @@
 .prwsimg2{
     position: absolute;
     width: 18vw !important;
-    bottom: 16%;
-    right: 31%;
+    bottom: 0;
+    left: 0;
     animation: spininld 5s;
 }
 @keyframes spininld{
@@ -144,8 +144,8 @@
 .prwsimg3{
     position: absolute;
     width: 18.5vw !important;
-    top: 21.5%;
-    right: 1%;
+    top: 0;
+    right: 0;
     animation: spininru 5s;
 }
 @keyframes spininru{
@@ -161,8 +161,8 @@
 .prwsimg4{
     position: absolute;
     width: 14.7vw !important;
-    bottom: 21%;
-    right: 1.5%;
+    bottom: 0;
+    right: 0;
     animation: spininrd 5s;
 }
 @keyframes spininrd{
@@ -237,18 +237,14 @@
         display:inline !important;
     }
 
-      .sdfghdfgdf 
-    {
-        margin-top: 9rem;
-    }
-
     #navbarSupportedContent{
         display: none;
     }
     
     .sdfghdfgdf 
     {
-        padding:20px !important;
+        float: initial;
+        padding: 9rem 20px 20px 20px !important;
         text-align: center;
     }
     
@@ -521,26 +517,13 @@
 }
 
 @media only screen and (max-width:801px){
-    .prwsimg1{
-        width: 39.5vw !important;
-        top: 35% !important;
-        left: 4% !important;
-    }
-    .prwsimg2{
-        width: 38vw !important;
-        bottom: 21.5% !important;
-        right: 54.5% !important;
-    }
-    .prwsimg3{
-       width: 39.5vw !important;
-       top: 34.5% !important;
-       right: 4.2% !important;
-    }
+    .prwsimg1,
+    .prwsimg2,
+    .prwsimg3,
     .prwsimg4{
-       width: 31vw !important;
-       bottom: 23% !important;
-       right: 8.3% !important;
+        width: 35vw !important;
     }
+
     .prwspic1{
         width: 25.5vw !important;
     }
@@ -586,20 +569,6 @@
         padding:10px;
     }
 
-       .prwsimg1{
-        top: 42% !important;
-    }
-    .prwsimg2{
-        bottom: 26.5% !important;
-        right: 54% !important;
-    }
-    .prwsimg3{
-       top: 41.5% !important;
-    }
-    .prwsimg4{
-       bottom: 27.3% !important;
-       right: 9% !important;
-    }
     .fgbdfgf h2 
     {
         padding-top: 10px;
@@ -612,15 +581,7 @@
 {
     .btn126{
         margin-left: 0 !important;
-    }
-        .prwsimg2{
-        bottom: 29.5% !important;
-        right: 53.8% !important;
-    }
-    .prwsimg4{
-       bottom: 30.2% !important;
-       right: 9.3% !important;
-    }
+    }    
 }
 
 
@@ -628,48 +589,6 @@
 {
     .sdcsdfeewwwww ul{
         display: block;
-    }
-}
-
-@media only screen and (max-width:431px){
-    .prwsimg1{
-        top: 49% !important;
-    }
-    .prwsimg2{
-        bottom: 20% !important;
-        right: 53.3% !important;
-    }
-    .prwsimg3{
-       top: 48.7% !important;
-    }
-    .prwsimg4{
-        bottom: 20.8% !important;
-        right: 10.5% !important;
-    }
-}
-
-@media only screen and (max-width:415px){
-    .prwsimg2{
-       bottom: 32% !important;
-       right: 54% !important;
-    }
-    .prwsimg4{
-       bottom: 32.4% !important;
-       right: 9.2% !important;
-    }
-       .prwsimg1{
-        top: 53% !important;
-    }
-    .prwsimg2{
-        bottom: 17% !important;
-        right: 53.3% !important;
-    }
-    .prwsimg3{
-       top: 52.7% !important;
-    }
-    .prwsimg4{
-       bottom: 18.8% !important;
-        right: 8.5% !important;
     }
 }
 
@@ -687,24 +606,6 @@
     }
     .fhgdfg h2 {
         font-size:35px;
-    }
-
-      .prwsimg2{
-       bottom: 12% !important;
-       right: 53.8% !important;
-    }
-    .prwsimg4{
-       bottom: 12.7% !important;
-       right: 8.8% !important;
-    }
-
-      
-       .prwsimg1{
-        top: 57% !important;
-      }
-
-          .prwsimg3{
-       top: 55.7% !important;
     }
 
 }
@@ -725,57 +626,5 @@
      .btn126
     {
         padding:14px 10px;
-    }
-
-    .prwsimg2{
-       bottom: 34% !important;
-    }
-    .prwsimg4{
-       bottom: 34.6% !important;
-    }
-}
-
-@media only screen and (max-width:361px){
-    .prwsimg1{
-        top: 53% !important;
-    }
-    .prwsimg2{
-       bottom: 27.6% !important;
-       right: 53.7% !important;
-    }
-    .prwsimg3{
-       top: 52.8% !important;
-    }
-    .prwsimg4{
-       bottom: 28.3% !important;
-    }
-}
-@media only screen and (max-width:321px){
-    .prwsimg1{
-        top: 57% !important;
-    }
-    .prwsimg2{
-       bottom: 26% !important;
-    }
-    .prwsimg3{
-       top: 56.7% !important;
-    }
-    .prwsimg4{
-       bottom: 26.5% !important;
-       right: 8.9% !important;
-    }
-}
-@media only screen and (max-width:281px){
-    .prwsimg1{
-        top: 63% !important;
-    }
-    .prwsimg2{
-       bottom: 22% !important;
-    }
-    .prwsimg3{
-       top: 62.9% !important;
-    }
-    .prwsimg4{
-       bottom: 22.5% !important;
     }
 }

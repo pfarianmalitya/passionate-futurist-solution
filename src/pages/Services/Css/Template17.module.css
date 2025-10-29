@@ -471,13 +471,13 @@
    
     right: 10%  !important ;
     top: 3%  !important;
-    width: 14rem;
+    width: 11vw !important;
 }
 .RR5 .RRimg5 {
-    bottom: 31%  !important;
+    bottom: 28%  !important;
     
     right: 4%;
-    width: 12rem;
+    width: 10vw !important;
 }
 .RR6 .RRimg6 {
     bottom: 2% !important ;
@@ -489,12 +489,12 @@
     left: 17% !important;
 
     top: 31%  !important;
-    width: 25rem;
+    width: 27rem !important;
 }
 .tmspic3 {
     bottom: 6%  !important;
     left: 7% !important; 
-    width: 26rem !important;
+    width: 25rem !important;
 
 }
 .tmspic2 {
@@ -510,8 +510,8 @@
     width: 25rem !important;
 }
 }
-@media only screen and (max-width:1601px){
-  .RR1 .RRimg{
+@media only screen and (max-width:1600px){
+  .RR1 .RRimg1{
     left: 8% !important;
    
     top: 1%!important ;
@@ -926,55 +926,61 @@
     .weinjiurr_inner:global(.p-5),
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
+}
+}
+@media only screen and (max-width:801px){
+  .RR1 .RRimg1{
+        left: 14% !important;
+        top: 52% !important;
+        width:24vw !important;
     }
+   .RR4 .RRimg4{
+        right: 14% !important;
+        top: 52% !important;
+        width: 23vw !important;
+    }
+   .RR2 .RRimg2 {
+       bottom: 14% !important;
+        left: 6% !important;
+        width: 19vw !important;
 }
+.RR5 .RRimg5 {
+        bottom: 14% !important;
+        right: 7% !important;
+        width: 19vw !important;
+    }
+    .RR3 .RRimg3 {
+        bottom: -15px !important;
+        left: 17% !important;
+        width: 21vw !important;
+    }
+        .RR6 .RRimg6{
+       bottom: 0% !important;
+        right: 14% !important;
+        width: 20vw !important;
+    }
+    .tmspic1{
+        left: 13% !important;
+        top: 58% !important;
+        width: 28vw !important;
+    }
+        .tmspic2{
+       right: 11% !important;
+        top: 59% !important;
+        width: 26vw !important;
+    }
+        .tmspic3{
+        left: 6% !important;
+        top: 80% !important;
+        width: 29vw !important;
+    }
+        .tmspic4 {
+        bottom: 3% !important;
+        right: 9% !important;
+        width: 27vw !important;
+    }
 
-@media only screen and (max-width:992px) {
-  .RRimg3 {
-    position: relative;
-    top: 28vw !important;
-    left: 12vw !important;
-  }
-
-  .RRimg6 {
-    position: relative;
-    top: 29vw !important;
-    left: 42vw !important;
-  }
-
-  .tmspic1 {
-    top: 43vw !important;
-    left: 12vw !important;
-    width: 17vw !important;
-    height: 8vw !important;
-  }
-
-  .tmspic2 {
-    top: 44vw !important;
-    left: 50vw !important;
-    width: 17vw !important;
-    height: 8vw !important;
-  }
-
-  .tmspic3 {
-    top: 62vw !important;
-    left: 10vw !important;
-    width: 17vw !important;
-    height: 8vw !important;
-  }
-
-  .tmspic4 {
-    top: 62vw !important;
-    left: 48vw !important;
-    width: 17vw !important;
-    height: 8vw !important;
-  }
-  .ijdnm_eoijrer h2{
-    margin-top: 4vw !important;
-  }
 }
-
-
 
 @media only screen and (max-width:600px)
 {
@@ -1131,38 +1137,38 @@
 }
 
 
-@media only screen and (max-width:430px)
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
     .RR1 .RRimg1 {
         left: 14% !important;
-        top: 66% !important;
+        top: 69% !important;
         width: 24vw !important;
     }
         .RR4 .RRimg4{
         right: 12% !important;
-        top: 66% !important;
+        top: 70% !important;
         width: 22vw !important;
     }
     .RR2 .RRimg2{
-        bottom: 13% !important;
+        bottom: 12% !important;
         left: 6% !important;
         width: 19vw !important;
     }
         .RR5 .RRimg5 {
-        bottom: 12% !important;
+        bottom: 11% !important;
         right: 6% !important;
         width: 19vw !important;
     }
         .RR3 .RRimg3 {
-        bottom: 1px !important;
+        bottom: 11px !important;
         left: 15% !important;
         width: 21vw !important;
     }
         .RR6 .RRimg6{
-        bottom: 1% !important;
+        bottom: 2% !important;
         right: 13% !important;
         width: 20vw !important;
     }
@@ -1174,23 +1180,23 @@
     .tmspic2{
         right: 6% !important;
         top: 75% !important;
-        width: 31vw !important;
+        width: 30vw !important;
     }
     .tmspic3{
         right: 6% !important;
         top: 85% !important;
-        width: 31vw !important;
+        width: 30vw !important;
     }
         .tmspic4{
         bottom: 6% !important;
         right: 8% !important;
-        width: 31vw !important;
+        width: 30vw !important;
     }
 
 }
 
 
-@media only screen and (max-width:393px)
+@media only screen and (max-width:394px)
 {
        .btn125
     {
@@ -1218,18 +1224,28 @@
     }
         .RR1 .RRimg1{
         left: 14% !important;
-        top: 77% !important;
+        top: 70% !important;
         width: 24vw !important;
+    }
+    .RR2 .RRimg2 {
+        bottom: 11% !important;
+        left: 6% !important;
+        width: 19vw !important;
     }
         .RR4 .RRimg4 {
         right: 12% !important;
-        top: 77% !important;
+        top: 71% !important;
         width: 22vw !important;
     }
         .RR3 .RRimg3 {
         bottom: 3px !important;
         left: 15% !important;
         width: 21vw !important;
+    }
+        .RR5 .RRimg5 {
+        bottom: 10% !important;
+        right: 6% !important;
+        width: 19vw !important;
     }
         .RR6 .RRimg6 {
         bottom: 2% !important;
@@ -1238,23 +1254,23 @@
     }
     .tmspic1 {
         left: 14% !important;
-        top: 77% !important;
-        width: 32vw !important;
+        top: 76% !important;
+        width: 31vw !important;
     }
         .tmspic2{
         right: 6% !important;
         top: 77% !important;
-        width: 29vw !important;
+        width: 28vw !important;
     }
     .tmspic3{
         left: 7% !important;
         top: 87% !important;
-        width: 31vw !important;
+        width: 30vw !important;
     }
     .tmspic4 {
-        bottom: 4% !important;
+        bottom: 5% !important;
         right: 8% !important;
-        width: 30vw !important;
+        width: 29vw !important;
     }
 
 

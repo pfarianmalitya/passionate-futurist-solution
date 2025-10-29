@@ -713,10 +713,6 @@
     {
         display:inline !important;
     }
-      .sdfghdfgdf 
-    {
-        margin-top: 9rem;
-    }
 
     #navbarSupportedContent{
         display: none;
@@ -724,7 +720,8 @@
     
     .sdfghdfgdf 
     {
-        padding:20px !important;
+        float: initial;
+        padding: 9rem 20px 20px 20px !important;
         text-align: center;
     }
     
@@ -1006,7 +1003,6 @@
     .pdwsimg2 {
         position: absolute;
         width: 25vw !important;
-        top: 43%;
         right: 67px;
     }
     .pdwsimg1 {
@@ -1178,7 +1174,6 @@
     .pdwsimg2 {
         position: absolute;
         width: 25vw !important;
-        top: 53%;
         right: 67px;
     }
     .pdwsimg1 {
@@ -1323,7 +1318,6 @@
     .pdwsimg2 {
        position: absolute;
         width: 24vw !important;
-        top: 56%;
         right: 67px;
     }
     .pdwsimg1 {
@@ -1350,7 +1344,6 @@
     .pdwsimg2 {
         position: absolute;
         width: 25vw !important;
-        top: 70%;
         right: 60px;
     }
     .pdwsimg1 {
@@ -1478,14 +1471,6 @@
     }
 }
 
-@media only screen and (max-width:415px)
-{
-    .pdwsimg2 
-    {
-        top: 72%;
-    }
-}
-
 
 @media only screen and (max-width:393px)
 {
@@ -1511,7 +1496,6 @@
     .pdwsimg2 {
        position: absolute;
         width: 25vw !important;
-        top: 73%;
         right: 46px;
     }
     .pdwsimg1 {
@@ -1655,7 +1639,6 @@
     .pdwsimg2 {
        position: absolute;
         width: 25vw !important;
-        top: 76%;
         right: 46px;
     }
     .pdwsimg1 {
@@ -1682,7 +1665,6 @@
     .pdwsimg2 {
        position: absolute;
         width: 25vw !important;
-        top: 76%;
         right: 40px;
     }
     .pdwsimg1 {
@@ -1756,7 +1738,6 @@
     .pdwsimg2 {
        position: absolute;
         width: 25vw !important;
-        top: 80%;
         right: 40px;
     }
     .pdwsimg1 {

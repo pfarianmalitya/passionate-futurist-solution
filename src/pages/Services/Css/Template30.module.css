@@ -244,6 +244,52 @@
 }
 
 
+@media only screen and (max-width:2551px) {
+  .fjhfdfgdfg {
+    margin-top: 6vw !important;
+  }
+
+  .fjhfdbd img {
+    width: 91px !important;
+    height: 48px !important;
+    margin-top: -1px !important;
+    margin-left: 4vw !important;
+  }
+
+  .bffdd5522 {
+    height: 20vw !important;
+  }
+}
+
+@media only screen and (max-width:1921px) {
+  .fjhfdbd img {
+    width: 91px !important;
+    height: 48px !important;
+    margin-top: -1px !important;
+    margin-left: 3vw !important;
+  }
+}
+
+@media only screen and (max-width:1601px) {
+  .fjhfdbd img {
+    width: 77px !important;
+    height: 35px !important;
+    margin-top: 40px !important;
+    margin-left: 2vw !important;
+  }
+
+  .heading {
+    margin-top: 3vw !important;
+    margin-left: -5vw !important;
+  }
+
+  .fjhfdfgdfg {
+    margin-top: 1vw !important;
+  }
+
+}
+
+
 
 @media only screen and (max-width:991px)
 {
@@ -655,6 +701,11 @@
 
 
 @media only screen and (max-width:431px) {
+  
+  .sdfsdfsdf h2 {
+    margin-top: -22vw !important;
+  }
+
   .dbfghsdf {
     position: relative;
     left: 15vw !important;
@@ -662,23 +713,37 @@
 
   .fjhfdbd img {
     position: relative;
-    left: -6vw !important;
-    top: -6vw !important;
+    left: -4vw !important;
+    top: 0vw !important;
+    width: 8vw !important;
+    height: 5vw !important;
+
   }
 
   .subheading {
-    position: relative;
-    top: 0vw !important;
+    font-size: 3vw !important;
   }
 
   .heading {
-    top: -6vw !important;
+    margin-top: -1vw !important;
+    font-size: 4vw !important;
   }
 
   .dgndfgdfgdf img {
     margin-top: -10vw !important;
   }
 
+  .bffdd5522 {
+    height: 48vw !important;
+  }
+
+  .dndhbdsfsdf h2 {
+    margin-top: 1vw !important;
+  }
+
+  .sdfghdfgdf {
+    margin-top: 2rem;
+  }
 
 }
 
@@ -692,6 +757,30 @@
 }
 
 @media only screen and (max-width:394px) {
+  .sdfsdfsdf h2 {
+    margin-top: 12vw !important;
+  }
+
+  .fjhfdbd img {
+    position: relative;
+    left: -3vw !important;
+    top: 13vw  !important;
+    width: 8vw !important;
+    height: 5vw !important;
+  }
+  
+  .fhgdfg h2 {
+    font-size: 35px;
+  }
+
+  .dbfghsdf img {
+    position: relative;
+    top: 1vw !important;
+  }
+  .hsdffdvffdfd h2{
+    margin-top: -10vw !important;
+  }
+
   .btn125 {
     padding: 14px 12px;
   }
@@ -707,12 +796,6 @@
   .dbfghsdf img {
     position: relative;
     top: 7vw !important;
-  }
-
-  .fjhfdbd {
-    position: relative;
-    top: -8vw !important;
-    left: 14vw !important;
   }
 
 }

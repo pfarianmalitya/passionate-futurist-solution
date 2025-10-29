@@ -80,6 +80,45 @@
     border-radius: 1.4rem;
 }
 
+@media only screen and (max-width:2551px) {
+    .fjhfdfgdfg {
+        margin-top: 15vw !important;
+    }
+
+    .wrapper {
+        margin-left: 9vw !important;
+        margin-top: 6vw !important;
+    }
+
+    .dgndfgdfgdf img {
+        width: 100% !important;
+        margin-top: 0vw !important;
+    }
+
+    .vfdfnhfdbfd {
+        height: 27vw !important;
+    }
+    .fjhfdfgdfg {
+        margin-top: 6vw !important;
+    }
+}
+
+@media only screen and (max-width:1921px) {
+    .wrapper {
+        margin-top: 6vw !important;
+        margin-left: 6vw !important;
+    }
+}
+
+@media only screen and (max-width:1601px) {
+    .wrapper {
+        margin-left: 3vw !important;
+    }
+
+    .fjhfdfgdfg {
+        margin-top: 2vw !important;
+    }
+}
 
 @media only screen and (max-width:991px)
 {
@@ -487,8 +526,36 @@
 }
 
 
-@media only screen and (max-width:430px)
+@media only screen and (max-width:431px)
 {
+     .typewriter {
+        margin-top: -29vw !important;
+        margin-left: -4vw !important;
+    }
+
+    .icon {
+        width: 8vw !important;
+        position: relative;
+        top: -13vw !important;
+        left: -3vw !important;
+    }
+
+    .dgndfgdfgdf img {
+        margin-top: 22vw !important;
+    }
+
+    .fjhfdfgdfg {
+        margin-top: -82vw !important;
+    }
+
+    .sdfsdfsdf {
+        margin-top: 113%;
+    }
+
+    .sdfghdfgdf {
+        margin-top: 1rem !important;
+    }
+
     .sdcsdfeewwwww ul{
         display: block;
     }
@@ -511,6 +578,16 @@
 
 @media only screen and (max-width:393px)
 {
+     .texttt555 img {
+        position: relative;
+        top: 7vw !important;
+        left: -7vw !important;
+    }
+
+    .icon {
+        width: 37px !important;
+    }
+
        .btn125
     {
         padding:14px 12px;

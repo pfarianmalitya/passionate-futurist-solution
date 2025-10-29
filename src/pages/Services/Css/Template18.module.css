@@ -124,7 +124,7 @@
 
 
 
-@media only screen and (max-device-width:2551px) {
+@media only screen and (max-width:2551px) {
     .titlii07 {
         left: 66px !important;
         top: 60px !important;
@@ -158,13 +158,13 @@
     }
 
     .titlii02 {
-        left: 69px;
+        left: 69px !important;
         top: 249px !important;
         width: 367px !important;
     }
 
     .titlii04 {
-       left: 879px;
+       left: 879px !important;
         top: 467px !important;
         width: 315px !important;
     }
@@ -174,9 +174,12 @@
         top: 461px !important;
         width: 316px !important;
     }
+    .cjdjcdc{
+        height: auto !important;
+    }
 }
 
-@media only screen and (max-device-width:1921px) {
+@media only screen and (max-width:1921px) {
     .titlii07 {
         position: absolute;
         width: 352px !important;
@@ -219,7 +222,7 @@
         left: 642px !important;
     }
 }
-@media only screen and (max-device-width:1601px) {
+@media only screen and (max-width:1601px) {
 
      .titlii04 {
        width: 192px !important;
@@ -252,7 +255,7 @@
         left: 9px !important;
 }
 }
-@media only screen and (max-device-width:1366px) {
+@media only screen and (max-width:1366px) {
     .titlii06{
         position: absolute;
         width: 178px !important;
@@ -783,7 +786,7 @@
         .titlii06{
         position: absolute;
         width: 20vw !important;
-        top: 95vw !important;
+        top: 119vw !important;
         left: 68vw !important;
     }
     .titlii05 {
@@ -813,7 +816,7 @@
     .titlii07 {
        position: absolute;
         width: 25vw !important;
-        top: 118vw !important;
+        top: 119vw !important;
         left: 10vw !important;
     }
 
@@ -890,8 +893,13 @@
     .fhgdfg h2 {
         font-size:35px;
     }
+    .titlii07 {
+        top: 137vw !important;
+    }
+    .titlii06 {
+        top: 137vw !important;
+    }
 
-   
 }
 
 
@@ -965,7 +973,7 @@
 }
 
 
-@media only screen and (max-device-width:360px) 
+@media only screen and (max-width:360px) 
 {
 
     
@@ -1008,7 +1016,7 @@
 
 }
 
-@media only screen and (max-device-width:321px) {
+@media only screen and (max-width:321px) {
     .titlii06{
        position: absolute;
         width: 22vw !important;
@@ -1046,7 +1054,7 @@
         left: 9vw !important;
     }
 }
-@media only screen and (max-device-width:281px) {
+@media only screen and (max-width:281px) {
     .titlii06{
        position: absolute;
         width: 22vw !important;

@@ -295,6 +295,9 @@ position: absolute;
         bottom: 40px !important;
         right: 24px !important;
     }
+    .mvicfnvfbc{
+        height: auto;
+    }
 
 
 }
@@ -739,9 +742,125 @@ position: absolute;
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+
+    .RIMG11 .RIMGG1{
+        width: 26vw !important;
+        left: 5% !important;
+        top: 45% !important;
+    }
+    .RIMG12 .RIMGG2{
+        width: 27vw !important;
+        right: 5% !important;
+        top: 46% !important;
+    }
+    .RIMG13 .RIMGG3{
+        width: 26vw !important;
+        left: 3% !important;
+        bottom: 24% !important;
+    }
+    .RIMG14 .RIMGG4{
+        width: 26vw !important;
+        top: 66% !important;
+        right: 3% !important;
+    }
+    .RIMG15 .RIMGG5{
+        width: 26vw !important;
+        bottom: 5% !important;
+        left: 4% !important;
+    }
+    .RIMG16 .RIMGG6{
+        width: 26vw !important;
+        bottom: 5% !important;
+        right: 4% !important;
+    }
+    .n1{
+        height: 15vw !important;
+        width: 20vw !important;
+        top: 2vw;
+        right: 57.8vw;
+        
+    }
+    .n2{
+        height: 15vw !important;
+        width: 20vw !important;
+        top: 26.6vw;
+        right: 59vw;
+    }
+
+    .n3{
+        height: 15vw !important;
+        width: 20vw !important;
+        top: 49.5vw;
+        right: 59vw;
+    }
+    .n4{
+        height: 15vw !important;
+        width: 20vw !important;
+        top: 2vw;
+        right: 17vw;
+    }
+    .n5{
+        height: 15vw !important;
+        width: 20vw !important;
+        top: 27vw;
+        right: 15.8vw;
+    }
+
+    .n6{
+        height: 15vw !important;
+        width: 20vw !important;
+        top: 49.5vw;
+        right: 17vw;
+    }
+    .img1{
+        width: 21vw !important;
+        top: 32%;
+        left: 80%;
+    }
+
+    .img2{
+        width: 32vw !important;
+        top: 67%;
+        left: 60%;
+    }
+    .img3{
+        width: 21vw !important;
+        top: 72%;
+        left: 7%;
+    }
+    .img4{
+        width: 21vw !important;
+        top: 27%;
+        left: 7%;
+    }
+    .img5{
+        width: 22vw !important;
+        top: 4%;
+        left: 33%;
+    }
 }
 
-
+@media only screen and (max-width:801px){
+    .RIMG11 .RIMGG1{
+        top: 50% !important;
+    }
+    .RIMG12 .RIMGG2{
+        top: 51% !important;
+    }
+    .RIMG13 .RIMGG3{
+        bottom: 21.5% !important;
+    }
+    .RIMG14 .RIMGG4{
+        top: 69.5% !important;
+    }
+    .RIMG15 .RIMGG5{
+        bottom: 4% !important;
+    }
+    .RIMG16 .RIMGG6{
+        bottom: 4% !important;
+        right: 7% !important;
+    }
+}
 
 @media only screen and (max-width:600px)
 {
@@ -774,148 +893,50 @@ position: absolute;
     {
         padding:10px;
     }
-
-      
-
-    
+     
     .RIMG11 .RIMGG1{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        left: 25px !important;
-        top: 490px !important;
+        top: 60.5% !important;
     }
     .RIMG12 .RIMGG2{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        right: 26px !important;
-        top: 490px !important;
+        top: 61.5% !important;
     }
     .RIMG13 .RIMGG3{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        left: 25px !important;
-        bottom: 145px !important;
+        bottom: 18% !important;
     }
     .RIMG14 .RIMGG4{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        bottom: 300px !important;
-        bottom: 145px !important;
+        top: 74.5% !important;
     }
     .RIMG15 .RIMGG5{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        bottom: 40px !important;
-        left: 11px !important;
+        bottom: 4% !important;
     }
     .RIMG16 .RIMGG6{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        bottom: 40px !important;
-        right: 24px !important;
+        bottom: 3.5% !important;
+        right: 6% !important;
     }
-
     .n1{
-        position: absolute;
-        height: 12vw !important;
-        width: 16vw !important;
         top: 2vw;
-        right: 64.8vw;
-        
+        right: 54.8vw;  
     }
     .n2{
-        position: absolute;
-        height: 12vw !important;
-        width: 16vw !important;
-        top: 48.6vw;
-        right: 1vw;
-        animation:zoom 2s ease-in-out infinite;
+        top: 25.6vw;
+        right: 55vw;
     }
-
     .n3{
-        position: absolute;
-        height: 12vw !important;
-        width: 16vw !important;
-        top: 25.5vw;
-        right: 64.8vw;
+        top: 46.5vw;
+        right: 58vw;
     }
     .n4{
-        position: absolute;
-        height: 12vw !important;
-        width: 16vw !important;
         top: 2vw;
-        right: 1vw;
+        right: 17vw;
     }
     .n5{
-        position: absolute;
-        height: 12vw !important;
-        width: 16vw !important;
-        top: 50vw;
-        right: 64.8vw;
-        animation:blink 1s infinite;
+        top: 26vw;
+        right: 15.8vw;
     }
-
     .n6{
-        position: absolute;
-        height: 12vw !important;
-        width: 16vw !important;
-        top: 20.5vw;
-        right: 1vw;
+        top: 47vw;
+        right: 17vw;
     }
-
-    
-    .img1{
-        position: absolute;
-        width: 17vw !important;
-        height: auto !important;
-        top: 32%;
-        left: 80%;
-        animation: zoomIn 3s infinite;
-    }
-
-    .img2{
-        position: absolute;
-        width: 30vw !important;
-        height: auto !important;
-        top: 69%;
-        left: 63%;
-        animation: zoomOut 3s infinite;
-    }
-
-    .img3{
-        position: absolute;
-        width: 17vw !important;
-        height: auto !important;
-        top: 72%;
-        left: 7%;
-        animation: swing 3s infinite;
-    }
-
-    .img4{
-        position: absolute;
-        width: 17vw !important;
-        height: auto !important;
-        top: 27%;
-        left: 7%;
-        animation:flip 3s linear infinite ;
-    }
-
-    .img5{
-    position: absolute;
-        width: 17vw !important;
-        height: auto !important;
-        top: 2%;
-        left: 33%;
-        animation:floating 3s infinite;
-    }
-
-
 }
 
 
@@ -928,25 +949,22 @@ position: absolute;
 }
 
 
-@media only screen and (max-width:430px)
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
-
-        .RIMG13 .RIMGG3{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        left: 25px !important;
-        bottom: 125px !important;
+    .RIMG11 .RIMGG1{
+        top: 68.5% !important;
+    }
+    .RIMG12 .RIMGG2{
+        top: 69% !important;
+    }
+    .RIMG13 .RIMGG3{
+        bottom: 14% !important;
     }
     .RIMG14 .RIMGG4{
-        position: absolute;
-        width: 26vw !important;
-        height: auto !important;
-        bottom: 300px !important;
-        bottom: 125px !important;
+        top: 80% !important;
     }
 }
 
@@ -965,11 +983,26 @@ position: absolute;
     .fhgdfg h2 {
         font-size:35px;
     }
-
+    .RIMG11 .RIMGG1{
+        top: 70.5% !important;
+    }
+    .RIMG12 .RIMGG2{
+        top: 71% !important;
+    }
+    .RIMG13 .RIMGG3{
+        bottom: 13% !important;
+    }
+    .RIMG14 .RIMGG4{
+        top: 82% !important;
+    }
+    .n6{
+        top: 46vw;
+        right: 17vw;
+    }
 }
 
 
-@media only screen and (max-width:375px)
+@media only screen and (max-width:376px)
 {
     h2 
     {
@@ -984,6 +1017,25 @@ position: absolute;
      .btn126
     {
         padding:14px 10px;
+    }
+    .RIMG11 .RIMGG1{
+        top: 73.5% !important;
+    }
+    .RIMG12 .RIMGG2{
+        top: 74% !important;
+    }
+    .RIMG13 .RIMGG3{
+        bottom: 12% !important;
+    }
+    .RIMG14 .RIMGG4{
+        top: 83.5% !important;
+    }
+    .RIMG15 .RIMGG5{
+        bottom: 3% !important;
+    }
+    .RIMG16 .RIMGG6{
+        bottom: 2.5% !important;
+        right: 6.5% !important;
     }
 }
 

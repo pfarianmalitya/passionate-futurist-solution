@@ -252,26 +252,99 @@
 }
 
 
+
+
+/* Nisha css start */
+.lbscimg1{
+  position: absolute;
+  width: 10vw !important;
+  top: 38%;
+  left: 10%;
+  animation: fadeleft 4s ease forwards;
+}
+.lbscimg2{
+  position: absolute;
+  width: 10vw !important;
+  top: 38.6%;
+  right: 2.7%;
+  animation: faderight 4s ease forwards;
+}
+.lbscimg3{
+  position: absolute;
+  width: 10vw !important;
+  bottom: 20%;
+  left: 17%;
+  animation: fadeleft 4s ease forwards;
+}
+.lbscimg4{
+  position: absolute;
+  width: 10vw !important;
+  bottom: 25.5%;
+  right: 5%;
+  animation: faderight 4s ease forwards;
+}
+@keyframes fadeleft{
+  0%{
+    transform: translateX(-50px);
+    opacity: 0;
+  }
+  100%{
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes faderight{
+  0%{
+    transform: translateX(50px);
+    opacity: 0;
+  }
+  100%{
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+/* Nisha css end */
+
+/* Rohit css start */
+/* .dgndfgdfgdf {
+  width: 100%;
+  height: auto;
+  position: relative;
+} */
+
+.RIMGGG1 .RIMGG1{
+  position: absolute;
+  position: absolute;
+  width: 9.2rem;
+  right: 35px;
+  top: 20px;
+}
+.RIMGGG2 .RIMGG2{
+  position: absolute;
+  width: 10rem;
+  top: 102px;
+  right: 20px;
+}
+.RIMGGG3 .RIMGG3{
+  position: absolute;
+  width: 12rem;
+  bottom: 42px;
+  right: 0px;
+}
+.RIMGGG4 .RIMGG4{
+  position: absolute;
+  width: 7rem;
+  bottom: 112px;
+  right: 70px;
+}
+/* Rohit css end */
+
+
+
+
+
 @media only screen and (max-width:2551px){
-  .lbscimg1{
-    width: 26rem !important;
-    top: 30% !important;
-    right: 33% !important;
-  }
-  .lbscimg2{
-    width: 26rem !important;
-    top: 30% !important;
-    right: 1% !important;
-  }
-  .lbscimg3{
-    width: 26rem !important;
-    bottom: 29% !important;
-  }
-  .lbscimg4{
-    width: 27rem !important;
-    bottom: 27% !important;
-    right: 3% !important;
-  }
+
   .dgndfgdfgdf{
     height: auto;
   }
@@ -301,25 +374,6 @@
 }
 
 @media only screen and (max-width:1921px){
-  .lbscimg1{
-    width: 19.5rem !important;
-    top: 25.5% !important;
-    right: 33% !important;
-  }
-  .lbscimg2{
-    width: 19.5rem !important;
-    top: 26.5% !important;
-    right: 1% !important;
-  }
-  .lbscimg3{
-    width: 19.5rem !important;
-    bottom: 43.5% !important;
-  }
-  .lbscimg4{
-    width: 20rem !important;
-    bottom: 41% !important;
-    right: 3.2% !important;
-  }
   .dgndfgdfgdf{
     height: auto;
   }
@@ -346,25 +400,6 @@
 }
 
 @media only screen and (max-width:1601px){
-  .lbscimg1{
-    width: 16rem !important;
-    top: 24% !important;
-    right: 33% !important;
-  }
-  .lbscimg2{
-    width: 16rem !important;
-    top: 24% !important;
-    right: 1% !important;
-  }
-  .lbscimg3{
-    width: 16rem !important;
-    bottom: 50.5% !important;
-  }
-  .lbscimg4{
-    width: 16.5rem !important;
-    bottom: 49.5% !important;
-    right: 3.2% !important;
-  }
   .dgndfgdfgdf{
     height: auto;
   }
@@ -391,25 +426,22 @@
 }
 
 @media only screen and (max-width:1367px){
-  .lbscimg1{
-    width: 13rem !important;
-    top: 22.5% !important;
-    right: 33% !important;
+  .lbscimg1 {
+      top: 26% !important;
   }
-  .lbscimg2{
-    width: 13rem !important;
-    top: 23% !important;
-    right: 1.7% !important;
-  }
+  
   .lbscimg3{
-    width: 13rem !important;
-    bottom: 56.5% !important;
+    bottom: 30% !important;
   }
+
+  .lbscimg2{
+    top: 26% !important;
+  }
+
   .lbscimg4{
-    width: 13rem !important;
-    bottom: 55.2% !important;
-    right: 4% !important;
-  }
+    bottom: 30% !important;
+}
+
   .RIMGGG1 .RIMGG1{
     width: 10rem !important;
     right: 6% !important;
@@ -432,21 +464,12 @@
   }
 }
 
-
-
-
-
-
 @media only screen and (max-width:991px)
 {
     .dfgjhfgd
     {
         display:inline !important;
     }
-      .sdfghdfgdf 
-  {
-    margin-top: 9rem;
-  }
 
     #navbarSupportedContent{
         display: none;
@@ -454,7 +477,8 @@
     
     .sdfghdfgdf 
     {
-        padding:20px !important;
+      float: initial;
+        padding: 9rem 20px 20px 20px !important;
         text-align: center;
     }
     
@@ -724,9 +748,14 @@
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+
+    .lbscimg1,
+    .lbscimg2,
+    .lbscimg3,
+    .lbscimg4{
+      width: 20vw !important;
+    }
 }
-
-
 
 @media only screen and (max-width:600px)
 {
@@ -760,26 +789,6 @@
         padding:10px;
     }
 
-      .lbscimg1{
-    width: 32vw !important;
-    top: 48.5% !important;
-    left: 3% !important;
-  }
-  .lbscimg2{
-    width: 32vw !important;
-    top: 49% !important;
-    right: 2.7% !important;
-  }
-  .lbscimg3{
-    width: 32vw !important;
-    bottom: 31.8% !important;
-    left: 11% !important;
-  }
-  .lbscimg4{
-    width: 32vw !important;
-    bottom: 31.5% !important;
-    right: 7.5% !important;
-  }
   .RIMGGG1 .RIMGG1{
     width: 24vw !important;
     right: 22.5% !important;
@@ -802,8 +811,6 @@
   }
 }
 
-
-
 @media only screen and (max-width:581px)
 {
     .btn126{
@@ -811,43 +818,11 @@
     }
 }
 
-@media only screen and (max-width:541px){
-  .lbscimg1{
-    top: 50% !important;
-  }
-  .lbscimg2{
-    top: 50.5% !important;
-    right: 3.4% !important;
-  }
-  .lbscimg3{
-    bottom: 32.3% !important;
-    left: 10.5% !important;
-  }
-  .lbscimg4{
-    bottom: 32% !important;
-  }
-}
-
-
 @media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
-      .lbscimg1{
-    top: 50.5% !important;
-  }
-  .lbscimg2{
-    top: 51% !important;
-    right: 3% !important;
-  }
-  .lbscimg3{
-    bottom: 35.2% !important;
-    left: 10.3% !important;
-  }
-  .lbscimg4{
-    bottom: 35% !important;
-  }
   .RIMGGG1 .RIMGG1{
     right: 22% !important;
   }
@@ -864,7 +839,6 @@
   }
 }
 
-
 @media only screen and (max-width:393px)
 {
        .btn125
@@ -879,22 +853,7 @@
     .fhgdfg h2 {
         font-size:35px;
     }
-    .lbscimg1{
-    left: 2.5% !important;
-    }
-    .lbscimg2{
-      right: 2.7% !important;
-    }
-    .lbscimg3{
-      bottom: 36.6% !important;
-      left: 10.2% !important;
-    }
-    .lbscimg4{
-      bottom: 36.3% !important;
-    }
-
 }
-
 
 @media only screen and (max-width:375px)
 {
@@ -912,21 +871,6 @@
     {
         padding:14px 10px;
     }
-
-      .lbscimg1{
-        top: 54% !important;
-      }
-      .lbscimg2{
-        top: 54.5% !important;
-        right: 2.6% !important;
-      }
-      .lbscimg3{
-        bottom: 33.7% !important;
-        left: 10.3% !important;
-      }
-      .lbscimg4{
-        bottom: 33.3% !important;
-      }
       .RIMGGG1 .RIMGG1{
         right: 21.5% !important;
       }
@@ -939,22 +883,7 @@
       }
 }
 
-
 @media only screen and (max-width:321px){
-  .lbscimg1{
-    top: 60.5% !important;
-  }
-  .lbscimg2{
-    top: 60.9% !important;
-    right: 2.3% !important;
-  }
-  .lbscimg3{
-    bottom: 28.9% !important;
-    left: 10.4% !important;
-  }
-  .lbscimg4{
-    bottom: 28.7% !important;
-  }
   .RIMGGG1 .RIMGG1{
     right: 21.3% !important;
   }
@@ -966,92 +895,3 @@
     right: 15.5% !important;
   }
 }
-
-
-
-
-
-/* Nisha css start */
-.lbscimg1{
-  position: absolute;
-  width: 13rem !important;
-  top: 38%;
-  right: 32%;
-  animation: fadeleft 4s ease forwards;
-}
-.lbscimg2{
-  position: absolute;
-  width: 13rem !important;
-  top: 38.6%;
-  right: 2.7%;
-  animation: faderight 4s ease forwards;
-}
-.lbscimg3{
-  position: absolute;
-  width: 13rem !important;
-  bottom: 27.5%;
-  right: 28.7%;
-  animation: fadeleft 4s ease forwards;
-}
-.lbscimg4{
-  position: absolute;
-  width: 13rem !important;
-  bottom: 25.5%;
-  right: 5%;
-  animation: faderight 4s ease forwards;
-}
-@keyframes fadeleft{
-  0%{
-    transform: translateX(-50px);
-    opacity: 0;
-  }
-  100%{
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-@keyframes faderight{
-  0%{
-    transform: translateX(50px);
-    opacity: 0;
-  }
-  100%{
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-/* Nisha css end */
-
-/* Rohit css start */
-/* .dgndfgdfgdf {
-  width: 100%;
-  height: auto;
-  position: relative;
-} */
-
-.RIMGGG1 .RIMGG1{
-  position: absolute;
-  position: absolute;
-  width: 9.2rem;
-  right: 35px;
-  top: 20px;
-}
-.RIMGGG2 .RIMGG2{
-  position: absolute;
-  width: 10rem;
-  top: 102px;
-  right: 20px;
-}
-.RIMGGG3 .RIMGG3{
-  position: absolute;
-  width: 12rem;
-  bottom: 42px;
-  right: 0px;
-}
-.RIMGGG4 .RIMGG4{
-  position: absolute;
-  width: 7rem;
-  bottom: 112px;
-  right: 70px;
-}
-/* Rohit css end */

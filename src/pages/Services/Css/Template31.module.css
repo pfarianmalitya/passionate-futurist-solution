@@ -362,6 +362,175 @@
     font-weight: 600;
 }
 
+@media only screen and (max-width:2551px) {
+  .oo1 {
+    position: absolute;
+    height: 11vw !important;
+    width: 19vw !important;
+    top: 1.7vw !important;
+    right: 29vw !important;
+  }
+
+  .oo2 {
+    position: absolute;
+    height: 12vw !important;
+    width: 13vw !important;
+    top: 0vw !important;
+    right: 2vw !important;
+  }
+
+  .oo3 {
+    position: absolute;
+    height: 12vw !important;
+    width: 12vw !important;
+    top: 14vw !important;
+    right: -1vw !important;
+  }
+
+  .oo4 {
+    position: absolute;
+    height: 11vw !important;
+    width: 14vw !important;
+    top: 14.7vw !important;
+    right: 34vw !important;
+  }
+
+  .oo5 {
+    position: absolute;
+    height: 9vw !important;
+    width: 12vw !important;
+    top: 18.7vw !important;
+    right: 18vw !important;
+  }
+}
+
+@media only screen and (max-width:1921px) {
+  .oo1 {
+    position: absolute;
+    height: 11vw !important;
+    width: 19vw !important;
+    top: 1.7vw !important;
+    right: 29vw !important;
+  }
+
+  .oo2 {
+    position: absolute;
+    height: 12vw !important;
+    width: 13vw !important;
+    top: 0vw !important;
+    right: 2vw !important;
+  }
+
+  .oo3 {
+    position: absolute;
+    height: 12vw !important;
+    width: 12vw !important;
+    top: 14vw !important;
+    right: -1vw !important;
+  }
+
+  .oo4 {
+    position: absolute;
+    height: 11vw !important;
+    width: 14vw !important;
+    top: 14.7vw !important;
+    right: 34vw !important;
+  }
+
+  .oo5 {
+    position: absolute;
+    height: 9vw !important;
+    width: 12vw !important;
+    top: 18.7vw !important;
+    right: 18vw !important;
+  }
+}
+
+@media only screen and (max-width:1600px) {
+  .oo1 {
+    position: absolute;
+    height: 11vw !important;
+    width: 19vw !important;
+    top: 1.7vw !important;
+    right: 29vw !important;
+  }
+
+  .oo2 {
+    position: absolute;
+    height: 12vw !important;
+    width: 13vw !important;
+    top: 0vw !important;
+    right: 2vw !important;
+  }
+
+  .oo3 {
+    position: absolute;
+    height: 12vw !important;
+    width: 12vw !important;
+    top: 14vw !important;
+    right: -1vw !important;
+  }
+
+  .oo4 {
+    position: absolute;
+    height: 11vw !important;
+    width: 14vw !important;
+    top: 14.7vw !important;
+    right: 34vw !important;
+  }
+
+  .oo5 {
+    position: absolute;
+    height: 9vw !important;
+    width: 12vw !important;
+    top: 18.7vw !important;
+    right: 18vw !important;
+  }
+
+}
+
+@media only screen and (max-device-width:1366px) {
+  .oo1 {
+    position: absolute;
+    height: 11vw;
+    width: 19vw;
+    top: 1.7vw;
+    right: 29vw;
+    animation: tg 3s infinite;
+  }
+
+  .oo2 {
+    position: absolute;
+    height: 12vw !important;
+    width: 13vw !important;
+    top: 0vw !important;
+    right: 2vw !important;
+  }
+
+  .oo3 {
+    position: absolute;
+    height: 12vw !important;
+    width: 12vw !important;
+    top: 14vw !important;
+    right: -1vw !important;
+  }
+
+  .oo4 {
+    position: absolute;
+    height: 11vw !important;
+    width: 14vw !important;
+    top: 14.7vw !important;
+    right: 34vw !important;
+  }
+
+  .oo5 {
+    position: absolute;
+    height: 9vw !important;
+    width: 12vw !important;
+    top: 18.7vw !important;
+    right: 18vw !important;
+  }
+}
 
 @media only screen and (max-width:991px)
 {
@@ -770,20 +939,20 @@
         padding:10px;
     }
 
-     .oo1 {
+    .oo1 {
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 49vw !important;
-    left: 9vw !important;
+    top: 94vw !important;
+    left: 4vw !important;
   }
 
   .oo2 {
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 49vw !important;
-    left: 67vw !important;
+    top: 92vw !important;
+    left: 74vw !important;
   }
 
   .oo3 {
@@ -806,8 +975,8 @@
     position: absolute;
     width: 25vw !important;
     height: 13vw !important;
-    top: 85vw !important;
-    left: 219px !important;
+        top: 112vw !important;
+        left: 248px !important;
   }
 
 }
@@ -872,51 +1041,52 @@
 @media only screen and (max-width:431px) {
   .oo1 {
     position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 88vw !important;
-    left: 9vw !important;
+        width: 31vw !important;
+        height: 18vw !important;
+        top: 124vw !important;
+        left: 13vw !important;
   }
 
   .oo2 {
     position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 85vw !important;
-    left: 67vw !important;
+        width: 31vw !important;
+        height: 18vw !important;
+        top: 121vw !important;
+        left: 68vw !important;
   }
 
   .oo3 {
-    position: absolute;
-    width: 26vw !important;
-    height: 18vw !important;
-    top: 108vw !important;
-    left: 72vw !important;
+   position: absolute;
+        width: 27vw !important;
+        height: 18vw !important;
+        top: 144vw !important;
+        left: 78vw !important;
   }
 
   .oo4 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 106vw !important;
-    left: 42px !important;
+            position: absolute;
+        width: 31vw !important;
+        height: 18vw !important;
+        top: 148vw !important;
+        left: 42px !important;
   }
 
   .oo5 {
-    position: absolute;
-    width: 25vw !important;
-    height: 13vw !important;
-    top: 123vw !important;
-    left: 166px !important;
+            position: absolute;
+        width: 25vw !important;
+        height: 13vw !important;
+        top: 154vw !important;
+        left: 194px !important;
   }
 }
+
 
 @media only screen and (max-width:415px) {
   .oo1 {
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 85vw !important;
+    top: 141vw !important;
     left: 9vw !important;
   }
 
@@ -924,7 +1094,7 @@
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 82vw !important;
+    top: 141vw !important;
     left: 67vw !important;
   }
 
@@ -932,7 +1102,7 @@
     position: absolute;
     width: 26vw !important;
     height: 18vw !important;
-    top: 104vw !important;
+    top: 119vw !important;
     left: 72vw !important;
   }
 
@@ -940,7 +1110,7 @@
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 103vw !important;
+    top: 119vw !important;
     left: 42px !important;
   }
 
@@ -948,14 +1118,12 @@
     position: absolute;
     width: 25vw !important;
     height: 13vw !important;
-    top: 122vw !important;
+    top: 154vw !important;
     left: 159px !important;
   }
 }
 
-
-
-@media only screen and (max-width:393px)
+@media only screen and (max-width:394px)
 {
        .btn125
     {
@@ -974,7 +1142,7 @@
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 93vw !important;
+    top: 139vw !important;
     left: 9vw !important;
   }
 
@@ -982,35 +1150,36 @@
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 91vw !important;
-    left: 67vw !important;
+            top: 135vw !important;
+        left: 72vw !important;
   }
 
   .oo3 {
     position: absolute;
     width: 26vw !important;
     height: 18vw !important;
-    top: 113vw !important;
-    left: 72vw !important;
+    top: 158vw !important;
+        left: 76vw !important;
   }
 
   .oo4 {
     position: absolute;
     width: 31vw !important;
     height: 18vw !important;
-    top: 111vw !important;
-    left: 33px !important;
+    top: 157vw !important;
+        left: 58px !important;
   }
 
   .oo5 {
     position: absolute;
     width: 25vw !important;
     height: 13vw !important;
-    top: 133vw !important;
-    left: 145px !important;
+           top: 165vw !important;
+        left: 177px !important;
   }
 
 }
+
 
 
 @media only screen and (max-width:375px)
@@ -1030,89 +1199,88 @@
         padding:14px 10px;
     }
 
-     .oo1 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 110vw !important;
-    left: 9vw !important;
-  }
+    .oo1 {
+      position: absolute;
+      width: 31vw !important;
+      height: 18vw !important;
+      top: 174vw !important;
+      left: 9vw !important;
+    }
 
-  .oo2 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 107vw !important;
-    left: 67vw !important;
-  }
+    .oo2 {
+      position: absolute;
+      width: 31vw !important;
+      height: 18vw !important;
+      top: 174vw !important;
+      left: 67vw !important;
+    }
 
-  .oo3 {
-    position: absolute;
-    width: 26vw !important;
-    height: 18vw !important;
-    top: 128vw !important;
-    left: 72vw !important;
-  }
+    .oo3 {
+      position: absolute;
+      width: 26vw !important;
+      height: 18vw !important;
+      top: 152vw !important;
+      left: 72vw !important;
+    }
 
-  .oo4 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 127vw !important;
-    left: 33px !important;
-  }
+    .oo4 {
+      position: absolute;
+      width: 31vw !important;
+      height: 18vw !important;
+      top: 152vw !important;
+      left: 66px !important;
+    }
 
-  .oo5 {
-    position: absolute;
-    width: 25vw !important;
-    height: 13vw !important;
-    top: 149vw !important;
-    left: 145px !important;
-  }
+    .oo5 {
+      position: absolute;
+      width: 25vw !important;
+      height: 13vw !important;
+        top: 187vw !important;
+        left: 143px !important;
+    }
 }
 
 
 @media only screen and (max-width:360px) {
+ .oo1 {
+      position: absolute;
+      width: 31vw !important;
+      height: 18vw !important;
+      top: 194vw !important;
+      left: 9vw !important;
+    }
 
-  .oo1 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 130vw !important;
-    left: 9vw !important;
-  }
+    .oo2 {
+      position: absolute;
+      width: 31vw !important;
+      height: 18vw !important;
+      top: 194vw !important;
+      left: 67vw !important;
+    }
 
-  .oo2 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 129vw !important;
-    left: 67vw !important;
-  }
+    .oo3 {
+      position: absolute;
+      width: 26vw !important;
+      height: 18vw !important;
+      top: 172vw !important;
+      left: 72vw !important;
+    }
 
-  .oo3 {
-    position: absolute;
-    width: 26vw !important;
-    height: 18vw !important;
-    top: 153vw !important;
-    left: 72vw !important;
-  }
+    .oo4 {
+      position: absolute;
+      width: 31vw !important;
+      height: 18vw !important;
+      top: 172vw !important;
+      left: 66px !important;
+    }
 
-  .oo4 {
-    position: absolute;
-    width: 31vw !important;
-    height: 18vw !important;
-    top: 151vw !important;
-    left: 33px !important;
-  }
-
-  .oo5 {
-    position: absolute;
-    width: 25vw !important;
-    height: 13vw !important;
-    top: 166vw !important;
-    left: 124px !important;
-  }
+    .oo5 {
+      position: absolute;
+      width: 25vw !important;
+      height: 13vw !important;
+        top: 207vw !important;
+        left: 140px !important;
+    }
 }
 
 @media only screen and (max-width:321px) {
@@ -1230,8 +1398,8 @@ position: absolute;
 }
 .img2{
     position: absolute;
-    width: 12vw !important;
-    height: auto !important;
+    width: 12vw ;
+    height: auto ;
     top: 22%;
     left: 65.5%;
     animation:pulse 3s infinite;
@@ -1244,8 +1412,8 @@ position: absolute;
 }
 .img3{
 position: absolute;
-    width: 12vw !important;
-    height: auto !important;
+    width: 12vw ;
+    height: auto ;
     top: 9%;
     left: 44%;
     animation: bounce 3s infinite;
@@ -1257,8 +1425,8 @@ position: absolute;
 }
 .img4{
     position: absolute;
-    width: 12vw !important;
-    height: auto !important;
+    width: 12vw ;
+    height: auto ;
     top: 63%;
     left: 74%;
     animation: rotate 3s infinite;;
@@ -1270,8 +1438,8 @@ position: absolute;
 
 .img5{
     position: absolute;
-    width: 12vw !important;
-    height: auto !important;
+    width: 12vw ;
+    height: auto ;
     top: 21%;
     left: 22.5%;
     animation: heartbeat 3s infinite;
@@ -1292,8 +1460,8 @@ position: absolute;
 }
 .oo1{
     position: absolute;
-    height: 11vw !important;
-    width: 19vw !important;
+    height: 11vw ;
+    width: 19vw ;
     top: 1.7vw;
     right: 29vw;
     animation: tg 3s infinite;
@@ -1312,8 +1480,8 @@ position: absolute;
 
 .oo2{
     position: absolute;
-    height: 12vw !important;
-    width: 13vw !important;
+    height: 12vw ;
+    width: 13vw ;
     top: 0vw;
     right: 2vw;
     animation:5s infinite down;
@@ -1340,8 +1508,8 @@ position: absolute;
 }
 .oo4{
     position: absolute;
-    height: 11vw !important;
-    width: 14vw !important;
+    height: 11vw ;
+    width: 14vw;
     top: 14.7vw;
     right: 34vw;
     animation: wave 4s infinite;
@@ -1358,8 +1526,8 @@ position: absolute;
 }
 .oo5{
     position: absolute;
-    height: 9vw !important;
-    width: 12vw !important;
+    height: 9vw ;
+    width: 12vw ;
     top: 18.7vw;
     right: 18vw;
     animation:up 2s infinite linear;

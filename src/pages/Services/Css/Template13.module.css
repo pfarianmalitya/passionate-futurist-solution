@@ -356,9 +356,9 @@ p a{
 {
   .ro1 .roimg1{
       position: absolute;
-      top: 194px !important;
-      width: 20rem !important;
-      left: 386px !important;
+      top: 131px !important;
+      width: 23rem !important;
+      left: 485px !important;
       transform: rotateZ(-1deg);
       animation: zoom-in-down 1000ms ease-in-out ;
   }
@@ -400,68 +400,76 @@ p a{
 
   .ro2 .roimg2{
     position: absolute;
-    top: 546px !important;
-    width: 7rem !important;
+    top: 572px !important;
+    width: 9rem !important;
     left: 542px !important;
   }
 
   .ro3 .roimg3{
     position: absolute;
-    top: 342px !important;
-    width: 17rem !important;
-    left: 421px !important;
+    top: 271px !important;
+    width: 23rem !important;
+    left: 429px !important;
   }
   .ro4 .roimg4{
     position: absolute;
-    top: 440px !important;
-    width: 7rem !important;
-    left: 163px !important;
+    top: 413px !important;
+    width: 9rem !important;
+    left: 150px !important;
   }
   .ro5 .roimg5{
     position: absolute;
-    top: 213px !important;
-    width: 7rem !important;
-    left: 754px !important;
+    top: 104px !important;
+    width: 10rem !important;
+    left: 943px !important;
   }
   .ro6 .roimg6{
     position: absolute;
-    top: 500px !important;
+    top: 521px !important;
     width: 10% !important;
-    left: 860px !important;
+    left: 877px !important;
   }
   .ro7 .roimg7{
     position: absolute;
-    top: 251px !important;
-    width: 6.5rem !important;
-    left: 100px !important;
+    top: 100px !important;
+    width: 8.5rem !important;
+    left: 96px !important;
   }
 
   .ro8 .roimg8{
       position: absolute;
-        top: 320px !important;
-        width: 7.7rem !important;
-        left: 974px !important;
+        top: 305px !important;
+        width: 11.7rem !important;
+        left: 1008px !important;
   }
-
+  .SS1 .SSimg1{
+    width: 14.5rem !important;
+    left: 38px !important;
+    bottom: -21px !important;
+  }
+  .SS2 .SSimg2{
+    width: 14.5rem !important;
+    right: 42px !important;
+  }
     
  .RR1 .RRi1{
   position: absolute;
-  width: 7rem !important;
-  left: 95rem !important;
-  top: 473px !important;
+  width: 8.5rem !important;
+  left: 94rem !important;
+  top: 457px !important;
 
   }
   .RR2 .RRi2{
   position: absolute;
-   width: 6.5rem !important;
+   width: 7rem !important;
     right: 365px !important;
-    top: 476px !important;
+    top: 467px !important;
 
   }
   .RR3 .RRi3{
-      width: 7.5rem !important;
-    top: 165px !important;
-    left: 98rem !important;
+      width: 10rem !important;
+    top: 160px !important;
+    left: 97rem !important;
 
   }
 
@@ -490,9 +498,9 @@ p a{
 
   .ro1 .roimg1{
       position: absolute;
-      top: 135px !important;
-      width: 20rem !important;
-      left: 275px !important;
+      top: 82px !important;
+      width: 24rem !important;
+      left: 335px !important;
       transform: rotateZ(-1deg);
       animation: zoom-in-down 1000ms ease-in-out ;
   }
@@ -500,28 +508,28 @@ p a{
 
   .ro2 .roimg2{
     position: absolute;
-    top: 420px !important;
-    width: 6rem !important;
-    left: 414px !important;
+    top: 427px !important;
+    width: 8rem !important;
+    left: 404px !important;
   }
 
   .ro3 .roimg3{
     position: absolute;
-    top: 218px !important;
-    width: 17rem !important;
-    left: 303px !important;
+    top: 199px !important;
+    width: 18rem !important;
+    left: 304px !important;
   }
   .ro4 .roimg4{
     position: absolute;
-    top: 330px !important;
-    width: 6rem !important;
-    left: 126px !important;
+    top: 311px !important;
+    width: 7rem !important;
+    left: 114px !important;
   }
   .ro5 .roimg5{
     position: absolute;
-    top: 175px !important;
-    width: 6rem !important;
-    left: 660px !important;
+    top: 79px !important;
+    width: 8rem !important;
+    left: 709px !important;
   }
   .ro6 .roimg6{
     position: absolute;
@@ -531,18 +539,26 @@ p a{
   }
   .ro7 .roimg7{
     position: absolute;
-    top: 185px !important;
-    width: 5.5rem !important;
-    left: 100px !important;
+    top: 78px !important;
+    width: 6.5rem !important;
+    left: 69px !important;
   }
 
   .ro8 .roimg8{
       position: absolute;
-      top: 283px !important;
-      width: 5.7rem !important;
-      left: 748px !important;
+      top: 248px !important;
+      width: 7.7rem !important;
+      left: 790px !important;
   }
-
+  .SS1 .SSimg1{
+    width: 10rem !important;
+    left: 33px !important;
+    bottom: -10px !important;
+  }
+  .SS2 .SSimg2{
+    width: 10.5rem !important;
+    right: 42px !important;
+  }
     
  .RR1 .RRi1{
   position: absolute;
@@ -560,8 +576,8 @@ p a{
   }
   .RR3 .RRi3{
     width: 6.5rem !important;
-      top: 138px !important;
-      left: 73rem !important;
+      top: 135px !important;
+      left: 74rem !important;
 
   }
 
@@ -591,9 +607,9 @@ p a{
   
   .ro1 .roimg1{
       position: absolute;
-        top: 73px !important;
+        top: 57px !important;
         width: 18rem !important;
-        left: 252px !important;
+        left: 305px !important;
       transform: rotateZ(-1deg);
       animation: zoom-in-down 1000ms ease-in-out ;
   }
@@ -601,8 +617,8 @@ p a{
 
   .ro2 .roimg2{
     position: absolute;
-    top: 345px !important;
-    width: 5rem !important;
+    top: 355px !important;
+    width: 5.5rem !important;
     left: 342px !important;
   }
 
@@ -616,12 +632,12 @@ p a{
     position: absolute;
     top: 268px !important;
     width: 5rem !important;
-    left: 105px !important;
+    left: 99px !important;
   }
   .ro5 .roimg5{
     position: absolute;
-    top: 130px !important;
-    width: 5rem !important;
+    top: 66px !important;
+    width: 6rem !important;
     left: 599px !important;
   }
   .ro6 .roimg6{
@@ -632,37 +648,42 @@ p a{
   }
   .ro7 .roimg7{
     position: absolute;
-    top: 136px !important;
+    top: 67px !important;
     width: 5.5rem !important;
-    left: 40px !important;
+    left: 49px !important;
   }
 
   .ro8 .roimg8{
       position: absolute;
-       top: 229px !important;
-        width: 4.7rem !important;
-        left: 655px !important;
+       top: 218px !important;
+        width: 5.7rem !important;
+        left: 660px !important;
   }
-
+  .SS2 .SSimg2{
+    width: 8.5rem !important;
+  }
+  .SS1 .SSimg1{
+    width: 8.5rem !important;
+  }
     
  .RR1 .RRi1{
   position: absolute;
   width: 5rem !important;
-  left: 59rem !important;
-  top: 302px !important;
+  left: 59.5rem !important;
+  top: 299px !important;
 
   }
   .RR2 .RRi2{
   position: absolute;
   width: 4.5rem !important;
   right: 223px !important;
-  top: 307px !important;
+  top: 304px !important;
 
   }
   .RR3 .RRi3{
    width: 5.5rem !important;
     top: 120px !important;
-    left: 61rem !important;
+    left: 61.5rem !important;
 
   }
 
@@ -801,20 +822,98 @@ p a{
     left: 815px !important;
 
   }
+}
 
+@media only screen and (max-width:1270px){
+  .ro3 .roimg3{
+    width: 14rem !important;
+  }
+  .ro8 .roimg8{
+    top: 149px !important;
+    width: 5rem !important;
+    left: 478px !important;
+  }
+  .ro5 .roimg5{
+    top: 36px !important;
+    width: 6rem !important;
+    left: 424px !important;
+  }
+  .ro6 .roimg6{
+    top: 245px !important;
+    width: 9% !important;
+    left: 424px !important;
+  }
+  .ro2 .roimg2{
+    top: 261px !important;
+    width: 4rem !important;
+    left: 283px !important;
+  }
+  .ro7 .roimg7{
+    top: 40px !important;
+    width: 4.5rem !important;
+    left: 36px !important;
+  }
+  .ro4 .roimg4{
+    top: 179px !important;
+    width: 5rem !important;
+    left: 61px !important;
+  }
+  .RR1 .RRi1{
+    width: 5rem !important;
+    left: 690px !important;
+    top: 219px !important;
+  }
+  .RR2 .RRi2{
+    width: 4rem !important;
+    right: 155px !important;
+    top: 225px !important;
+  }
+  .RR3 .RRi3{
+    top: 89px !important;
+    left: 719px !important;
+  }
+}
 
+@media only screen and (max-width:1170px){
+  .ro3 .roimg3{
+    width: 14rem !important;
+  }
+  .ro8 .roimg8{
+    top: 142px !important;
+  }
+  .ro5 .roimg5{
+    left: 415px !important;
+  }
+  .ro6 .roimg6{
+    top: 240px !important;
+  }
+  .ro4 .roimg4{
+    top: 173px !important;
+  }
+  .RR1 .RRi1{
+    left: 681px !important;
+  }
+  .RR2 .RRi2{
+    right: 155px !important;
+  }
+  .RR3 .RRi3{
+    left: 708px !important;
+  }
 }
 
 
 @media only screen and (max-width:991px)
 {
+  .sdfghdfgdf{
+    float: initial;
+  }
     .dfgjhfgd
     {
         display:inline !important;
     }
       .sdfghdfgdf 
     {
-      margin-top: 9rem;
+      margin-top: 0;
     }
 
     #navbarSupportedContent{
@@ -857,7 +956,7 @@ p a{
     
     .sdfghdfgdf 
     {
-        padding:20px !important;
+        padding: 9rem 20px 20px 20px !important;
         text-align: center;
     }
     
@@ -1129,6 +1228,86 @@ p a{
     }
 }
 
+@media only screen and (max-width:991px){
+  .ro3 .roimg3 {
+    top: 27% !important;
+    width: 38vw !important;
+    left: 32% !important;
+  }
+  .ro7 .roimg7{
+    top: 12% !important;
+    width: 15vw !important;
+    left: 4% !important;
+  }
+  .ro1 .roimg1 {
+    top: 4% !important;
+    width: 40vw !important;
+    left: 35% !important;
+  }
+  .ro4 .roimg4{
+    top: 57% !important;
+    width: 11vw !important;
+    left: 12% !important;
+  }
+  .ro5 .roimg5 {
+    top: 13% !important;
+    width: 16vw !important;
+    left: 72% !important;
+  }
+  .ro6 .roimg6 {
+    top: 72% !important;
+    width: 10vw !important;
+    left: 71% !important;
+  }
+  .ro8 .roimg8 {
+    top: 44% !important;
+    width: 14vw !important;
+    left: 83% !important;
+  }
+  .ro2 .roimg2 {
+    top: 83% !important;
+    width: 13vw !important;
+    left: 47% !important;
+  }
+  .RR3 .RRi3 {
+    width: 22.5vw !important;
+    top: 40% !important;
+    left: 13% !important;
+  }
+  .RR2 .RRi2{
+    width: 16vw !important;
+    right: 5% !important;
+    top: 65% !important;
+  }
+  .RR1 .RRi1 {
+    width: 18vw !important;
+    left: 7.5% !important;
+    top: 63.5% !important;
+  }
+    .SS2 .SSimg2 {
+      width: 27vw !important;
+      right: 5% !important;
+      top: 4% !important;
+    }
+    .SS1 .SSimg1{
+      width: 28vw !important;
+      left: 4% !important;
+      bottom: -1.5% !important;
+    }
+}
+
+@media only screen and (max-width:801px){
+  .RR3 .RRi3 {
+    top: 46% !important;
+  }
+  .RR2 .RRi2{
+    top: 67.5% !important;
+  }
+  .RR1 .RRi1 {
+    top: 66.5% !important;
+  }
+}
+
 
 
 @media only screen and (max-width: 800px){
@@ -1167,6 +1346,20 @@ p a{
   }
 }
 
+@media only screen and (max-width:600px){
+  .RR3 .RRi3 {
+    top: 54% !important;
+  }
+  .RR2 .RRi2{
+    top: 70.5% !important;
+  }
+  .RR1 .RRi1 {
+    top: 70% !important;
+  }
+  .SS1 .SSimg1{
+    bottom: 0.5% !important;
+  }
+}
 
 
 @media only screen and (max-width:600px)
@@ -1211,12 +1404,57 @@ p a{
     }
 }
 
+@media only screen and (max-width:541px){
+  .RR3 .RRi3 {
+    top: 57.5% !important;
+  }
+  .RR2 .RRi2{
+    top: 72.5% !important;
+  }
+  .RR1 .RRi1 {
+    top: 72% !important;
+  }
+  .SS1 .SSimg1{
+    bottom: 3.5% !important;
+  }
+}
+
 
 @media only screen and (max-width:538px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+}
+
+@media only screen and (max-width:431px){
+  .RR3 .RRi3 {
+    top: 64% !important;
+  }
+  .RR2 .RRi2{
+    top: 75.7% !important;
+  }
+  .RR1 .RRi1 {
+    top: 75.5% !important;
+  }
+  .SS1 .SSimg1{
+    bottom: 4% !important;
+  }
+}
+
+@media only screen and (max-width:394px){
+  .RR3 .RRi3 {
+    top: 67.5% !important;
+  }
+  .RR2 .RRi2{
+    top: 77.7% !important;
+  }
+  .RR1 .RRi1 {
+    top: 77.5% !important;
+  }
+  .SS1 .SSimg1{
+    bottom: 4.5% !important;
+  }
 }
 
 
@@ -1270,7 +1508,20 @@ p a{
     }
 
 }
-
+@media only screen and (max-width:376px){
+  .RR3 .RRi3 {
+    top: 69.5% !important;
+  }
+  .RR2 .RRi2{
+    top: 79.2% !important;
+  }
+  .RR1 .RRi1 {
+    top: 79% !important;
+  }
+  .SS1 .SSimg1{
+    bottom: 5.5% !important;
+  }
+}
 
 @media only screen and (max-width:375px)
 {
@@ -1289,6 +1540,19 @@ p a{
         padding:14px 10px;
     }
 }
+
+@media only screen and (max-width:361px){
+  .RR3 .RRi3 {
+    top: 69.5% !important;
+  }
+  .RR2 .RRi2{
+    top: 79.2% !important;
+  }
+  .RR1 .RRi1 {
+    top: 79% !important;
+  }
+}
+
 
 @media only screen and (max-width: 325px) {
   :root{
@@ -1493,88 +1757,7 @@ p a{
 
 /* key researching  */
 
-@media only screen and (max-width:801px){
-  .ro3 .roimg3 {
-    position: absolute;
-    top: 396px !important;
-    width: 17rem !important;
-    left: 273px !important;
-}
-.ro7 .roimg7
 
- {
-    position: absolute;
-    top: 423px !important;
-    width: 15vw !important;
-    left: 29px !important;
-}
-.ro1 .roimg1 {
-    position: absolute;
-    top: 303px !important;
-    width: 40vw !important;
-    left: 262px !important;
-}
-
-.ro4 .roimg4
- {
-    top: 567px !important;
-        width: 11vw !important;
-        left: 175px !important;
-}
-.ro5 .roimg5 {
-    top: 420px !important;
-    width: 16vw !important;
-    left: 653px !important;
-}
-.ro6 .roimg6 {
-    top: 628px !important;
-    width: 10vw !important;
-    left: 706px !important;
-}
-.ro8 .roimg8 {
-    position: absolute;
-    top: 525px !important;
-    width: 14vw !important;
-    left: 701px !important;
-}
-.ro2 .roimg2 {
-    position: absolute;
-    top: 617px !important;
-    width: 13vw !important;
-    left: 362px !important;
-}
-.RRi3 {
-        position: absolute;
-        width: 22.5vw !important;
-        top: 527px !important;
-        left: 75px !important;
-    }
-
-.RR2 .RRi2{
-        position: absolute;
-        width: 16vw !important;
-        right: 37px !important;
-        top: 837px !important;
-    }
-        .RR1 .RRi1 {
-        position: absolute;
-        width: 18vw !important;
-        left: 48px !important;
-        top: 824px !important;
-    }
-    .SS2 .SSimg2 {
-        position: absolute;
-        width: 27vw !important;
-        right: 40px !important;
-        top: 29px !important;
-    }
-    .SS1 .SSimg1{
-        position: absolute;
-        width: 28vw !important;
-        left: 18px !important;
-        bottom: -12px !important;
-    }
-}
 @media only screen and (max-width:601px)
 {
      .btn125
@@ -1606,75 +1789,6 @@ p a{
     {
         padding:10px;
     }
-    .ro7 .roimg7 {
-        position: absolute;
-        top: 439px !important;
-        width: 15vw !important;
-        left: 29px !important;
-    }
-        .ro4 .roimg4 {
-        top: 546px !important;
-        width: 14vw !important;
-        left: 138px !important;
-    }
-        .ro3 .roimg3 {
-        position: absolute;
-        top: 396px !important;
-        width: 17rem !important;
-        left: 190px !important;
-    }
-    .ro5 .roimg5 {
-        top: 440px !important;
-        width: 17vw !important;
-        left: 497px !important;
-    }
-    .ro6 .roimg6 {
-        top: 606px !important;
-        width: 12vw !important;
-        left: 529px !important;
-    }
-    .ro2 .roimg2 {
-        position: absolute;
-        top: 617px !important;
-        width: 13vw !important;
-        left: 279px !important;
-    }
-        .ro1 .roimg1 {
-        position: absolute;
-        top: 337px !important;
-        width: 40vw !important;
-        left: 215px !important;
-    }
-        .RRi3{
-        position: absolute;
-        width: 23.5vw !important;
-        top: 611px !important;
-        left: 62px !important;
-    }
-    .RR1 .RRi1 {
-        position: absolute;
-        width: 20vw !important;
-        left: 31px !important;
-        top: 830px !important;
-    }
-    .RR2 .RRi2 {
-        position: absolute;
-        width: 19vw !important;
-        right: 12px !important;
-        top: 834px !important;
-    }
-        .SS1 .SSimg1 {
-        position: absolute;
-        width: 28vw !important;
-        left: 18px !important;
-        bottom: 35px !important;
-    }
-    .SS2 .SSimg2 {
-        position: absolute;
-        width: 28vw !important;
-        right: 40px !important;
-        top: 29px !important;
-    }
 }
 
 
@@ -1685,58 +1799,7 @@ p a{
     }
 }
 
-@media only screen and (max-width:541px){
-      .ro2 .roimg2 {
-        position: absolute;
-        top: 617px !important;
-        width: 13vw !important;
-        left: 235px !important;
-    }
-    .ro8 .roimg8 {
-        position: absolute;
-        top: 525px !important;
-        width: 14vw !important;
-        left: 475px !important;
-    }
-    .RRi3 {
-        position: absolute;
-        width: 26.5vw !important;
-        top: 653px !important;
-        left: 35px !important;
-    }
-    .ro1 .roimg1 {
-        top: 349px !important;
-        width: 40vw !important;
-        left: 170px !important;
-    }
-    .ro4 .roimg4{
-        top: 546px !important;
-        width: 15vw !important;
-        left: 122px !important;
-    }
-    .ro5 .roimg5{
-        top: 428px !important;
-        width: 17vw !important;
-        left: 448px !important;
-    }
-    .ro6 .roimg6 {
-        top: 604px !important;
-        width: 11vw !important;
-        left: 478px !important;
-    }
-    .ro2 .roimg2 {
-        position: absolute;
-        top: 617px !important;
-        width: 13vw !important;
-        left: 245px !important;
-    }
-    .ro8 .roimg8{
-        position: absolute;
-        top: 525px !important;
-        width: 14vw !important;
-        left: 525px !important;
-    }
-}
+
 @media only screen and (max-width:538px)
 {
     .sdcsdfeewwwww ul{
@@ -1777,125 +1840,6 @@ p a{
       --RRIMGGR8-top: 7px;
     }
 }
-@media only screen and (max-width:431px){
-      .ro3 .roimg3 {
-        top: 579px !important;
-        width: 37vw !important;
-        left: 165px !important;
-    }
-        .ro7 .roimg7 {
-        top: 578px !important;
-        width: 15vw !important;
-        left: 71px !important;
-    }
-        .ro1 .roimg1 {
-        top: 521px !important;
-        width: 40vw !important;
-        left: 151px !important;
-    }
-    .ro4 .roimg4 {
-        top: 664px !important;
-        width: 12vw !important;
-        left: 56px !important;
-    }
-    .ro5 .roimg5 {
-        top: 665px !important;
-        width: 16vw !important;
-        left: 305px !important;   
-    }
-        .ro6 .roimg6 {
-        top: 587px !important;
-        width: 10vw !important;
-        left: 370px !important;
-    }
-    .ro2 .roimg2 {
-        top: 623px !important;
-        width: 13vw !important;
-        left: 199px !important;
-    }
-    .RRi3 {
-        width: 26.5vw !important;
-        top: 736px !important;
-        left: 35px !important;
-    }
-    .SS2 .SSimg2 {
-        width: 28vw !important;
-        right: 24px !important;
-        top: 13px !important;
-    }
-    .RR1 .RRi1 {
-        width: 20vw !important;
-        left: 22px !important;
-        top: 1018px !important;
-    }
-    .RR2 .RRi2 {
-        width: 19vw !important;
-        right: 12px !important;
-        top: 1018px !important;
-    }
-
-}
-@media only screen and (max-width:415px){
-       .ro3 .roimg3 {
-        top: 579px !important;
-        width: 37vw !important;
-        left: 165px !important;
-    }
-        .ro7 .roimg7 {
-        top: 578px !important;
-        width: 15vw !important;
-        left: 71px !important;
-    }
-        .ro1 .roimg1 {
-        top: 521px !important;
-        width: 40vw !important;
-        left: 151px !important;
-    }
-    .ro4 .roimg4 {
-        top: 656px !important;
-        width: 12vw !important;
-        left: 56px !important;
-    }
-    .ro5 .roimg5 {
-        top: 665px !important;
-        width: 16vw !important;
-        left: 305px !important;   
-    }
-        .ro6 .roimg6 {
-        top: 587px !important;
-        width: 10vw !important;
-        left: 357px !important;
-    }
-    .ro2 .roimg2 {
-        top: 623px !important;
-        width: 13vw !important;
-        left: 199px !important;
-    }
-    .RRi3 {
-        width: 26.5vw !important;
-        top: 736px !important;
-        left: 35px !important;
-    }
-    .SS2 .SSimg2 {
-        width: 28vw !important;
-        right: 24px !important;
-        top: 13px !important;
-    }
-    .RR1 .RRi1 {
-        width: 20vw !important;
-        left: 22px !important;
-        top: 1076px !important;
-    }
-    .RR2 .RRi2 {
-        width: 19vw !important;
-        right: 12px !important;
-        top: 1076px !important;
-    }
-    .doksjoijfrerr 
-    {
-      margin-top: -40px !important;
-    }
-}
 
 @media only screen and (max-width:394px)
 {
@@ -1911,67 +1855,7 @@ p a{
     .fhgdfg h2 {
         font-size:35px;
     }
-        .ro5 .roimg5 {
-        top: 438px !important;
-        width: 15vw !important;
-        left: 324px !important;
-    }
-          .ro3 .roimg3 {
-       top: 579px !important;
-        width: 37vw !important;
-        left: 146px !important;
-    }
-        .ro7 .roimg7 {
-        top: 578px !important;
-        width: 15vw !important;
-        left: 71px !important;
-    }
-        .ro1 .roimg1 {
-        top: 521px !important;
-        width: 40vw !important;
-        left: 151px !important;
-    }
-    .ro4 .roimg4 {
-        top: 651px !important;
-        width: 12vw !important;
-        left: 47px !important;
-    }
-    .ro5 .roimg5 {
-        top: 657px !important;
-        width: 16vw !important;
-        left: 288px !important; 
-    }
-        .ro6 .roimg6 {
-        top: 581px !important;
-        width: 10vw !important;
-        left: 333px !important;
-    }
-    .ro2 .roimg2 {
-        top: 623px !important;
-        width: 13vw !important;
-        left: 199px !important;
-    }
-    .RRi3 {
-        width: 26.5vw !important;
-        top: 736px !important;
-        left: 35px !important;
-    }
-    .SS2 .SSimg2 {
-        width: 28vw !important;
-        right: 24px !important;
-        top: 13px !important;
-    }
-    .RR1 .RRi1 {
-        width: 20vw !important;
-        left: 22px !important;
-        top: 1087px !important;
-    }
-    .RR2 .RRi2 {
-        width: 19vw !important;
-        right: 12px !important;
-        top: 1084px !important;
-    }
-
+        
 }
 
 
@@ -1992,230 +1876,6 @@ p a{
         padding:14px 10px;
     
     }
-    .ro5 .roimg5 {
-        top: 438px !important;
-        width: 15vw !important;
-        left: 324px !important;
-    }
-    .ro3 .roimg3 {
-        top: 622px !important;
-        width: 37vw !important;
-        left: 135px !important;
-    }
-        .ro7 .roimg7 {
-        top: 614px !important;
-        width: 15vw !important;
-        left: 71px !important;
-    }
-        .ro1 .roimg1 {
-        top: 570px !important;
-        width: 40vw !important;
-        left: 151px !important;
-    }
-    .ro4 .roimg4 {
-        top: 684px !important;
-        width: 12vw !important;
-        left: 47px !important;
-    }
-    .ro5 .roimg5 {
-        top: 693px !important;
-        width: 16vw !important;
-        left: 262px !important;
-    }
-        .ro6 .roimg6 {
-        top: 618px !important;
-        width: 10vw !important;
-        left: 323px !important;
-    }
-    .ro2 .roimg2 {
-        top: 623px !important;
-        width: 13vw !important;
-        left: 199px !important;
-    }
-    .RRi3 {
-        width: 26.5vw !important;
-        top: 736px !important;
-        left: 35px !important;
-    }
-    .SS2 .SSimg2 {
-        width: 28vw !important;
-        right: 24px !important;
-        top: 13px !important;
-    }
-    .RR1 .RRi1 {
-        width: 20vw !important;
-        left: 22px !important;
-        top: 1100px !important;
-    }
-    .RR2 .RRi2 {
-        width: 19vw !important;
-        right: 12px !important;
-        top: 1100px !important;
-    }
-
-
-.SS1 .SSimg1 {
-        position: absolute;
-        width: 28vw !important;
-        left: 13px !important;
-        bottom: 35px !important;
-    }
+   
   }
-  @media only screen and (max-width:361px){
-       .ro5 .roimg5 {
-        top: 811px !important;
-        width: 16vw !important;
-        left: 250px !important;
-
-    }
-    .ro3 .roimg3 {
-        top: 740px !important;
-        width: 37vw !important;
-        left: 126px !important;
-    }
-        .ro7 .roimg7 {
-        top: 736px !important;
-        width: 15vw !important;
-        left: 71px !important;
-
-    }
-        .ro1 .roimg1 {
-        top: 688px !important;
-        width: 40vw !important;
-        left: 121px !important;
-    }
-    .ro4 .roimg4 {
-        top: 802px !important;
-        width: 12vw !important;
-        left: 47px !important;
-    }
-    .ro5 .roimg5 {
-        top: 810px !important;
-        width: 16vw !important;
-        left: 251px !important;
-    }
-        .ro6 .roimg6 {
-        top: 738px !important;
-        width: 10vw !important;
-        left: 309px !important;
-    }
-    .ro2 .roimg2 {
-        top: 715px !important;
-        width: 13vw !important;
-        left: 199px !important
-    }
-    .RRi3 {
-        width: 26.5vw !important;
-        top: 736px !important;
-        left: 35px !important;
-    }
-    .SS2 .SSimg2 {
-        width: 28vw !important;
-        right: 24px !important;
-        top: 13px !important;
-    }
-    .RR1 .RRi1 {
-        width: 20vw !important;
-        left: 22px !important;
-        top: 1120px !important;
-    }
-    .RR2 .RRi2 {
-        width: 19vw !important;
-        right: 12px !important;
-        top: 1120px !important;
-    }
-  }
-  @media only screen and (max-width:321px){
-    .ro5 .roimg5 {
-        top: 584px !important;
-        width: 15vw !important;
-        left: 267px !important;
-    }
-    .ro6 .roimg6{
-        top: 689px !important;
-        width: 10vw !important;
-        left: 283px !important;
-    }
-        .ro2 .roimg2 {
-        top: 689px !important;
-        width: 14vw !important;
-        left: 155px !important;
-    }
-        .RR1 .RRi1 {
-        width: 20vw !important;
-        left: 17px !important;
-        top: 1043px !important;
-    }
-    .RR2 .RRi2{
-        width: 19vw !important;
-        right: 7px !important;
-        top: 1042px !important;
-    }
-    .RRi3{
-        width: 28.5vw !important;
-        top: 930px !important;
-        left: 22px !important;
-    }
-}
-@media only screen and (max-width:281px){
-  .ro3 .roimg3 {
-        top: 609px !important;
-        width: 34vw !important;
-        left: 107px !important;
-    }
-    .ro4 .roimg4{
-        top: 672px !important;
-        width: 12vw !important;
-        left: 63px !important;
-    }
-    .ro7 .roimg7{
-        top: 606px !important;
-        width: 12vw !important;
-        left: 48px !important;
-    }
-    .ro5 .roimg5{
-        top: 600px !important;
-        width: 15vw !important;
-        left: 232px !important;
-    }
-    .ro2 .roimg2{
-        top: 689px !important;
-        width: 14vw !important;
-        left: 125px !important;
-    }
-    .ro1 .roimg1{
-        top: 573px !important;
-        width: 40vw !important;
-        left: 97px !important;
-    }
-        .ro6 .roimg6{
-        top: 696px !important;
-        width: 10vw !important;
-        left: 246px !important;
-    }
-    .RR1 .RRi1{
-        width: 20vw !important;
-        left: 16px !important;
-        top: 1171px !important;
-    }
-    .RR2 .RRi2{
-        width: 19vw !important;
-        right: 5px !important;
-        top: 1172px !important;
-    }
-    .RRi3 {
-        width: 28.5vw !important;
-        top: 1070px !important;
-        left: 22px !important;
-    }
-    .SS2 .SSimg2{
-        width: 28vw !important;
-        right: 15px !important;
-        top: 7px !important;
-    }
-    .SS1 .SSimg1{
-        width: 28vw !important;
-        left: 11px !important;
-        bottom: 35px !important;
-    }
-}
+  
