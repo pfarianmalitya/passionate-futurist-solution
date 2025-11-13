@@ -21,32 +21,32 @@ export const Footer = () => {
           <li>
             
             <a href="/services">
-              <i className="fa fa-handshake-o" /> Services
+              <i className="fa fa-handshake" /> Services
             </a>
           </li>
           <li>
             <a href="/our-portfolio">
-              <i className="fa fa-briefcase" /> Portfolio
+              <i className="fa fa-briefcase"/> Portfolio
             </a>
           </li>
           <li>
             <a href="/business-register">
-              <i className="fa fa-pencil-square-o" /> Business Register
+              <i className="fa fa-pencil-square"/> Business Register 
             </a>
           </li>
           <li>
             <a href="/careers">
-              <i className="fa fa-signal" /> Career
+              <i className="fa fa-signal"/> Career
             </a>
           </li>
           <li>
             <a href="/blogs">
-              <i className="fa fa-file-text-o" /> Blog
+             <i class="fa-solid fa-blog"></i> Blog
             </a>
           </li>
           <li>
             <a href="/contact-us">
-              <i className="fa fa-envelope-o" /> Contact
+              <i className="fa fa-envelope"/> Contact
             </a>
           </li>
         </ul>

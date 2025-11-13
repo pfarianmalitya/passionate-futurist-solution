@@ -8,6 +8,11 @@ export const Blog = () => {
   const [activeTab, setActiveTab] = useState("tab-1");
   const [loading, setLoading] = useState(true);
   const [BlogDetails, setBlogDetails] = useState({});
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const blogsPerPage = 6;
+
+
   useEffect(() => {
     const fetchBlogPageData = async () => {
       setLoading(true);
@@ -26,6 +31,31 @@ export const Blog = () => {
     fetchBlogPageData();
   }, []);
 
+
+  
+
+  const indexOfLastBlog = currentPage * blogsPerPage;
+  const indexOfFirstBlog = indexOfLastBlog - blogsPerPage;
+  const currentBlog = BlogDetails?.data?.slice(indexOfFirstBlog, indexOfLastBlog);
+  const totalPages = Math.ceil(BlogDetails?.data?.length / blogsPerPage);
+
+  let pages = [];
+
+  for (let i = 0; i < totalPages; i++) {
+    pages.push(i + 1);
+  }
+
+  
+  const handlePrev = () => {
+    (currentPage > 1) && setCurrentPage(currentPage - 1); 
+  };
+
+
+  const handleNext = () => {
+    (currentPage < totalPages) && setCurrentPage(currentPage + 1); 
+  };
+
+
   if (loading) {
     return <Loader />;
   }
@@ -42,7 +72,7 @@ export const Blog = () => {
                     <div className={styles.ghfgjhh5255}></div>
                     <div className="row">
                       {BlogDetails.data && BlogDetails.data.length > 0 ? (
-                        BlogDetails.data.map((allBlogs, index) => (
+                        currentBlog.map((allBlogs, index) => (
                           <div className="col-lg-6">
                             <div className={styles.dfvdfgdfgfd}>
                               <div className={styles.fhdfgdf}>
@@ -95,6 +125,18 @@ export const Blog = () => {
                         <p>No Blogs Available</p>
                       )}
                     </div>
+                    
+                    <div className={`${styles.pagination_blogs} d-flex align-items-center`}>
+                      <button onClick={handlePrev}>Prev</button>
+
+                      <div className={`${styles.pagination_ff} d-flex align-items-center`}>
+                        {pages.map(page => (
+                          <button onClick={() => setCurrentPage(page)}>{page}</button>
+                        ))}
+                      </div>
+
+                      <button onClick={handleNext}>Next</button>
+                    </div>                    
                   </div>
 
                   {/* <div className={styles.dfnbgjhdfgdfg}>

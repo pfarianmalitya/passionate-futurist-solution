@@ -33,6 +33,11 @@
     font-size: 13px
 }
 
+.footer-menu li i
+{
+  padding: 2px;
+}
+
 .footer .social-icons {
     margin-top: 16px
 }

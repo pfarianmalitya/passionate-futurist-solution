@@ -386,8 +386,8 @@
           .RIMMG1 .RIIMMG1 {
         position: absolute;
         width: 13.5rem !important;
-        left: 77px !important;
-        bottom: 154px !important;
+        left: 87px !important;
+        bottom: 96px !important;
         animation: ro-in-le 2s;
       }
 
@@ -395,7 +395,7 @@
         position: absolute;
         width: 13rem !important;
         right: 107px !important;
-        bottom: 164px !important;
+        bottom: 110px !important;
         animation: ro-in-ri 2s;
       }
 
@@ -412,7 +412,7 @@
         width: 13rem !important;
         right: 245px !important;
         /* bottom: 194px; */
-        bottom: 218px !important;
+        bottom: 161px !important;
         animation: pop-up 2s ease-in-out;
       }
 
@@ -1238,7 +1238,7 @@
         .RIMMG3 .RIIMMG3 {
             width: 24vw !important;
             left: 41vw !important;
-            top: 136vw !important;
+            top: 69% !important;
         }
 
     }
@@ -1250,26 +1250,38 @@
             right: 31vw;
             top: 31vw;
         }
-        .RIMMG3 .RIIMMG3 {
+       .RIMMG3 .RIIMMG3 {
             width: 24vw !important;
             left: 41vw !important;
-            top: 149vw !important;
+            top: 72% !important;
         }
+        .btn125
+        {
+          padding: 14px 8px !important;
+        }
+
+        .btn126
+        {
+          padding: 14px 8px !important;
+        }
+
+
+ 
 
     }
     @media only screen and (max-width:376px) {
-        .RIMMG3 .RIIMMG3 {
+       .RIMMG3 .RIIMMG3 {
             width: 24vw !important;
             left: 41vw !important;
-            top: 164vw !important;
+            top: 73.5% !important;
         }
 
     }
     @media only screen and (max-width:361px) {
-        .RIMMG3 .RIIMMG3 {
+       .RIMMG3 .RIIMMG3 {
             width: 24vw !important;
             left: 41vw !important;
-            top: 185vw !important;
+            top: 77.5% !important;
         }
 
     }

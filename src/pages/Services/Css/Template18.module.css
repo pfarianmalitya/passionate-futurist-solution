@@ -287,6 +287,14 @@
         left: 67px !important;
     }
 
+    .titlii07
+    {
+       width: 190px !important;
+        top: 55px !important;
+             
+
+    }
+
     :root{
         --RRIIMG1-width: 5vw;
         --RRIIMG1-top: 30%;
@@ -970,6 +978,10 @@
         --RRIIMG3-bottom: 15%;
         --RRIIMG3-left: 63%;
     }   
+
+    .sdfsdfsdf h2 {
+        padding-top: 50px;
+    }
 }
 
 

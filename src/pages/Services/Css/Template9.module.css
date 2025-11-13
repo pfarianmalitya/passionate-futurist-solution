@@ -1249,28 +1249,28 @@
 
 @media only screen and (max-width:431px) {
    .bookm .m1 {
-        width: 16vw !important;
-        top: 92vw !important;
-        left: 6vw !important;
+       width: 16vw !important;
+        top: 87% !important;
+        left: 16vw !important;
     }
 
     .bookm .m4 {
         width: 24vw !important;
-        top: 122vw !important;
-        left: 6vw !important;
+        top: 71% !important;
+        left: 1vw !important;
 
     }
 
     .bookm .m3 {
         width: 19vw !important;
-        top: 91vw !important;
-        left: 78vw !important;
+        top: 86% !important;
+        left: 65vw !important;
     }
 
    .bookm .m2 {
         width: 28vw !important;
-        top: 126vw !important;
-        left: 69vw !important;
+        top: 73% !important;
+        left: 72vw !important;
     }
 
    .bookm .sp02 {
@@ -1339,7 +1339,7 @@
 
 
 @media only screen and (max-width:415px) {
-   .bookm .m1 {
+   /* .bookm .m1 {
         width: 16vw !important;
         top: 91vw !important;
         left: 6vw !important;
@@ -1362,7 +1362,7 @@
         width: 28vw !important;
         top: 122vw !important;
         left: 69vw !important;
-    }
+    } */
 
     .sp02 {
         width: 21vw !important;
@@ -1396,18 +1396,18 @@
 
 @media only screen and (max-width:394px) {
     .btn125 {
-        padding: 14px 12px;
+        padding: 14px 8px;
     }
 
     .btn126 {
-        padding: 14px 12px;
+        padding: 14px 8px;
     }
 
     .fhgdfg h2 {
         font-size: 35px;
     }
 
-   .bookm .m1 {
+   /* .bookm .m1 {
         width: 16vw !important;
         top: 112vw !important;
         left: 6vw !important;
@@ -1430,7 +1430,7 @@
         width: 28vw !important;
         top: 145vw !important;
         left: 69vw !important;
-    }
+    } */
 
     .sp02 {
         width: 21vw !important;
@@ -1477,29 +1477,29 @@
         padding: 14px 10px;
     }
 
-   .bookm .m1 {
-        width: 16vw !important;
-        top: 129vw !important;
-        left: 6vw !important;
+    .bookm .m1 {
+       width: 16vw !important;
+        top: 89% !important;
+        left: 16vw !important;
     }
 
-   .bookm .m4 {
+    .bookm .m4 {
         width: 24vw !important;
-        top: 158vw !important;
-        left: 6vw !important;
+        top: 76% !important;
+        left: 1vw !important;
 
     }
 
-   .bookm .m3 {
+    .bookm .m3 {
         width: 19vw !important;
-        top: 127vw !important;
-        left: 78vw !important;
+        top: 88% !important;
+        left: 65vw !important;
     }
 
    .bookm .m2 {
         width: 28vw !important;
-        top: 161vw !important;
-        left: 69vw !important;
+        top: 78% !important;
+        left: 72vw !important;
     }
 
     .sp02 {
@@ -1534,28 +1534,29 @@
 
 @media only screen and (max-width:361px) {
 
-   .bookm .m1 {
-        width: 16vw !important;
-        top: 149vw !important;
-        left: 6vw !important;
+ .bookm .m1 {
+       width: 16vw !important;
+        top: 91% !important;
+        left: 16vw !important;
     }
 
-   .bookm .m4 {
+    .bookm .m4 {
         width: 24vw !important;
-        top: 180vw !important;
-        left: 6vw !important;
+        top: 78% !important;
+        left: 1vw !important;
+
     }
 
-   .bookm .m3 {
+    .bookm .m3 {
         width: 19vw !important;
-        top: 147vw !important;
-        left: 78vw !important;
+        top: 90% !important;
+        left: 65vw !important;
     }
 
    .bookm .m2 {
         width: 28vw !important;
-        top: 182vw !important;
-        left: 69vw !important;
+        top: 80% !important;
+        left: 72vw !important;
     }
 
     .sp02 {

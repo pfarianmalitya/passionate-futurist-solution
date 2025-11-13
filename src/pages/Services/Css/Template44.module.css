@@ -1030,6 +1030,63 @@
         height: auto !important;
     }
 
+    .img5 
+    {
+        width: 18vw !important;
+        bottom: 16% !important;
+
+    }
+       .img4
+    {
+        width: 17vw !important;
+        bottom: 6% !important;
+    }
+         .img3
+    {
+        width: 19vw !important;
+    }
+
+      .img2
+    {
+        width: 19vw !important;
+    }
+         .img1
+    {
+        width: 19vw !important;
+    }
+
+    .pic4
+    {
+        width: 7vw !important;
+    }
+    .pic5
+    {
+        width: 7vw !important;
+    }
+
+    .pic2
+    {
+        width: 7vw !important;
+    }
+
+    .pic1
+    {
+        width: 7vw !important;
+    }
+
+    .pic3
+    {
+        width: 7vw !important;
+    }
+
+      .pic6
+    {
+        width: 7vw !important;
+    }
+
+
+
+
 
     /*karina starttttt*/
 
@@ -5139,7 +5196,7 @@
 
     .img5 {
         position: absolute;
-        width: 18vw ;
+        width: 18vw  ;
         height: auto ;
         bottom: 29%;
         left: 10%;

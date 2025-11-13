@@ -33,6 +33,8 @@ export const Careers = () => {
       fetchCareerData();
     }, []);
 
+    console.log(CareerDetails);
+
   return (
     <div>
       {loading && <Loader />}     

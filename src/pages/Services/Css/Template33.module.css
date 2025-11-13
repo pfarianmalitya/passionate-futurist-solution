@@ -1071,10 +1071,10 @@
 
 .ol3{
   position: absolute;
-    height: 7vw !important;
-    width: 9vw !important;
+  height: 7vw !important;
+    width: 7vw !important;
     top: 3vw;
-    right: .8vw;
+    right: 1.8vw;
    animation: wave 4s ease-in-out infinite;
 }
 @keyframes wave {

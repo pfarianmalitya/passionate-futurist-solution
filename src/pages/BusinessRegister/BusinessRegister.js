@@ -1,4 +1,4 @@
-import React from 'react'
+import "./BusinessRegister.css";
 
 export const BusinessRegister = () => {
 
@@ -15,7 +15,16 @@ export const BusinessRegister = () => {
 <div className="about-us-banner">
   <section className="ban_sec">
 	<div className="ban_img">
-        <img src="./images/1686738283_business-registration-banner.webp" alt="Business banner" border="0" />
+        <img src="./images/bussinessregister.png" alt="Business banner" border="0" />
+        <div class="gfghgbj5">
+          <div class="container">
+             <h2>Bussiness Register</h2>
+             	<p>Passionate Futurist presents excellent offers! We can share our remarkable offers in the following way:</p>
+                <a href="/contact-us">Contact Us</a>
+
+          </div>
+         
+        </div>
         
         <div className="ban_text" style={{ width: '100%', left: 'initial'}}>
             <div className="col-lg-12 text-center">
@@ -23,9 +32,8 @@ export const BusinessRegister = () => {
 					<span style={{color: '#fff'}}>Passionate Futurist presents excellent offers</span>
 				</strong>
 				
-		        <p>Passionate Futurist presents excellent offers! We can share our remarkable offers in the following way:</p>
 
-			    <a href="/contact-us">Contact Us</a>
+			  
 			</div>
 		</div>
 	</div> 
@@ -54,66 +62,64 @@ export const BusinessRegister = () => {
             <div className="b-r-s-1-wrap pt-5">
               <div className="row">
                 <div className="col-lg-6 mb-4">
-                    <div data-aos="fade-right" data-aos-duration="1500">
-                        <div className="b-r-s-1-left">
-                      <section className="b-r-sec">
-                        <h4 className="b-r-sec-heading">Passionate Futurist presents excellent offers! We can share our remarkable offers in the following way:</h4>
+                  <div className="b-r-s-1-left">
+                    <section className="b-r-sec">
+                      <h4 className="b-r-sec-heading">Passionate Futurist presents excellent offers! We can share our remarkable offers in the following way:</h4>
 
-                        <div className="order-track">
-                          <div className="order-track-step">
-                            <div className="order-track-status">
-                              <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
-                              <span className="order-track-status-line"></span>
-                            </div>
-                            <div className="order-track-text">
-                              <p className="order-track-text-stat">Just simply get yourself registered</p>
-                              <span className="order-track-text-sub" style={mystyle}>You are cordially invited to grab the exciting offers! We are highly cooperative with our clients. We will fulfill all your business promotion, web design and web development work.</span>
-                            </div>
+                      <div className="order-track">
+                        <div className="order-track-step">
+                          <div className="order-track-status">
+                            <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
+                            <span className="order-track-status-line"></span>
                           </div>
-                          <div className="order-track-step">
-                            <div className="order-track-status">
-                              <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
-                              <span className="order-track-status-line"></span>
-                            </div>
-                            <div className="order-track-text">
-                              <p className="order-track-text-stat">On registration we will be providing you with a number of exciting offers</p>
-                              <span className="order-track-text-sub"  style={mystyle}>The regular updates too would be made available to you</span>
-                            </div>
-                          </div>
-                          <div className="order-track-step">
-                            <div className="order-track-status">
-                              <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
-                              <span className="order-track-status-line"></span>
-                            </div>
-                            <div className="order-track-text">
-                              <p className="order-track-text-stat">We are proud to have a team of web designers, web developers,</p>
-                              <span className="order-track-text-sub"  style={mystyle}>Passionate Futurist presents excellent offers Passionate Futurist presents excellent offers</span>
-                            </div>
-                          </div>
-                          <div className="order-track-step">
-                            <div className="order-track-status">
-                              <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
-                              <span className="order-track-status-line"></span>
-                            </div>
-                            <div className="order-track-text">
-                              <p className="order-track-text-stat">Passionate Futurist presents excellent offers</p>
-                              <span className="order-track-text-sub"  style={mystyle}>Passionate Futurist presents excellent offers Passionate Futurist presents excellent offers</span>
-                            </div>
-                          </div>
-                          <div className="order-track-step">
-                            <div className="order-track-status">
-                              <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
-                              <span className="order-track-status-line"></span>
-                            </div>
-                            <div className="order-track-text">
-                              <p className="order-track-text-stat">On registration we will be providing you with a number of exciting offers</p>
-                              <span className="order-track-text-sub"  style={mystyle}>We have exciting offers for festive season. Our company provides special discount for old clients.</span>
-                            </div>
+                          <div className="order-track-text">
+                            <p className="order-track-text-stat">Just simply get yourself registered</p>
+                            <span className="order-track-text-sub" style={mystyle}>You are cordially invited to grab the exciting offers! We are highly cooperative with our clients. We will fulfill all your business promotion, web design and web development work.</span>
                           </div>
                         </div>
-                      </section>
-                    </div>
-                    </div>
+                        <div className="order-track-step">
+                          <div className="order-track-status">
+                            <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
+                            <span className="order-track-status-line"></span>
+                          </div>
+                          <div className="order-track-text">
+                            <p className="order-track-text-stat">On registration we will be providing you with a number of exciting offers</p>
+                            <span className="order-track-text-sub"  style={mystyle}>The regular updates too would be made available to you</span>
+                          </div>
+                        </div>
+                        <div className="order-track-step">
+                          <div className="order-track-status">
+                            <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
+                            <span className="order-track-status-line"></span>
+                          </div>
+                          <div className="order-track-text">
+                            <p className="order-track-text-stat">We are proud to have a team of web designers, web developers,</p>
+                            <span className="order-track-text-sub"  style={mystyle}>Passionate Futurist presents excellent offers Passionate Futurist presents excellent offers</span>
+                          </div>
+                        </div>
+                        <div className="order-track-step">
+                          <div className="order-track-status">
+                            <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
+                            <span className="order-track-status-line"></span>
+                          </div>
+                          <div className="order-track-text">
+                            <p className="order-track-text-stat">Passionate Futurist presents excellent offers</p>
+                            <span className="order-track-text-sub"  style={mystyle}>Passionate Futurist presents excellent offers Passionate Futurist presents excellent offers</span>
+                          </div>
+                        </div>
+                        <div className="order-track-step">
+                          <div className="order-track-status">
+                            <span className="order-track-status-dot"><i className="fa-solid fa-forward-step"></i></span>
+                            <span className="order-track-status-line"></span>
+                          </div>
+                          <div className="order-track-text">
+                            <p className="order-track-text-stat">On registration we will be providing you with a number of exciting offers</p>
+                            <span className="order-track-text-sub"  style={mystyle}>We have exciting offers for festive season. Our company provides special discount for old clients.</span>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                  </div>
                 </div>
 
                 <div className="col-lg-6 mb-4">

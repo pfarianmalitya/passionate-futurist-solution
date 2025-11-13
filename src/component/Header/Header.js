@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, useLocation } from "react-router-dom";
 
 import ServiceDropdown  from "./ServiceDropdown";
 // import ServicesDropdown from "./ServiceDropdown";
@@ -9,6 +9,7 @@ import "./Header.css";
 export const Header = ({CategoryDetails}) => {
     const [isActive, setIsActive] = useState(false);
     const [resMenuActive, setResMenuActive] = useState(false);
+    const pathName = useLocation().pathname;
 
     useEffect(() => {
         const handleScroll = () => {
@@ -37,6 +38,10 @@ export const Header = ({CategoryDetails}) => {
         };
     }, [resMenuActive]);
 
+    useEffect(() => {
+        setResMenuActive(false);
+    }, [pathName]);
+
 
     return (
         <>
@@ -56,9 +61,8 @@ export const Header = ({CategoryDetails}) => {
                                     </a>{" "}
                                     &amp;
                                     <span> Email: </span>
-                                    <a href="mailto:admin@passionatefuturist.com">
-                                        {" "}
-                                        admin@passionatefuturist.com{" "}
+                                    <a href="mailto:admin@passionatefuturist.com?subject=Inquiry%20from%20Website&body=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20your%20services.">
+                                    admin@passionatefuturist.com
                                     </a>
                                 </p>
                             </div>

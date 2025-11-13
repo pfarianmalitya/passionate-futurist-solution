@@ -994,6 +994,29 @@
     }
 }
 
+@media only screen and (max-width:1366px) 
+{
+  .cdsimg4
+  {
+    top: 44% !important;
+  }
+
+    .cdsimg3
+  {
+    top: 46% !important;
+  }
+
+      .cdsimg1
+  {
+    top: 28% !important;
+  }
+
+      .cdsimg2
+  {
+    top: 28% !important;
+  }
+}
+
 
 @media only screen and (max-width:991px)
 {

@@ -201,4 +201,16 @@
   font-size: 0.9rem;
 }
 
+@media only screen and (max-width:991px) 
+{
+  .common-form-wrapper .c-f-1.cf-show
+  {
+    display: none !important;
+  }
+ 
+}
+
+
+
+
 /*common form end*/

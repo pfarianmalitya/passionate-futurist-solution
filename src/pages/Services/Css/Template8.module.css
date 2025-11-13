@@ -1071,7 +1071,8 @@
         width: 37vw !important;
         height: auto !important;
         margin-left: 289px !important;
-        margin-bottom: 35px !important;
+        margin-bottom: 12px !important;
+        /* margin-top: 32px !important; */
     }
     .blb_list{
         right: 13% !important;
@@ -1096,6 +1097,13 @@
         top: 21vw !important;
         left: 66vw !important;
     }
+
+    .dsfsdfsdf654df
+    {
+        margin-top: -16rem !important;
+    }
+
+
 
 
 }
@@ -1235,9 +1243,8 @@
 
 .dsfsdfsdf654df
 {
-    margin-top: -325px;
+    margin-top: -14rem !important;
 }
-
  .doenrjewrwer img:last-child {
         right: 3% !important;
         width: 12vw !important;

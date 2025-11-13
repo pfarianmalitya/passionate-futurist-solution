@@ -1,75 +1,104 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import { validateInputs } from "../../../utils/validation";
 import http from "../../../http";
-const ServiceEnquiryForm = ({ loading, slug}) => {
-      const [inputs, setInputs] = useState({
-        name: "",
-        phone_number: "",
-        email: "",
-        website_url: "",
-        message: "",
+
+const ServiceEnquiryForm = ({ loading, slug }) => {
+  const [inputs, setInputs] = useState({
+    name: "",
+    phone_number: "",
+    email: "",
+    website_url: "",
+    message: "",
+  });  
+
+  const [errors, setErrors] = useState({});
+
+  const [serviceFormDatas, setServiceFormDatas] = useState([]);
+  const [serviceFormImagesPath, setServiceFormImagesPath] = useState(null);
+
+  const submitForm = async (e) => {
+    e.preventDefault();
+    const validationErrors = validateInputs(inputs);
+
+    if (Object.keys(validationErrors).length > 0) {
+      setErrors(validationErrors);
+      return;
+    }
+
+    setErrors({}); // Clear errors
+    loading(true); // show loader
+
+    try {
+      const response = await http.post("/add-services-enquiry", inputs, {
+        params: { slug: slug }
       });
-    
-      const [errors, setErrors] = useState({});
-    
-      const submitForm = async (e) => {
-        e.preventDefault();
-        const validationErrors = validateInputs(inputs);
-    
-        if (Object.keys(validationErrors).length > 0) {
-          setErrors(validationErrors);
-          return;
-        }
-    
-        setErrors({}); // Clear errors
-        loading(true); // show loader
-    
-        try {
-          const response = await http.post("/add-services-enquiry", inputs, {
-            params: { slug: slug }
-          });
-    
-          if (response.data.success) {
-              toast(response.data.message, {
-                style: {
-                  background: "#2ecc71",
-                  color: "#fff",
-                },
-              });
-      
-              setInputs({
-                name: "",
-                phone_number: "",
-                email: "",
-                website_url: "",
-                message: "",
-              });
-          }else{
-            toast.error(response.data.message, {
-              style: {
-                background: "#e74c3c", // red for error
-                color: "#fff",
-              },
-            });
-            setInputs({
-              name: "",
-              phone_number: "",
-              email: "",
-              website_url: "",
-              message: "",
-            });
+
+      if (response.data.success) {
+        toast(response.data.message, {
+          style: {
+            background: "#2ecc71",
+            color: "#fff",
+          },
+        });
+
+        setInputs({
+          name: "",
+          phone_number: "",
+          email: "",
+          website_url: "",
+          message: "",
+        });
+      } else {
+        toast.error(response.data.message, {
+          style: {
+            background: "#e74c3c", // red for error
+            color: "#fff",
+          },
+        });
+        setInputs({
+          name: "",
+          phone_number: "",
+          email: "",
+          website_url: "",
+          message: "",
+        });
+      }
+    } catch (error) {
+      if (error.response?.data?.message) {
+        toast.error(error.response.data.message);
+      } else {
+        toast.error("Something went wrong.");
+      }
+    } finally {
+      loading(false);
+    }
+  };
+
+  const pathName = useLocation().pathname.replace("/", "");
+
+  useEffect(() => {
+      const fetchFormSectionService = async () => {
+          try {           
+              const getresponse = await http.get(`${process.env.REACT_APP_SERVICEFORMAPI}`);
+
+              const serviceFormAllDatas = getresponse.data?.form_daynamic || [];
+              const serviceFormImagePath = getresponse.data.image_path || [];
+
+              const serviceFormData = serviceFormAllDatas.find(item => item?.slug === pathName);
+
+              setServiceFormDatas(serviceFormData || []);
+              setServiceFormImagesPath(serviceFormImagePath || []);
+          } catch (error) {
+              console.error("Error fetching data:", error);
           }
-        } catch (error) {
-          if (error.response?.data?.message) {
-            toast.error(error.response.data.message);
-          } else {
-            toast.error("Something went wrong.");
-          }
-        } finally {
-          loading(false);
-        }
-      }; 
+      };
+
+      fetchFormSectionService();
+  }, [pathName]);
+
+  
   return (
     <div>
       <div className="sdnfjhsdfsdfsdf">
@@ -78,19 +107,18 @@ const ServiceEnquiryForm = ({ loading, slug}) => {
             <div className="row">
               <div className="col-lg-6">
                 <div className="dfhbfgd">
-                  <img src="./images/form-left.png" alt="" />
+                  <img src={serviceFormDatas.photo ? `${serviceFormImagesPath}/${serviceFormDatas.photo}` : "./images/form-left.png"} alt="" />
                 </div>
-              </div> 
+              </div>
 
               <div className="col-lg-6">
                 <div className="fhbdfdfgd">
                   <div className="dfbnhdfdf">
-                    <h2>Get Free SEO Analysis?</h2>
-                    <p>
-                      Ne summo dictas pertinacia nam. Illum cetero vocent ei
-                      vim,
-                    </p>
+                    <h2>{serviceFormDatas.title ? serviceFormDatas.title : "Get Free SEO Analysis?"}</h2>
+
+                    <p>{serviceFormDatas.description ? serviceFormDatas.description : "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim,"}</p>
                   </div>
+                  
                   <div className="row">
                     <div className="col-lg-6">
                       <div className="fgjhdfg">
@@ -100,9 +128,9 @@ const ServiceEnquiryForm = ({ loading, slug}) => {
                           className="form-control"
                           placeholder="Your Name"
                           value={inputs.name}
-                            onChange={(e) =>
-                              setInputs({ ...inputs, name: e.target.value })
-                            }
+                          onChange={(e) =>
+                            setInputs({ ...inputs, name: e.target.value })
+                          }
                         />
                         <span style={{ color: "red" }}>{errors.name}</span>
                       </div>
@@ -139,7 +167,7 @@ const ServiceEnquiryForm = ({ loading, slug}) => {
                             })
                           }
                         />
-                        <span style={{ color: "red" }}> 
+                        <span style={{ color: "red" }}>
                           {errors.phone_number}
                         </span>
                       </div>
@@ -180,9 +208,9 @@ const ServiceEnquiryForm = ({ loading, slug}) => {
                             setInputs({ ...inputs, message: e.target.value })
                           }
                         ></textarea>
-                          <span style={{ color: "red" }}>
-                            {errors.message}
-                          </span>
+                        <span style={{ color: "red" }}>
+                          {errors.message}
+                        </span>
                       </div>
                     </div>
 

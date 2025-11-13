@@ -40,6 +40,7 @@
 .fdfdf2 p {
   color: gray;
   font-size: 16px !important;
+  font-weight: 600;
 }
 
 .dfbdfd55f p {
@@ -359,6 +360,17 @@
   height: 30px;
   margin-left: 5px;
 }
+
+.fdfdf
+{
+  color: gray;
+}
+
+.fdfdf i 
+{
+  padding-right: 5px;
+}
+
 
 /*end blog pages  css*/
 /*end blog pages  css*/

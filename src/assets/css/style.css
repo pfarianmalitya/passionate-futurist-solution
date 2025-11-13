@@ -119,6 +119,24 @@ button {
 
 }
 
+@media only screen and (max-width:430px)
+{
+      .btn125
+    {
+        padding:14px 8px !important;
+         /* display: inline-block; */
+    }
+    
+     .btn126
+    {
+        padding:14px 8px !important;
+        /* margin-top: 20px; */
+    }
+
+}
+
+
+
 
 .btn125:hover {
     background-color: var(--button-main-blue-color);

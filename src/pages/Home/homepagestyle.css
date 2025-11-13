@@ -96,7 +96,8 @@ button {
     border-color: var(--border-color-light-grey) !important;
     color: #000 !important;
     font-weight: 600 !important;
-    position: relative
+    position: relative;
+    margin-left:10px;
 }
 
 .btn-custm-bttn-2:hover {

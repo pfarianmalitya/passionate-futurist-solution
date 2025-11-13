@@ -262,7 +262,7 @@ export const Template1 =({serviceResponse, slug}) =>{
                             __html: serviceResponse.data?.fifth_section_description && (serviceResponse.data.fifth_section_description),
                         }}
                     />
-                    <button>Get started</button>
+                   <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
                 </div>
               </div>

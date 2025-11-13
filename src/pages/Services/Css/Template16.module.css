@@ -878,6 +878,15 @@
     .ijdnm_eoijrer:global(.p-5){
         padding: 1rem !important;
     }
+
+    .insta3 
+    {
+      display: none;
+    }
+        .insta1
+    {
+      display: none;
+    }
 }
 
 @media only screen and (max-width:801px) {
