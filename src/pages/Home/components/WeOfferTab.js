@@ -92,7 +92,7 @@ export const WeOfferTab = ({ tabDetails }) => {
                       <button className="btn btn-custm-bttn-2">
                         <i className="fa-solid me-1 fa-phone-volume" />
                         <span>
-                          <a href="tel:+918420202891">Call Back</a>
+                          <a href="tel:+918420202891">Call Us</a>
                         </span>
                       </button>
                     </div>

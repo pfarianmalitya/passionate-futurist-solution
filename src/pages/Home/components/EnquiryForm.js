@@ -122,7 +122,7 @@ export const EnquiryForm = ({ loading, serviceCategory }) => {
           <div className="dojmlkjrer">
             <div className="bnnr-frm-start d-flex align-items-center p-3">
               <img src="./images/pf logo.png" className="me-3" alt="" />
-              <h5>PF AI Form</h5>
+              <h5>Start Growing Your Business</h5>
             </div>
             <div className="bnnr-frm-main p-3">
               <div className="form-group">
@@ -167,7 +167,7 @@ export const EnquiryForm = ({ loading, serviceCategory }) => {
 
                   <p style={{ color: "red" }}>{errors.phone_number}</p>
                 </div>
-                <div className="dfdrserfrstretr tposition-relative mb-3">
+                {/* <div className="dfdrserfrstretr tposition-relative mb-3">
                   <label className="form-label position-relative mb-3">
                     <i className="bi me-1 bi-backpack" /> Enquiry For
                   </label>
@@ -187,7 +187,7 @@ export const EnquiryForm = ({ loading, serviceCategory }) => {
                     ))}
                   </select>
                   <p style={{ color: "red" }}>{errors.service_category}</p>
-                </div>
+                </div> */}
                 <div className="position-relative my-4">
                   <label className="form-label">
                     <i className="bi me-1 bi-chat-left-text" /> Message

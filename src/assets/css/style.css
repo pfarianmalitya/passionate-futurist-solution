@@ -54,7 +54,7 @@ button {
 
 
 .btn125 {
-  padding: 14px 40px;
+  padding: 14px 30px;
   background-color: var(--button-main-blue-color);
   color: white;
   font-size: 17px;
@@ -64,7 +64,7 @@ button {
 }
 
 .btn126 {
-  padding: 14px 40px;
+  padding: 14px 30px;
   background-color: transparent;
   color: var(--button-main-blue-color);
   font-size: 17px;

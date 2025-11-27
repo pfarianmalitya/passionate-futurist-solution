@@ -37,7 +37,8 @@ export const Aboutus = () => {
 
       <main>
         <div className={styles.gdfbdfdfgdf554}>
-          <div className={styles.dfgjhfgd}>
+          <div className="container">
+                      <div className={styles.dfgjhfgd}>
             <div className={`${styles.sdfghdfgdf} col-lg-6`}>
               <h1 className="mt-0 mb-0">{AboutUsDetails.data?.banner_title && (AboutUsDetails.data.banner_title)}</h1>
 
@@ -66,6 +67,8 @@ export const Aboutus = () => {
               )}
             </div>
           </div>
+          </div>
+
         </div>
 
         <div className={styles.dfbjhdfdf}>
