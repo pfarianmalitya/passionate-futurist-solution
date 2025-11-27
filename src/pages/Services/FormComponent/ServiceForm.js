@@ -123,8 +123,8 @@ const ServiceForm = ({ loading, slug }) => {
                         <div class="ggdfgdfg">
                           <h6>Our Location</h6>
                           <p>
-                            Stesalit Tower, E-2-3, GP Block, Sector V,
-                            Bidhannagar, Kolkata, West Bengal 700091
+                           DLF Galleria, Room No: DK1405, Action Area 1, Newtown, Kolkata 700156, West Bengal
+
                           </p>
                         </div>
                       </div>
@@ -142,8 +142,8 @@ const ServiceForm = ({ loading, slug }) => {
                         <div class="ggdfgdfg">
                           <h6>Phone Number</h6>
                           <p>
-                            Stesalit Tower, E-2-3, GP Block, Sector V,
-                            Bidhannagar, Kolkata, West Bengal 700091
+                            +91 8420202891
+
                           </p>
                         </div>
                       </div>
@@ -161,8 +161,8 @@ const ServiceForm = ({ loading, slug }) => {
                         <div class="ggdfgdfg">
                           <h6>Email Address</h6>
                           <p>
-                            Stesalit Tower, E-2-3, GP Block, Sector V,
-                            Bidhannagar, Kolkata, West Bengal 700091
+                           admin@passionatefuturist.com
+
                           </p>
                         </div>
                       </div>

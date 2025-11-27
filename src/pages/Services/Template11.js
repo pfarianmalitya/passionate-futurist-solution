@@ -40,7 +40,11 @@ export const Template11 = ({ serviceResponse, slug }) => {
                 <Link to="/contact-us" className={styles.btn125}>
                   Contact Us
                 </Link>
-                <button className={styles.btn126}>Get In Touch With Us</button>
+                <button className="btn126">
+                    <a href="tel:8420202891" style={{ color: "inherit", textDecoration: "none" }}>
+                    Get In Touch With Us
+                    </a>
+                 </button>
               </div>
             </div>
 

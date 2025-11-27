@@ -40,7 +40,11 @@ export const Template10 = ({ serviceResponse, slug }) => {
               <Link to="/contact-us" className={styles.btn125}>
                 Contact Us
               </Link>
-              <button className={styles.btn126}>Get In Touch With Us</button>
+              <button className="btn126">
+                      <a href="tel:8420202891" style={{ color: "inherit", textDecoration: "none" }}>
+                      Get In Touch With Us
+                      </a>
+              </button>
             </div>
           </div>
 
@@ -211,7 +215,7 @@ export const Template10 = ({ serviceResponse, slug }) => {
                       }}
                     />
 
-                    <button>Get started</button>
+                     <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
 
                   <div className={`${styles.dgndfgdfgdf} mt-3 position-relative`}>
@@ -254,7 +258,7 @@ export const Template10 = ({ serviceResponse, slug }) => {
                           serviceResponse.data.fifth_section_description_two,
                       }}
                     />
-                    <button>Get started</button>
+                    <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
 
                   <div className={`${styles.dgndfgdfgdf} mt-3 position-relative overflow-hidden`}>
@@ -306,7 +310,7 @@ export const Template10 = ({ serviceResponse, slug }) => {
                               serviceResponse.data.sixth_section_description,
                           }}
                         />
-                        <button>Get started</button>
+                        <Link to="/business-register"><button>  Get started</button></Link> 
                       </div>
                     </div>
 
@@ -354,7 +358,7 @@ export const Template10 = ({ serviceResponse, slug }) => {
                           serviceResponse.data.seventh_section_description_one,
                       }}
                     />
-                    <button>Get started</button>
+                    <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
 
                   <div className={`${styles.dgndfgdfgdf} mt-3 position-relative overflow-hidden`}>
@@ -392,7 +396,7 @@ export const Template10 = ({ serviceResponse, slug }) => {
                           serviceResponse.data.seventh_section_description_two,
                       }}
                     />
-                    <button>Get started</button>
+                     <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
 
                   <div className={`${styles.dgndfgdfgdf} mt-3 position-relative overflow-hidden`}>

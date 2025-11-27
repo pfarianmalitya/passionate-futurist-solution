@@ -37,7 +37,11 @@ export const Template2 = ({ serviceResponse, slug }) => {
                 <Link to="/contact-us" className="btn125">
                   Contact Us
                 </Link>
-              <button className="btn126">Get In Touch With Us</button>
+              <button className="btn126">
+                <a href="tel:8420202891" style={{ color: "inherit", textDecoration: "none" }}>
+                  Get In Touch With Us
+                </a>
+              </button>
             </div>
           </div>
 
@@ -114,7 +118,7 @@ export const Template2 = ({ serviceResponse, slug }) => {
                         }}
                     />
 
-                    <button>Get started</button>
+                    <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
                 </div>
 
@@ -216,7 +220,7 @@ export const Template2 = ({ serviceResponse, slug }) => {
                         }}
                     />
 
-                    <button>Get started</button>
+                     <Link to="/business-register"><button>  Get started</button></Link> 
                   </div>
                 </div>
               </div>

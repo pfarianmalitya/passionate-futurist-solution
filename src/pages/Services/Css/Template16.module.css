@@ -534,6 +534,37 @@
     animation: insta-tran 2s infinite linear;
 
   }
+
+   .insta1 {
+    left: 21%;
+    top: 9%;
+    width: 6.5rem !important;
+    animation: insta-img 2s infinite linear;
+  }
+
+  .insta3 {
+    bottom: 19%;
+    position: absolute;
+    right: 9.8%;
+    width: 8rem !important;
+    animation: insta-tran 2s infinite linear;
+
+  }
+  .baaimg1{
+  width: 9vw !important;
+  bottom: 7% !important;
+  left: 4% !important;
+  }
+  .baaimg2{
+    width: 10vw !important;
+    top: 0.5% !important;
+    left: 30% !important;
+  }
+  .baaimg3{
+    width: 12vw !important;
+    top: 15% !important;
+    right: 4.5% !important;
+  }
 }
 @media only screen and (max-width:1921) {
   .insta1 {
@@ -550,6 +581,37 @@
     width: 8rem !important;
     animation: insta-tran 2s infinite linear;
 
+  }
+
+  .insta1 {
+    left: 21%;
+    top: 9%;
+    width: 6.5rem !important;
+    animation: insta-img 2s infinite linear;
+  }
+
+  .insta3 {
+    bottom: 19%;
+    position: absolute;
+    right: 9.8%;
+    width: 8rem !important;
+    animation: insta-tran 2s infinite linear;
+
+  }
+  .baaimg1{
+  width: 9vw !important;
+  bottom: 7% !important;
+  left: 4% !important;
+  }
+  .baaimg2{
+    width: 10vw !important;
+    top: 0.5% !important;
+    left: 30% !important;
+  }
+  .baaimg3{
+    width: 12vw !important;
+    top: 15% !important;
+    right: 4.5% !important;
   }
 }
 @media only screen and (max-width:1600) {
@@ -568,7 +630,38 @@
     animation: insta-tran 2s infinite linear;
 
   }
-}
+
+  .insta1 {
+    left: 21%;
+    top: 9%;
+    width: 6.5rem !important;
+    animation: insta-img 2s infinite linear;
+  }
+
+  .insta3 {
+    bottom: 19%;
+    position: absolute;
+    right: 9.8%;
+    width: 8rem !important;
+    animation: insta-tran 2s infinite linear;
+
+  }
+  .baaimg1{
+  width: 9vw !important;
+  bottom: 7% !important;
+  left: 4% !important;
+  }
+  .baaimg2{
+    width: 10vw !important;
+    top: 0.5% !important;
+    left: 30% !important;
+  }
+  .baaimg3{
+    width: 12vw !important;
+    top: 15% !important;
+    right: 4.5% !important;
+  }
+  }
 
 
 @media only screen and (max-width:1366) {
@@ -586,6 +679,37 @@
     width: 8rem !important;
     animation: insta-tran 2s infinite linear;
 
+  }
+
+    .insta1 {
+    left: 21%;
+    top: 9%;
+    width: 6.5rem !important;
+    animation: insta-img 2s infinite linear;
+  }
+
+  .insta3 {
+    bottom: 19%;
+    position: absolute;
+    right: 9.8%;
+    width: 8rem !important;
+    animation: insta-tran 2s infinite linear;
+
+  }
+  .baaimg1{
+  width: 9vw !important;
+  bottom: 7% !important;
+  left: 4% !important;
+  }
+  .baaimg2{
+    width: 10vw !important;
+    top: 0.5% !important;
+    left: 30% !important;
+  }
+  .baaimg3{
+    width: 12vw !important;
+    top: 15% !important;
+    right: 4.5% !important;
   }
 }
 
@@ -887,6 +1011,24 @@
     {
       display: none;
     }
+
+       .baaimg2 {
+    width: 19vw !important;
+    top: 47.5% !important;
+    left: 33% !important;
+        
+    }
+    .baaimg3 {
+        width: 20vw !important;
+        top: 53% !important;
+        right: 4.5% !important;
+    }
+    .baaimg1{
+        position: absolute;
+        width: 17vw !important;
+        bottom: 5% !important;
+        left: 7% !important;
+    }
 }
 
 @media only screen and (max-width:801px) {
@@ -908,6 +1050,30 @@
   {
     margin-right:10px;
   }
+
+   .insta1 {
+    position: absolute;
+    width: 7vw !important;
+    top: 50vw;
+    left: 71vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 13vw !important;
+    top: 69vw;
+    left: 81vw;
+  }
+
+  .btn125
+  {
+    margin-right:10px;
+  }
+      .baaimg2 {
+        width: 19vw !important;
+        top: 51.5% !important;
+        left: 33% !important;
+    }
 }
 
 
@@ -956,6 +1122,59 @@
       top: 91vw;
       left: 81vw;
     }
+
+         .btn125
+    {
+        padding:14px 20px;
+    }
+    
+     .btn126
+    {
+        padding:14px 20px;
+    }
+    
+    .custom-container,
+    .container-grid,
+    .custom-container10
+    {
+        width:90% !important;
+    }
+    
+    .dsfbsdf
+    {
+        margin-bottom:20px;
+    }
+    .fbgfjhg
+    {
+        margin-bottom:25px;
+    }
+    .vgbfdf
+    {
+        padding:10px;
+    }
+     .insta1 {
+      position: absolute;
+      width: 7vw !important;
+      top: 72vw;
+      left: 71vw;
+    }
+
+    .insta3 {
+      position: absolute;
+      width: 13vw !important;
+      top: 91vw;
+      left: 81vw;
+    }
+    .baaimg2{
+        width: 19vw !important;
+        top: 61.5% !important;
+        left: 33% !important;
+    }
+        .baaimg3{
+       width: 26vw !important;
+        top: 64% !important;
+        right: 3.5% !important;
+    }
 }
 
 
@@ -979,6 +1198,39 @@
     top: 97vw;
     left: 81vw;
   }
+
+     .btn126{
+        margin-left: 0 !important;
+    }
+
+    .insta1 {
+    position: absolute;
+    width: 7.2vw !important;
+    top: 78vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 14vw !important;
+    top: 97vw;
+    left: 81vw;
+  }
+  .baaimg2 {
+        width: 19vw !important;
+        top: 63.5% !important;
+        left: 33% !important;
+    }
+    .baaimg3{
+        width: 26vw !important;
+        top: 67% !important;
+        right: 3.5% !important;
+    }
+        .baaimg1{
+        width: 17vw !important;
+        bottom: 3% !important;
+        left: 7% !important;
+    }
 }
 
 
@@ -1000,6 +1252,34 @@
     top: 119vw;
     left: 81vw;
   }
+
+    .sdcsdfeewwwww ul{
+        display: block;
+    }
+     .insta1 {
+    position: absolute;
+    width: 7vw !important;
+    top: 100vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 13vw !important;
+    top: 119vw;
+    left: 81vw;
+  }
+  .baaimg2{
+        width: 19vw !important;
+        top: 70.5% !important;
+        left: 33% !important;
+    }
+    .baaimg3{
+        width: 26vw !important;
+        top: 73% !important;
+        right: 3.5% !important;
+    }
+
 }
 
 
@@ -1030,6 +1310,40 @@
         top: 136vw;
         left: 81vw;
       }
+
+            .btn125
+    {
+        padding:14px 12px;
+    }
+    
+     .btn126
+    {
+        padding:14px 12px;
+    }
+    .fhgdfg h2 {
+        font-size:35px;
+    }
+     .insta1 {
+        position: absolute;
+        width: 8vw !important;
+        top: 118vw;
+        left: 70vw;
+      }
+
+      .insta3 {
+        position: absolute;
+        width: 15vw !important;
+        top: 136vw;
+        left: 81vw;
+      }
+      .baaimg2{
+        width: 19vw !important;
+        top: 73.5% !important;
+        left: 33% !important;
+    }
+
+    
+
 
 }
 
@@ -1064,6 +1378,39 @@
       top: 142vw;
       left: 81vw;
     }
+        h2 
+    {
+        font-size:30px !important;
+    }
+    
+       .btn125
+    {
+        padding:14px 10px;
+    }
+    
+     .btn126
+    {
+        padding:14px 10px;
+    }
+
+     .insta1 {
+      position: absolute;
+      width: 8vw !important;
+      top: 123vw;
+      left: 70vw;
+    }
+
+    .insta3 {
+      position: absolute;
+      width: 14vw !important;
+      top: 142vw;
+      left: 81vw;
+    }
+    .baaimg2{
+        width: 19vw !important;
+        top: 74% !important;
+        left: 33% !important;
+    }
   }
 
   @media only screen and (max-width:360px) 
@@ -1072,6 +1419,27 @@
   {
     margin-bottom:30px !important;
   }
+
+  .btn125
+  {
+    margin-bottom:30px !important;
+  }
+      .baaimg2{
+        width: 19vw !important;
+        top: 75% !important;
+        left: 33% !important;
+    }
+    .baaimg3{
+        width: 26vw !important;
+        top: 77% !important;
+        right: 3.5% !important;
+    }
+    .baaimg1{
+        width: 17vw !important;
+        bottom: 2% !important;
+        left: 7% !important;
+    }
+    
 
   }
 
@@ -1091,6 +1459,31 @@
     left: 81vw;
   }
 
+    .insta1 {
+    position: absolute;
+    width: 7.5vw !important;
+    top: 156vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 14vw !important;
+    top: 175vw;
+    left: 81vw;
+  }
+  .baaimg2{
+        width: 19vw !important;
+        top: 79.5% !important;
+        left: 33% !important;
+    }
+    .baaimg3{
+        width: 26vw !important;
+        top: 81% !important;
+        right: 3.5% !important;
+    }
+
+
 }
 @media only screen and (max-width:281px) {
   .insta1 {
@@ -1106,6 +1499,35 @@
     top: 204vw;
     left: 81vw;
   } 
+
+   .insta1 {
+    position: absolute;
+    width: 7.5vw !important;
+    top: 185vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 14vw !important;
+    top: 204vw;
+    left: 81vw;
+  } 
+    .baaimg2{
+        width: 19vw !important;
+        top: 89% !important;
+        left: 33% !important;
+    }
+        .baaimg3{
+        width: 26vw !important;
+        top: 90.5% !important;
+        right: 3.5% !important;
+    }
+   .baaimg1 {
+        width: 17vw !important;
+        top: 98.5% !important;
+        left: 7% !important;
+    }
 
 
 

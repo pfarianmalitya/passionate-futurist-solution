@@ -116,7 +116,7 @@ const ServiceEnquiryForm = ({ loading, slug }) => {
                   <div className="dfbnhdfdf">
                     <h2>{serviceFormDatas.title ? serviceFormDatas.title : "Get Free SEO Analysis?"}</h2>
 
-                    <p>{serviceFormDatas.description ? serviceFormDatas.description : "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim,"}</p>
+                    <p>{serviceFormDatas.description ? serviceFormDatas.description : "We’ll review your website’s SEO performance and send a clear, actionable report to help you boost your rankings."}</p>
                   </div>
                   
                   <div className="row">

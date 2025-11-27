@@ -862,6 +862,16 @@ p a{
     position: absolute;
     width: 5vw;
 }
+
+  .sasimg1 {
+    top: 23vw !important;
+    left: 7vw !important;
+  }
+
+  .sasimg3 {
+    top: 23vw !important;
+    left: 59vw !important;
+  }
   
 
 }
@@ -957,6 +967,16 @@ p a{
         top: 421px;
         width: 9vw;
     }
+
+      .sasimg1 {
+        top: 27vw !important;
+        left: 8vw !important;
+      }
+
+      .sasimg3 {
+        top: 30vw !important;
+        left: 61vw !important;
+      }
 
   
 }
@@ -1067,6 +1087,16 @@ p a{
         top: 41.8rem !important;
         width: 12vw !important;
     }
+
+     .sasimg1 {
+    top: 33vw !important;
+    left: 8vw !important;
+  }
+
+  .sasimg3 {
+    top: 34vw !important;
+    left: 61vw !important;
+  }
 }
 
 
@@ -1143,6 +1173,16 @@ p a{
     bottom:14%;
     left:11%;
     animation: arti2 2s infinite linear;
+  }
+
+    .sasimg1 {
+    top: 44vw !important;
+    left: 8vw !important;
+  }
+
+  .sasimg3 {
+    top: 45vw !important;
+    left: 61vw !important;
   }
   
 }
@@ -1557,8 +1597,106 @@ p a{
     left:11%;
     animation: arti2 2s infinite linear;
   }
+
+   .sasimg1 {
+    top: 61vw !important;
+    left: 7vw !important;
+  }
+
+  .sasimg3 {
+    top: 62vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 46vw !important;
+    left: 23vw !important;
+    width: 15vw !important;
+  }
+
+  .img3 {
+    top: 78vw !important;
+    left: 65vw !important;
+    width: 15vw !important;
+  }
+
+  .img2 {
+    top: 78vw !important;
+    left: 23vw !important;
+    width: 15vw !important;
+  }
+
+  .img4 {
+    top: 46vw !important;
+    left: 64vw !important;
+    width: 15vw !important;
+  }
+
+  .img5 {
+    top: 63vw !important;
+    left: 73vw !important;
+    width: 15vw !important;
+
+  }
+
+  .img6 {
+    top: 62vw !important;
+    left: 13vw !important;
+    width: 15vw !important;
+  }
   
 }
+
+@media only screen and (max-width:801px) {
+
+  .sasimg1 {
+    top: 78vw !important;
+    left: 7vw !important;
+  }
+
+  .sasimg3 {
+    top: 78vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 54vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 89vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 89vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img4 {
+    top: 54vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 72vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 72vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
+}
+
 
 
 
@@ -1667,6 +1805,56 @@ p a{
     left:11%;
     animation: arti2 2s infinite linear;
   }
+
+   .sasimg1 {
+    top: 129vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 131vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 75vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 108vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img2 {
+    top: 108vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img4 {
+    top: 75vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 92vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 91vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
 }
 
 
@@ -1750,6 +1938,55 @@ p a{
     bottom:14%;
     left:11%;
     animation: arti2 2s infinite linear;
+  }
+
+   .sasimg1 {
+    top: 165vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 167vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 90vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 125vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 125vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img4 {
+    top: 90vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 108vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 106vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
   }
 }
 
@@ -1905,6 +2142,55 @@ p a{
         left: 8%;
    
     }
+
+     .sasimg1 {
+    top: 236vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 236vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 125vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 159vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 160vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img4 {
+    top: 123vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 141vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 142vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
 }
 
 
@@ -1988,6 +2274,55 @@ p a{
       left:11%;
       animation: arti2 2s infinite linear;
     }
+
+     .sasimg1 {
+    top: 259vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 259vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 134vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 170vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 170vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img4 {
+    top: 133vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 152vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 152vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
 }
 
 
@@ -2144,6 +2479,55 @@ p a{
 
     }
 
+     .sasimg1 {
+    top: 277vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 277vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 141vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 176vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 177vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img4 {
+    top: 141vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 158vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 159vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
+
 }
 
 
@@ -2241,6 +2625,55 @@ p a{
       left:11%;
       animation: arti2 2s infinite linear;
     }
+    
+
+     .sasimg1 {
+    top:304vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 304vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 148vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 182vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 183vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+  }
+
+  .img4 {
+    top: 148vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 165vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 165vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
 
 }
 
@@ -2326,7 +2759,186 @@ p a{
       animation: arti2 2s infinite linear;
     }
 
+
+   .sasimg1 {
+    top:329vw !important;
+    left: 7vw !important;
+
+  }
+
+  .sasimg3 {
+    top: 329vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 153vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 189vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 189vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+  }
+
+  .img4 {
+    top: 153vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 170vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 170vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
+
 }
+
+@media only screen and (max-width:320px) {
+
+   .sasimg1 {
+    top:410vw !important;
+    left: 7vw !important;
+  }
+  .sasimg2 {
+    top:427vw !important;
+    left: 7vw !important;
+  }
+  .sasimg3 {
+    top: 410vw !important;
+    left: 59vw !important;
+  }
+  .sasimg4 {
+    top: 427vw !important;
+    left: 59vw !important;
+  }
+
+  .img1 {
+    top: 197vw !important;
+    left: 23vw !important;
+    width: 17vw !important;
+  }
+
+  .img3 {
+    top: 233vw !important;
+    left: 65vw !important;
+    width: 17vw !important;
+  }
+
+  .img2 {
+    top: 233vw !important;
+    left: 21vw !important;
+    width: 17vw !important;
+  }
+
+  .img4 {
+    top: 196vw !important;
+    left: 64vw !important;
+    width: 17vw !important;
+  }
+
+  .img5 {
+    top: 215vw !important;
+    left: 73vw !important;
+    width: 17vw !important;
+
+  }
+
+  .img6 {
+    top: 215vw !important;
+    left: 13vw !important;
+    width: 17vw !important;
+  }
+}
+
+
+@media only screen and (max-width:281px) {
+  .image1 {
+    position: absolute;
+    width: 28vw !important;
+    height: auto !important;
+    left: 68vw;
+    top: 290.5vw;
+  }
+
+  .image4 {
+    position: absolute;
+    width: 30vw !important;
+    height: auto !important;
+    right: 5vw;
+    bottom: 4.5vw;
+  }
+
+  .image3 {
+    position: absolute;
+    width: 36vw !important;
+    height: auto !important;
+    left: 6vw;
+    bottom: 4vw;
+  }
+
+  .transit01 {
+    position: absolute;
+    width: 24vw !important;
+    top: 0.5vw;
+    left: 40vw;
+  }
+
+  .transit02 {
+    position: absolute;
+    width: 17vw !important;
+    top: 18.5vw;
+    right: 16vw;
+  }
+
+  .transit05 {
+    position: absolute;
+    width: 17vw !important;
+    top: 20vw;
+    left: 13.5vw;
+  }
+
+  .bu3 {
+    position: absolute;
+    height: auto !important;
+    width: 14.5vw !important;
+    bottom: 37vw;
+    right: 24vw;
+  }
+
+  .bu1 {
+    position: absolute;
+    height: auto !important;
+    width: 17.5vw !important;
+    bottom: 11.5vw;
+    right: 56vw;
+  }
+
+  .bu2 {
+    position: absolute;
+    height: auto !important;
+    width: 15.5vw !important;
+    bottom: 1.5vw;
+    right: 36.5vw;
+  }
+}
+
 
 
 

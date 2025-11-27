@@ -49,7 +49,11 @@ export const Aboutus = () => {
                 <Link to="/contact-us" className="btn125">
                   Contact Us
                 </Link>
-                <button className="btn126">Get In Touch With Us</button>
+               <button className="btn126">
+                    <a href="tel:8420202891" style={{ color: "inherit", textDecoration: "none" }}>
+                    Get In Touch With Us
+                    </a>
+              </button>
               </div>
             </div>
 
@@ -94,25 +98,47 @@ export const Aboutus = () => {
                       <div className="row">
                         <div className="col-lg-6">
                           <div className={styles.sdbfdf}>
-                            <p>
-                              <i className="fa-solid fa-square-check"></i> 
+                             <div className="row">
+                              <div className="col-lg-2"> <i className="fa-solid fa-square-check"></i> </div>
+                            <div className="col-lg-10">  
+                               <p>
                               {AboutUsDetails.data?.second_section_sub_title_one && (AboutUsDetails.data.second_section_sub_title_one)}
-                            </p>
-                            <p>
-                              <i className="fa-solid fa-square-check"></i> 
+                            </p></div>
+                             </div>
+
+                              <div className="row">
+                                <div className="col-lg-2"> <i className="fa-solid fa-square-check"></i> </div>
+                                 <div className="col-lg-10"><p>
                               {AboutUsDetails.data?.second_section_sub_title_two && (AboutUsDetails.data.second_section_sub_title_two)}
-                            </p>
+                            </p></div>
+                              </div>
+
+
+
                           </div>
                         </div>
                         <div className="col-lg-6">
-                          <p>
-                            <i className="fa-solid fa-square-check"></i>
+                          <div className="row">
+                            <div className="col-lg-2"> <i className="fa-solid fa-square-check"></i></div>
+                            <div className="col-lg-10">                           <p>
                             {AboutUsDetails.data?.second_section_sub_title_three && (AboutUsDetails.data.second_section_sub_title_three)}
-                          </p>
-                          <p>
-                            <i className="fa-solid fa-square-check"></i> 
-                            {AboutUsDetails.data?.second_section_sub_title_four && (AboutUsDetails.data.second_section_sub_title_four)}
-                          </p>
+                          </p></div>
+                          </div>
+
+                          <div className="row">
+                            <div className="col-lg-2">
+                               <i className="fa-solid fa-square-check"></i> 
+                            </div>
+                            <div className="col-lg-10">
+                            <p>
+                              {AboutUsDetails.data?.second_section_sub_title_four && (AboutUsDetails.data.second_section_sub_title_four)}
+                            </p>
+                            </div>
+                          </div>
+
+
+
+
                         </div>
                       </div>
                     </div>
