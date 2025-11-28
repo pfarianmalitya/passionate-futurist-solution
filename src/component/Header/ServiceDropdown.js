@@ -18,10 +18,9 @@ const ServicesDropdownMenu = ({ CategoryDetails = [] }) => {
         onMouseEnter={toggleDropdown}
         aria-expanded={isOpen}
       >
-        <a href="javascript:void(0);">
           <i className="fa fa-handshake" /> Services
           <b className="caret"></b>
-        </a>
+
       </button>
 
       {isOpen && (
