@@ -10,8 +10,8 @@
 .sdfghdfgdf {
     width: 50%;
     float: left;
-    /* padding: 70px;
-     */
+    padding: 70px;
+    
 }
 
 .sdfghdfgdf h1 {
@@ -1033,13 +1033,13 @@
     .img5 
     {
         width: 18vw !important;
-        bottom: 16% !important;
+        bottom: 30% !important;
 
     }
        .img4
     {
         width: 17vw !important;
-        bottom: 6% !important;
+        bottom: 23% !important;
     }
          .img3
     {

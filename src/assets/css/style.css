@@ -152,7 +152,7 @@ main{
 }
 
 .dfjhsdfsd{
-  padding: 10rem 0 5rem 0;
+  padding: 0rem 0 5rem 0;
 }
 
 .custom-container {
@@ -174,9 +174,9 @@ main{
     height: auto !important;
   }
 
-  .dfjhsdfsd {
+  /* .dfjhsdfsd {
     padding: 5rem 0 2rem 0;
-  }
+  } */
 
   .fdfgdfg{
     text-align: center;
