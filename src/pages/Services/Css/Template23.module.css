@@ -251,17 +251,7 @@
 
 
 @media only screen and (max-width:2551px){
-.ldsimg2 {
-    right: 20.9% !important;
-    top: 11% !important;
-    width: 13.2rem !important;
-  }
 
-  .ldsimg3 {
-    right: 35% !important;
-    top: 24.7% !important;
-    width: 17.4rem !important;
-  }
 
   .ldsimg4 {
     right: 3% !important;
@@ -273,6 +263,18 @@
     bottom: 48.1% !important;
     right: 35.6% !important;
     width: 18rem !important;
+  }
+
+  .ldsimg2 {
+    right: 20.9% !important;
+    top: 11% !important;
+    width: 13.2rem !important;
+  }
+
+  .ldsimg3 {
+    right: 35% !important;
+    top: 24.7% !important;
+    width: 17.4rem !important;
   }
 
   .ldsimg6 {
@@ -327,17 +329,7 @@
 }
 
 @media only screen and (max-width:1600px){
-.ldsimg1 {
-    bottom: 53% !important;
-    right: 15.3% !important;
-    width: 19rem !important;
-  }
 
-  .ldsimg2 {
-    right: 20vw !important;
-    top: 16% !important;
-    width: 9.2rem !important;
-  }
 
   .ldsimg4 {
     right: 2% !important;
@@ -350,6 +342,18 @@
     top: 30.5% !important;
     width: 11.4rem !important;
 
+  }
+
+  .ldsimg1 {
+    bottom: 53% !important;
+    right: 15.3% !important;
+    width: 19rem !important;
+  }
+
+  .ldsimg2 {
+    right: 20vw !important;
+    top: 16% !important;
+    width: 9.2rem !important;
   }
 
   .ldsimg5 {
