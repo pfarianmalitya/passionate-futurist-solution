@@ -69,7 +69,7 @@ export const Portfolio = () => {
                       )
                     )
                     .map((portfolioSecondSection, idx) => (
-                      <div className="col-lg-3" key={idx}>
+                      <div className="col-lg-3 col-sm-6 " key={idx}>
                         <div className={styles.njfgh}>
                           {portfolioSecondSection?.image && (
                             <img
@@ -95,7 +95,7 @@ export const Portfolio = () => {
                       )
                     )
                     .map((portfolioSecondSection, idx) => (
-                      <div className="col-lg-3" key={`second-${idx}`}>
+                      <div className="col-sm-6 col-lg-3" key={`second-${idx}`}>
                         <div className={styles.njfgh}>
                           {portfolioSecondSection?.image && (
                             <img
