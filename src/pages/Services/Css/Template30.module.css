@@ -105,6 +105,11 @@
   background-color: #40444E;
 }
 
+.heading span 
+{
+  padding-left: 5px;
+}
+
 .gdfjkghdgsd h5 {
   color: white;
   font-size: 25px;
@@ -173,6 +178,18 @@
   font-size: 40px;
   font-weight: 600;
   padding: 10px 0;
+}
+
+.fbgdfgdfgdf button {
+    background-color: rgb(1, 118, 211);
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 4px;
+    padding: 12px 30px;
 }
 
 .njhfbg5654 {

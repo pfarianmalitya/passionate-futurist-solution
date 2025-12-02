@@ -1398,7 +1398,7 @@ position: absolute;
 }
 .img2{
     position: absolute;
-    width: 12vw ;
+    width: 12vw !important;
     height: auto ;
     top: 22%;
     left: 65.5%;
@@ -1412,7 +1412,7 @@ position: absolute;
 }
 .img3{
 position: absolute;
-    width: 12vw ;
+    width: 12vw !important;
     height: auto ;
     top: 9%;
     left: 44%;
@@ -1425,7 +1425,7 @@ position: absolute;
 }
 .img4{
     position: absolute;
-    width: 12vw ;
+    width: 12vw  !important;
     height: auto ;
     top: 63%;
     left: 74%;
@@ -1438,7 +1438,7 @@ position: absolute;
 
 .img5{
     position: absolute;
-    width: 12vw ;
+    width: 12vw  !important;
     height: auto ;
     top: 21%;
     left: 22.5%;

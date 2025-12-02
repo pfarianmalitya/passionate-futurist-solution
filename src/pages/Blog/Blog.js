@@ -112,7 +112,7 @@ export const Blog = () => {
                                   <Link to={`/blog/${allBlogs.slug}`}>
                                     <h4>{allBlogs.blog_title}</h4>
                                   </Link>
-                                  <p>{allBlogs.short_description}</p>
+                                  <p>{`${allBlogs.short_description.substring(0 , 50)}...`}</p>
                                   <Link to={`/blog/${allBlogs.slug}`}>
                                     <button>Read More..</button>
                                   </Link>
