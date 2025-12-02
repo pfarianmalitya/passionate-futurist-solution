@@ -832,16 +832,18 @@
   .img2{
     top: 88% !important;
   }
-  .img3{
-    top: 82.5% !important;
-  }
-  .wasimg3{
+
+    .wasimg3{
     right: 18.5% !important;
   }
   .wasimg4{
     bottom: 12.5% !important;
     right: 18.5% !important;
   }
+  .img3{
+    top: 82.5% !important;
+  }
+
 }
 
 @media only screen and (max-width:415px){
