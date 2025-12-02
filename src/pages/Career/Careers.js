@@ -11,16 +11,14 @@ export const Careers = () => {
   const navigate = useNavigate();
   useTitle("Career");
 
-  const [loading, setLoading] = useState(false);
   const [CareerDetails, setCareerDetails] = useState({});
+  const [loading, setLoading] = useState(false);  
   
     useEffect(() => {
       const fetchCareerData = async () => {
         setLoading(true);
         try {
-          const getresponse = await http.get(
-            `${process.env.REACT_APP_CAREERFETCHAPI}`
-          );
+          const getresponse = await http.get(`${process.env.REACT_APP_CAREERFETCHAPI}`);
           setCareerDetails(getresponse.data);
 
         } catch (error) {
@@ -40,7 +38,7 @@ export const Careers = () => {
       {loading && <Loader />}     
       <main style={{ paddingTop: '7.5rem' }}>
       <div className={styles.cdghvgdfvgfd} style={{
-        backgroundImage: `url(${CareerDetails?.image_url}/${CareerDetails?.data?.banner_image})`,
+        backgroundImage: `url(${CareerDetails.image_url}/${CareerDetails?.data?.banner_image})`,
       }}>
         <div className="container">
           <div className={styles.dfgdfgdf65858}>

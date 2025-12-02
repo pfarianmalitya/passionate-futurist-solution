@@ -760,7 +760,7 @@ export const Home = ({ state }) => {
             }}
           />
 
-          <button className="btn btn-custm-bttn mt-3">View All Projects</button>
+         <Link to="/portfolio"> <button className="btn btn-custm-bttn mt-3">View All Projects</button> </Link>
         </div>
       </div>
 

@@ -146,3 +146,32 @@
 .dgbdfd54874 {
   background-color: #d1d6d9;
 }
+
+@media only screen and (max-width:991px)
+{
+  .dfdf986g 
+  {
+    height: auto;
+    margin-bottom: 30px;
+  }
+
+  .gdfghdfgdf ul.tabs li {
+    background: none;
+    color: #ffffff;
+    display: inline-block;
+    padding: 15px 20px;
+    cursor: pointer;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 17px;
+    margin-right: 8px;
+    margin-bottom: 15px;
+    border: 2px solid #032D60;
+    background: #032D60;
+  }
+
+  .dfgdfg54254 
+  {
+    height: auto;
+  }
+}
