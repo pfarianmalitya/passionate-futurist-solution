@@ -872,7 +872,10 @@
         font-size:35px;
     } 
 
-    
+      .img3{
+    top: 83% !important;
+  }
+  
 
   .img2{
     top: 88.9% !important;
@@ -880,9 +883,7 @@
    .wasimg4{
     bottom: 12% !important;
   }
-  .img3{
-    top: 83% !important;
-  }
+
  
 
 }
