@@ -1,6 +1,31 @@
+import { Link } from "react-router-dom";
 import "./Footer.css";
+import http from "../../http";
+import { useEffect, useState } from "react";
 
 export const Footer = () => {
+
+  const [FooterBlogDetails, setFooterBlogDetails] = useState({ footer_blogs: [] });
+
+    useEffect(() => {
+      const fetchContactUsData = async () => {
+        // setLoading(true);
+          try {
+          const getresponse = await http.get(`${process.env.REACT_APP_FOOTERBLOGAPI}`);
+          setFooterBlogDetails(getresponse.data);
+  
+          } catch (error) {
+              console.error("Error fetching users:", error);
+          }
+          //  finally{
+          //     setLoading(false);
+          // }
+    }; 
+
+    fetchContactUsData();
+    }, []);
+
+
   return (
     <section className="footer">
   <div className="container">
@@ -9,59 +34,63 @@ export const Footer = () => {
         <h4>Navigate</h4>
         <ul className="footer-menu">
           <li>
-            <a href="/">
+            <Link to={"/"}>
               <i className="fa fa-home" /> Home
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/about-us">
+            <Link to={"about-us"}>
               <i className="fa fa-users" /> About Us
-            </a>
+            </Link>
           </li>
-          <li>
+          {/* <li>
             
-            <a href="/services">
+            <Link to={"services"}>
               <i className="fa fa-handshake" /> Services
-            </a>
-          </li>
+            </Link>
+          </li> */}
           <li>
-            <a href="/our-portfolio">
+            <Link to={"portfolio"}>
               <i className="fa fa-briefcase"/> Portfolio
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/business-register">
+            <Link to={"business-register"}>
               <i className="fa fa-pencil-square"/> Business Register 
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/careers">
+            <Link to={"careers"}>
               <i className="fa fa-signal"/> Career
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/blogs">
-             <i class="fa-solid fa-blog"></i> Blog
-            </a>
+            <Link to={"blogs"}>
+              <i class="fa-solid fa-blog"></i> Blog
+            </Link>
           </li>
           <li>
-            <a href="/contact-us">
-              <i className="fa fa-envelope"/> Contact
-            </a>
+            <Link to={"contact-us"}>
+             <i className="fa fa-envelope"/> Contact
+            </Link>
           </li>
         </ul>
       </div>
       <div className="col-12 col-md-5">
         <h4>Recent Blogs</h4>
         <ul className="recent-blogs">
-          <li>
-            <a href="/blog-details/{{$blogs->id}}">
-              Is Your Business Getting Noticed? Get a Logo.  <br />{" "}
-              <strong>
-              October 25, 2017
-              </strong>
-            </a>
-          </li>
+          {FooterBlogDetails.footer_blogs?.map((blog, index) => (
+            <li key={index}>
+              <a href={`/blog/${blog.slug}`}>
+                {blog.blog_title} <br />
+                <strong>{new Date(blog.blog_date).toLocaleDateString("en-US", {
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric"
+                      })}</strong>
+              </a>
+            </li>
+          ))}
         </ul>
       </div>
       <div className="col-12 col-md-5">

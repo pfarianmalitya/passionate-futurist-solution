@@ -36,12 +36,12 @@ const ServicesDropdownMenu = ({ CategoryDetails = [] }) => {
               onMouseLeave={() => setSubmenuIndex(null)}
             >
               <div className="d-flex ishdifhiddd align-items-center">
-                <NavLink
+                <div
                   className="dropdown-item"
-                  to={`/${category.category_slug}`}
+                  // to={`/${category.category_slug}`}
                 >
                   {category.category_name}
-                </NavLink>
+                </div>
                 {category.subcategories.length > 0 && (
                   <div className="sdihfisdfttt">&raquo;</div>
                 )}

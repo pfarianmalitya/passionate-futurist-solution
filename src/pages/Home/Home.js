@@ -205,11 +205,11 @@ export const Home = ({ state }) => {
                   className="btn btn-custm-bttn me-3"
                   id="frm-modal-button"
                 >
-                  <a href="/business-register">Get Started</a>
+                  <Link to={"business-register"}>Get Started</Link>
                 </button>
 
                 <button className="btn btn-custm-bttn-2">
-                  <a href="/contact-us">Contact Us</a>
+                   <Link to={"contact-us"}>Contact Us</Link>
                 </button>
               </div>
             </div>
